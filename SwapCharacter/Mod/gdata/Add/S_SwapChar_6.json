@@ -1,0 +1,38 @@
+{
+    "S_SwapChar_6": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Phoenix/Phoenix_3",
+        "Target": "self",
+        "Name": "Analyze Battlefield",
+        "Description": "",
+        "User": "SwapChar",
+        "NotCount": true,
+        "Counting": 2,
+        "NoBasicSkill": false,
+        "Fatal": false,
+        "Effect_Target": "SE_T_S_SwapChar_6",
+        "UseAp": 1,
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "Basic": false,
+        "Track": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "SkillExtended": [
+            "SwapCharacter.S_SwapChar_6"
+        ],
+        "PlusKeyWords": [
+            
+        ],
+        "Image_0": "S_SwapChar_6\\S_SwapChar_6_Image_0.png",
+        "Image_1": "S_SwapChar_6\\S_SwapChar_6_Image_1.png",
+        "Image_2": "S_SwapChar_6\\S_SwapChar_6_Image_2.png"
+    }
+}

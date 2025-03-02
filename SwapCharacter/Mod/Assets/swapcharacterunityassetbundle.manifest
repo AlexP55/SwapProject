@@ -1,0 +1,113 @@
+ManifestFileVersion: 0
+CRC: 649535442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 617423eb5ef4cb04945e196316805222
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e23dbf17e31b51a56c7256141b00c52c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 963764591, guid: e53eb16073e825813b9eaf7402741a9d, type: 3}
+- Class: 114
+  Script: {fileID: -1086786121, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+- Class: 114
+  Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+- Class: 114
+  Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+- Class: 114
+  Script: {fileID: 1938751104, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+- Class: 114
+  Script: {fileID: 2046309494, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+- Class: 114
+  Script: {fileID: 1987616212, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+- Class: 114
+  Script: {fileID: -248395274, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+- Class: 114
+  Script: {fileID: 1453227286, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+- Class: 114
+  Script: {fileID: -645878220, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+- Class: 114
+  Script: {fileID: -722592445, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+- Class: 114
+  Script: {fileID: -659726333, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+- Class: 114
+  Script: {fileID: -186293530, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 713f75bbce579b74b8f07c14db429440, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b5b5564feedd4cd498c1adbea0f32cfe, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+Assets:
+- Assets/ModAssets/ModDialogues/FS_SwapChar_Lv2.asset
+- Assets/ModAssets/SwapChar_Rare_2_skin2_VFX.prefab
+- Assets/ModAssets/ModDialogues/FS_SwapChar_Lv1.asset
+- Assets/ModAssets/SwapChar_1_VFX.prefab
+- Assets/ModAssets/ModDialogues/FS_SwapChar_Lv3.asset
+- Assets/ModAssets/SwapChar_Rare_2_skin1_VFX.prefab
+- Assets/ModAssets/BuffTutorial.asset
+- Assets/ModAssets/ModDialogues/TrueEndPoint_SwapChar_After2.asset
+- Assets/ModAssets/SwapChar_3_VFX.prefab
+- Assets/ModAssets/ModDialogues/TrueEndPoint_SwapChar_Final.asset
+- Assets/ModAssets/ModDialogues/TrueEndPoint_SwapChar_After.asset
+- Assets/ModAssets/SwapChar_Rare_2_VFX.prefab
+- Assets/ModAssets/ModDialogues/ClockTower_SwapChar.asset
+- Assets/ModAssets/SwapChar_3_skin2_VFX.prefab
+- Assets/ModAssets/FormationBase.prefab
+- Assets/ModAssets/ModDialogues/LastStory_SwapChar.asset
+- Assets/ModAssets/SwapChar_3_skin1_VFX.prefab
+- Assets/ModAssets/ModDialogues/FS_SwapChar_Gift_Violin.asset
+- Assets/ModAssets/SwapTutorial.asset
+- Assets/ModAssets/ModDialogues/FS_SwapChar_Gift_Tool.asset
+- Assets/ModAssets/ModDialogues/KingNPC_SwapChar.asset
+- Assets/ModAssets/ModDialogues/TrueEndPoint_SwapChar_2.asset
+- Assets/ModAssets/ModDialogues/FS_SwapChar_Gift_Knife.asset
+- Assets/ModAssets/ModDialogues/TrueEndPoint_SwapChar_0.asset
+- Assets/ModAssets/ModDialogues/TrueEndPoint_SwapChar_1.asset
+- Assets/ModAssets/ModDialogues/Ark_SwapChar.asset
+- Assets/ModAssets/ModDialogues/FS_SwapChar_Gift_Normal.asset
+- Assets/ModAssets/ModDialogues/ComingSoon.asset
+Dependencies: []

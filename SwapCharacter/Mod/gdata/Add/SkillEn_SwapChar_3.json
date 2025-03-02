@@ -1,0 +1,12 @@
+{
+    "SkillEn_SwapChar_3": {
+        "_gdeSchema": "SkillExtended",
+        "Name": "When in hand, every 2 times two allies swap with each other, cost -1",
+        "Drop": true,
+        "EnforceString": "",
+        "NeedCharacter": "SwapChar",
+        "ClassName": "SwapCharacter.SkillEn_SwapChar_3",
+        "AlwaysParticle": false,
+        "IsOnesInit": false
+    }
+}

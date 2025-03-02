@@ -1,0 +1,8 @@
+{
+    "S_ProgramMaster_1_Select": {
+        "_gdeSchema": "Skill",
+        "SkillExtended": [
+            "SwapCharacter.Extended_ExceptDummy"
+        ]
+    }
+}

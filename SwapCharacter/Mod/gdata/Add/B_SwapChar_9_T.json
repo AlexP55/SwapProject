@@ -1,0 +1,17 @@
+{
+    "B_SwapChar_9_T": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "SwapCharacter.B_SwapChar_9_T",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "Name": "Counter-Protected",
+        "Description": "",
+        "LifeTime": 2,
+        "Icon": "B_SwapChar_9_T\\B_SwapChar_9_T_Icon.png",
+        "BuffSoundEffect": "LianPassive"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "B_EquipUnique_SwapChar": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "SwapCharacter.B_EquipUnique_SwapChar",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "Name": "Spear of Protection",
+        "Description": "",
+        "Icon": "B_EquipUnique_SwapChar\\B_EquipUnique_SwapChar_Icon.png"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "S_S_TheLight_P_1": {
+        "_gdeSchema": "Skill",
+        "SkillExtended": [
+            "SwapCharacter.Extended_ExceptDummy"
+        ]
+    }
+}

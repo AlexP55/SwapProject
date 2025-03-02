@@ -1,0 +1,19 @@
+{
+    "B_SwapChar_Rare_1_T": {
+        "_gdeSchema": "Buff",
+        "ClassName": "SwapCharacter.B_SwapChar_Rare_1_T",
+        "BuffTag": "null",
+        "Name": "Hold the Line!",
+        "Description": "",
+        "LifeTime": 3,
+        "MaxStack": 6,
+        "Icon": "B_SwapChar_Rare_1_T\\B_SwapChar_Rare_1_T_Icon.png",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "AllyBuffEffect": "BuffEffect/Enemy/CounterAttack",
+        "BuffSoundEffect": "LianPassive"
+    }
+}

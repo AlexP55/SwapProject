@@ -1,0 +1,39 @@
+{
+    "S_SwapChar_Rare_2": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Rare": true,
+        "Target": "enemy",
+        "User": "SwapChar",
+        "NotCount": true,
+        "Disposable": false,
+        "NoBasicSkill": true,
+        "Name": "Piercing Tempest",
+        "Description": "",
+        "NotChuck": false,
+        "UseAp": 1,
+        "PlusKeyWords": [
+            
+        ],
+        "Counting": 3,
+        "SkillExtended": [
+            "SwapCharacter.S_SwapChar_Rare_2"
+        ],
+        "IgnoreTaunt": false,
+        "NODOD": false,
+        "HealSkill": false,
+        "NoDrop": false,
+        "Except": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "VFX": true,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "Effect_Target": "SE_T_S_SwapChar_Rare_2",
+        "Image_0": "S_SwapChar_Rare_2\\S_SwapChar_Rare_2_Image_0.png",
+        "Image_1": "S_SwapChar_Rare_2\\S_SwapChar_Rare_2_Image_1.png",
+        "Image_2": "S_SwapChar_Rare_2\\S_SwapChar_Rare_2_Image_2.png",
+        "Particle": "Assets/ModAssets/SwapChar_Rare_2_VFX.prefab"
+    }
+}

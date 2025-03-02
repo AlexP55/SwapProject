@@ -1,0 +1,16 @@
+{
+    "id": "SwapBaseMethod",
+    "Uploader": "surprise4u",
+    "Visibility": "Public",
+    "Title": "SwapBaseMethodTitle",
+    "Author": "surprise4u",
+    "Version": "1.1.5",
+    "Description": "SwapBaseMethodDescription",
+    "TagList": [
+        "Modding Tools"
+    ],
+    "Cover": "SwapBaseMethodCover.png",
+    "OnlyUploadFiles": true,
+    "WorkShopId": "3362917203",
+    "ChangeNote": "Bug fix"
+}

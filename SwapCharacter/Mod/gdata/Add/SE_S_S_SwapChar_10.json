@@ -1,0 +1,11 @@
+{
+    "SE_S_S_SwapChar_10": {
+        "_gdeSchema": "SkillEffect",
+        "Buffs": [
+            "B_SwapChar_10_S"
+        ],
+        "BuffPlusTagPer": [
+            0
+        ]
+    }
+}

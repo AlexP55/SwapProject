@@ -1,0 +1,23 @@
+{
+    "myKey": "SwapChar_skin2",
+    "myField": "FaceOriginChar",
+    "myValues": {
+        "path": "SwapChar_skin2\\SwapChar_skin2Main.png",
+        "offsetMax": {
+            "x": "540.582642",
+            "y": "259.4646"
+        },
+        "offsetMin": {
+            "x": "-948.508667",
+            "y": "-1651.34937"
+        },
+        "pivot": {
+            "x": "0.63603127",
+            "y": "0.861400068"
+        }
+    },
+    "MyChangeType": "FaceOriginChar",
+    "myKeys": [
+        
+    ]
+}

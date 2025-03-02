@@ -1,0 +1,1325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2046309494, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: Ark_SwapChar
+  m_EditorClassIdentifier: 
+  _guid: 8925594768604146688
+  nodes:
+  - {fileID: 114037177784398874}
+  - {fileID: 114084970908047748}
+  - {fileID: 114389722233266220}
+  - {fileID: 114646434773033180}
+  - {fileID: 114142616497692352}
+  - {fileID: 114497130909559710}
+  - {fileID: 114987314697647078}
+  - {fileID: 114690454467119276}
+  - {fileID: 114346468066582906}
+  - {fileID: 114795025920330280}
+  - {fileID: 114173456864187664}
+  - {fileID: 114048049153393392}
+  - {fileID: 114468450702267166}
+  - {fileID: 114564917286348384}
+  nodesToDelete: []
+  currentLanguageIndex: 0
+  languageKeys: 
+  completeRectOriginal:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114037177784398874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1938751104, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: Start
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114914624697056372}
+--- !u!114 &114040332153034294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 10_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114468450702267166}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 3298263052088742400
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114048049153393392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 10
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 10
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114040332153034294}
+  NameIndex: 0
+  _guid: 8128591014397811712
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    If you ever need me just give me a sign.'
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114084970908047748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -645878220, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ModStart
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: ModStart
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114259272720445286}
+  NameIndex: 0
+  _guid: 5933908174463759360
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - 
+  Audio: []
+  AudioDelay: []
+  Events1:
+  - {fileID: 114160453607809246}
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114142616497692352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 04
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 04
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114935379461675910}
+  NameIndex: 6
+  _guid: 4230511946369832960
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - I'll think about it. What are you good at?
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114156830679407206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 12_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 0}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 8271859600061831168
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114160453607809246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1453227286, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ModStartEvent
+  m_EditorClassIdentifier: 
+  FaceNodes:
+  - {fileID: 114646434773033180}
+  - {fileID: 114142616497692352}
+  - {fileID: 114795025920330280}
+  - {fileID: 114346468066582906}
+  - {fileID: 114564917286348384}
+  FacePaths:
+  - Assets/DialogueScene/image/Standing/Face/F_Lucy_0.png
+  - Assets/DialogueScene/image/Standing/Face/F_Lucy_0.png
+  - Assets/DialogueScene/image/Standing/Face/F_Lucy_0.png
+  - Assets/DialogueScene/image/Standing/Face/F_Lucy_0.png
+  - Assets/DialogueScene/image/Standing/Face/F_Lucy_0.png
+  StandingNodes:
+  - {fileID: 114389722233266220}
+  - {fileID: 114646434773033180}
+  - {fileID: 114142616497692352}
+  - {fileID: 114497130909559710}
+  - {fileID: 114987314697647078}
+  - {fileID: 114690454467119276}
+  - {fileID: 114346468066582906}
+  - {fileID: 114795025920330280}
+  - {fileID: 114173456864187664}
+  - {fileID: 114048049153393392}
+  - {fileID: 114468450702267166}
+  - {fileID: 114564917286348384}
+  StandingPaths:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  ModID: SwapCharacter
+  AssetBundlePath: swapcharacterunityassetbundle
+--- !u!114 &114173456864187664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 09
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 09
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114228994809446884}
+  NameIndex: 0
+  _guid: 7961378759141556224
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    I see... That''s a shame.'
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114228994809446884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 09_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114048049153393392}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 2510746395312385536
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114259272720445286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ModStart_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114389722233266220}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 8897214161569874944
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114310794203682540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 07_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114048049153393392}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 5766217365361225728
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114318447810129072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 02_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114646434773033180}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 213570074981532096
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114346468066582906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 07
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 07
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114310794203682540}
+  NameIndex: 6
+  _guid: 7399416506202719232
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - 'I see, that could come in handy. '
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114364980941671106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 08_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114173456864187664}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 5974254281217384448
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114389722233266220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 01
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 01
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114522483359227482}
+  NameIndex: 0
+  _guid: 2550320601953279488
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    You''re Lucy, the girl from the prophecy?'
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114410440769096566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 03_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114142616497692352}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 729803931357647232
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - I'll think about it
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114468450702267166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 11
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 11
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114914700303165264}
+  NameIndex: 0
+  _guid: 5631908858869915648
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    Training is useful but you always learn better in real combat.'
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114497130909559710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 05
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 05
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114888942974953910}
+  NameIndex: 0
+  _guid: 4370672161121074688
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    Thanks, I handle the frontlines fairly well. '
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114522483359227482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 01_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114987314697647078}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 6778447119190836224
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114564917286348384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 12
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 12
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114156830679407206}
+  NameIndex: 6
+  _guid: 904659493237554688
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - I'll think about it.
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114646434773033180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 03
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 03
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114410440769096566}
+  - {fileID: 114920848761975470}
+  NameIndex: 6
+  _guid: 884108018882049792
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - Take you with me? I can but...
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114690454467119276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 06
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 06
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114720047183952210}
+  NameIndex: 0
+  _guid: 8082838338384954368
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    Usually my job is to protect allies and cheap damage at our opponents. '
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114720047183952210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 06_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114346468066582906}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 721288540214071296
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114795025920330280
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 08
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 08
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114364980941671106}
+  NameIndex: 6
+  _guid: 3600968318572456960
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - I've already prepared a team.
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114888942974953910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 05_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114690454467119276}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 8939452287317614592
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114914624697056372
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1086786121, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: Start_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114084970908047748}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114914700303165264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 11_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114564917286348384}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 1303512610618868736
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114920848761975470
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 03_Option1
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114795025920330280}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 8797991805576641536
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - We're already full
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114935379461675910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 04_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114497130909559710}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 6146132344133051392
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114987314697647078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 02
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 02
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114318447810129072}
+  NameIndex: 0
+  _guid: 5798297425297760256
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    Can you take me with you on your next expedition?'
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0

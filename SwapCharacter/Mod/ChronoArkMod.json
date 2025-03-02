@@ -1,0 +1,43 @@
+{
+    "id": "SwapCharacter",
+    "Uploader": "surprise4u",
+    "Visibility": "Private",
+    "Title": "SwapCharacter/Title",
+    "Version": "0.4.1",
+    "Description": "SwapCharacter/Description",
+    "TagList": [
+        "Characters"
+    ],
+    "DefaultAssetBundlePath": "swapcharacterunityassetbundle",
+    "WorkShopId": "3353336492",
+    "ChangeNote": "Update machine translations for JP and KR",
+    "OnlyUploadFiles": true,
+    "Author": "surprise4u, Mazuko, Ashara",
+    "Cover": "SwapCharacterCover.png",
+    "ModSettingEntries": [
+        {
+            "SettingType": "ToggleSetting",
+            "SettingKey": "FifthMember",
+            "DisplayName": "SwapCharacter/FifthMember_Name",
+            "Description": "SwapCharacter/FifthMember_Description",
+            "InitValue": true
+        },
+        {
+            "SettingType": "ToggleSetting",
+            "SettingKey": "SwapTutorial",
+            "DisplayName": "SwapCharacter/SwapTutorial_Name",
+            "Description": "SwapCharacter/SwapTutorial_Description",
+            "InitValue": true
+        },
+        {
+            "SettingType": "ToggleSetting",
+            "SettingKey": "BuffTutorial",
+            "DisplayName": "SwapCharacter/BuffTutorial_Name",
+            "Description": "SwapCharacter/BuffTutorial_Description",
+            "InitValue": true
+        }
+    ],
+    "Dependencies": [
+        "SwapBaseMethod"
+    ]
+}

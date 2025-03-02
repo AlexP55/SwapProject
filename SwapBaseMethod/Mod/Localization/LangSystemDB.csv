@@ -1,0 +1,28 @@
+Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+SwapBaseMethodDescription,Text,,,"Mod dependencies for changing ally positions in battles.
+Please put this mod above the mods that require this mod.
+
+Provide the following functions for mod authors:
+1. Change ally/enemy positions in battles
+2. Add and remove allies in battles
+3. 2 new interfaces: IP_PositionChanged when character position changes, IP_Swapped when two characters exchange positions
+4. 1 new buff class: B_SwapStable buffs that don't change position when character position changes
+5. Move buff positions and IP_StatsStable for buffs that keep its stats when moving",,"带有战斗中队员换位功能的前置mod。
+请将此mod放在需求的mod的上方。
+
+提供以下方法供mod作者使用：
+1.战斗中友军/敌人换位
+2.战斗中增加，移除友军
+3.2个新的时点：IP_PositionChanged角色位置变化时，IP_Swapped两个角色换位时
+4.1种新的增益类：B_SwapStable角色换位时不会变位的增益
+5.移动增益的方法以及IP_StatsStable移动时属性保持的增益","具有戰鬥中隊員換位功能的前置mod。
+請將此mod放在需求的mod的上方。
+
+提供以下方法供mod作者使用：
+1.戰鬥中友軍/敵人換位
+2.戰鬥中增加，移除友軍
+3.2個新的時點：IP_PositionChanged角色位置變化時，IP_Swapped兩個角色換位時
+4.1種新的增益類別：B_SwapStable角色換位時不會變位的增益
+5.移動增益的方法以及IP_StatsStable移動時屬性保持的增益
+"
+SwapBaseMethodTitle,Text,,,Swap Base Methods,,换位基础功能,換位基礎功能

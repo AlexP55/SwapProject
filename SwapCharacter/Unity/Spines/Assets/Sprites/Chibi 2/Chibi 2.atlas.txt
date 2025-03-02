@@ -1,0 +1,146 @@
+
+Chibi 2.png
+size: 1944,1504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 805, 61
+  size: 349, 579
+  orig: 349, 579
+  offset: 0, 0
+  index: -1
+Hair 1
+  rotate: true
+  xy: 1121, 1205
+  size: 297, 789
+  orig: 297, 789
+  offset: 0, 0
+  index: -1
+Hair 2
+  rotate: true
+  xy: 1386, 2
+  size: 408, 462
+  orig: 408, 462
+  offset: 0, 0
+  index: -1
+Hair 3
+  rotate: true
+  xy: 937, 412
+  size: 274, 652
+  orig: 274, 652
+  offset: 0, 0
+  index: -1
+Hair 4
+  rotate: false
+  xy: 333, 539
+  size: 602, 522
+  orig: 602, 522
+  offset: 0, 0
+  index: -1
+Hair 5
+  rotate: false
+  xy: 2, 569
+  size: 329, 933
+  orig: 329, 933
+  offset: 0, 0
+  index: -1
+Hat back
+  rotate: true
+  xy: 1676, 556
+  size: 367, 148
+  orig: 367, 148
+  offset: 0, 0
+  index: -1
+Hat front
+  rotate: false
+  xy: 333, 1063
+  size: 786, 439
+  orig: 786, 439
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 296, 56
+  size: 507, 481
+  orig: 507, 481
+  offset: 0, 0
+  index: -1
+L Arm
+  rotate: false
+  xy: 1850, 332
+  size: 92, 591
+  orig: 92, 591
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: false
+  xy: 805, 435
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+L Eyebrow
+  rotate: false
+  xy: 2, 10
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+L Eyelid
+  rotate: true
+  xy: 1591, 416
+  size: 116, 65
+  orig: 116, 65
+  offset: 0, 0
+  index: -1
+L Leg
+  rotate: true
+  xy: 937, 688
+  size: 235, 737
+  orig: 235, 737
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 296, 39
+  size: 58, 15
+  orig: 58, 15
+  offset: 0, 0
+  index: -1
+R Arm
+  rotate: false
+  xy: 2, 37
+  size: 292, 530
+  orig: 292, 530
+  offset: 0, 0
+  index: -1
+R Eye
+  rotate: false
+  xy: 937, 944
+  size: 132, 117
+  orig: 133, 117
+  offset: 0, 0
+  index: -1
+R Eyebrow
+  rotate: true
+  xy: 1912, 1428
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+R Eyelid
+  rotate: true
+  xy: 1591, 534
+  size: 152, 83
+  orig: 152, 83
+  offset: 0, 0
+  index: -1
+R Leg
+  rotate: true
+  xy: 1121, 925
+  size: 278, 747
+  orig: 278, 747
+  offset: 0, 0
+  index: -1

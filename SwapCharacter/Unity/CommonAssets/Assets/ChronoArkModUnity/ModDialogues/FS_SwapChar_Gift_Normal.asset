@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06c1d1917f9e5c4b9cd9b7da319c29e, type: 3}
+  m_Name: FS_SwapChar_Gift_Normal
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 11400000, guid: 155a3f9fd89366d4ea1ccc7aa13704cb, type: 2}
+  ModEvent: {fileID: 114406271612158848, guid: 155a3f9fd89366d4ea1ccc7aa13704cb, type: 2}
+  nodes:
+  - {fileID: 114503006305796852}
+  - {fileID: 114598475325742146}
+  - {fileID: 114793739042295112}
+--- !u!114 &114231002148505988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: 001_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114176041112582382, guid: 155a3f9fd89366d4ea1ccc7aa13704cb, type: 2}
+  Parent: {fileID: 114793739042295112}
+  target: {fileID: 0}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!114 &114494857931494234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: ModStart_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114475331539223308, guid: 155a3f9fd89366d4ea1ccc7aa13704cb, type: 2}
+  Parent: {fileID: 114598475325742146}
+  target: {fileID: 114793739042295112}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114503006305796852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 986b6808acc31f44187f6300c1884e4b, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114928974121808248, guid: 155a3f9fd89366d4ea1ccc7aa13704cb, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 117.66666
+    y: 222
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 67.66666
+    y: 207
+    width: 50
+    height: 50
+  options:
+  - {fileID: 114683589501029458}
+--- !u!114 &114598475325742146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 341abbe0ff5c7ae429a33ee7b887308e, type: 3}
+  m_Name: ModStart
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114477250896939288, guid: 155a3f9fd89366d4ea1ccc7aa13704cb, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 157.66666
+    y: 250
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 337.66666
+    y: 250
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 167.66666
+    y: 207
+    width: 170
+    height: 106
+  options:
+  - {fileID: 114494857931494234}
+  m_CharacterName: 
+  m_Text: 
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0
+--- !u!114 &114683589501029458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 298e594e0d672b04e950b82cc64d27b5, type: 3}
+  m_Name: Start_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114629168896532856, guid: 155a3f9fd89366d4ea1ccc7aa13704cb, type: 2}
+  Parent: {fileID: 114503006305796852}
+  target: {fileID: 114598475325742146}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114793739042295112
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130d4caafbfb3a245b254a242ab66912, type: 3}
+  m_Name: 001
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114895322063188106, guid: 155a3f9fd89366d4ea1ccc7aa13704cb, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 396
+    y: 329
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 576
+    y: 329
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 406
+    y: 240
+    width: 170
+    height: 198
+  options:
+  - {fileID: 114231002148505988}
+  m_CharacterName: 
+  m_Text: '*Charite
+
+    Is that for me? Thank you Lucy, I appreciate the gesture. '
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0

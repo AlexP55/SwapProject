@@ -1,0 +1,7 @@
+{
+    "SE_T_S_SwapChar_9_Counter": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "DMG_Per": 60
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "B_RelicSixSense_SwapChar": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": true,
+        "ClassName": "SwapCharacter.B_RelicSixSense_SwapChar",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": true,
+        "Icon": "B_RelicSixSense_SwapChar\\B_RelicSixSense_SwapChar_Icon.png",
+        "Debuff": true,
+        "TagPer": 0,
+        "Name": "6th Sense",
+        "Description": ""
+    }
+}

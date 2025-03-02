@@ -1,0 +1,52 @@
+Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+SwapCharacter/BuffTutorial_0,Text,,"교환 메커니즘을 가진 여러 버프는 고정된 순서로 발동됩니다.
+(먼저 획득한 것이 먼저 발동됩니다)",Multiple buffs with swap mechanisms are triggered in a fix order (first in first triggers).,"交換メカニズムを持つ複数のバフは固定された順序でトリガーされます。
+（先に取得したものが先にトリガーされます）",多个有换位能力的增益会以固定顺序触发（先获得先触发）。,多個有換位能力的增益會以固定順序觸發（先獲得先觸發）。
+SwapCharacter/BuffTutorial_1,Text,,버프의 순서를 조정하여 적의 한 번의 행동으로 여러 번 교환할 수 있습니다.,"By adjusting the order of the buffs, you can achive multiple swaps at one enemy action.",バフの順序を調整することで、敵の1回の行動で複数の交換を実現できます。,合理调整增益的顺序，能在敌人一次行动时多次换位。,合理調整增益的順序，能在敵人一次行動時多次換位。
+SwapCharacter/BuffTutorial_Description,Text,,교환 버프에 대한 짧은 전투 튜토리얼. 이 모드를 처음 사용하는 경우 켜는 것을 추천합니다.,"A short tutorial in battle for swap buffs, recommend to turn on if you are new to this mod.",交換バフに関するバトル中の短いチュートリアル。このモッドを初めてプレイする場合はオンにすることをお勧めします。,战斗中添加关于换位增益的教程，推荐第一次游玩开启。,戰鬥中新增關於換位增益的教程，推薦第一次遊玩開啟。
+SwapCharacter/BuffTutorial_Name,Text,,버프 튜토리얼,Buff Tutorial,バフチュートリアル,增益教程,增益教程
+SwapCharacter/Description,Text,,"차리테는 전투 중 아군의 위치를 변경하는 메커니즘을 가진 탱크 캐릭터입니다. 적의 공격을 리다이렉트하여 아군을 보호하거나, 카운트다운 중인 아군 타겟팅 스킬의 대상을 변경하여 아군을 지원하거나, 자신과 같은 위치에 있는 적을 공격할 때 보너스를 얻을 수 있습니다.
+
+스킬 디자인: Mazuko, surprise4u
+프로그램: surprise4u
+아트: Ashara
+대화: Mazuko","Charite is a tank character with a mechanism to change positions of allies in battle. She can protect allies by redirecting enemy attacks, change the target of an ally targeting skill in countdown to support allies, and gain bonus when attacking enemies at the same position as herself.
+
+Skill Design: Mazuko, surprise4u
+Program: surprise4u
+Art: Ashara
+Dialogue: Mazuko","シャリテは戦闘中に味方の位置を変更するメカニズムを持つタンクキャラクターです。敵の攻撃をリダイレクトして味方を保護したり、カウントダウン中の味方ターゲットスキルのターゲットを変更して味方をサポートしたり、自分と同じ位置にいる敵を攻撃する際にボーナスを得ることができます。
+
+スキルデザイン：Mazuko、surprise4u
+プログラム：surprise4u
+アート：Ashara
+テキスト：Mazuko","夏丽蒂是一个能在战斗中改变友军位置的坦克型角色。通过换位，她能吸收敌人的伤害以保护友军，也能改变倒计时中指向友军技能的目标以支援盟友，还能根据敌人的位置获得额外的攻击收益。
+
+技能设计：Mazuko，surprise4u
+程序：surprise4u
+美术：Ashara
+文本：Mazuko","夏麗蒂是一個能在戰鬥中改變友軍位置的坦克型角色。透過換位，她能吸收敵人的傷害以保護友軍，也能改變倒計時中指向友軍技能的目標以支援盟友，還能根據敵人的位置獲得額外的攻擊收益。
+
+技能設計：Mazuko，surprise4u
+程序：surprise4u
+美術：Ashara
+文本：Mazuko"
+SwapCharacter/FifthMember_Description,Text,,5번째 멤버로 홀로그램을 소환할 수 있습니다,Allow summoning hologram as 5th member,5番目のメンバーとしてホログラムを召喚できるようにする,允许在5号位召唤全息护卫（友军）,允許在5號位召喚全息護衛（友軍）
+SwapCharacter/FifthMember_Name,Text,,5번째 멤버,5th Member,5番目のメンバー,第五友军,第五友軍
+SwapCharacter/Formation,Text,,시작 포메이션,Starting Formation,開始時のフォーメーション,初始阵型,初始陣型
+SwapCharacter/FormationDes,Text,,두 아군을 클릭하여 위치를 변경합니다.,Click two allies to change positions.,2人の味方をクリックして位置を変更します。,点击两个队员以调整位置。,點擊兩個隊員以調整位置。
+SwapCharacter/NoActionText,Text,,행동 없음,No Action,行動なし,不行动,不行動
+SwapCharacter/SelectMoveText,Text,,이동할 위치를 선택하세요:,Select a position to move to:,移動先の位置を選択してください：,选择将增益移动至：,選擇將增益移至：
+SwapCharacter/SelectSwapCostText,Text,,교환할 대상을 선택하세요 (&a 마나 소모):,Select a target to swap with (consume &a mana):,交換するターゲットを選択してください（&aマナを消費）：,选择与一个目标换位（消耗&a法力）：,選擇與一個目標換位（消耗&a法力）：
+SwapCharacter/SelectSwapText,Text,,교환할 대상을 선택하세요:,Select a target to swap with:,交換するターゲットを選択してください：,选择与一个目标换位：,選擇與一個目標換位：
+SwapCharacter/SwapTutorial_0,Text,,차리테는 두 아군의 위치를 교환할 수 있는 능력을 가지고 있습니다.,Charite has the ability to swap the positions of two allies.,シャリテは2人の味方の位置を交換する能力を持っています。,夏丽蒂具有将友军换位的能力。,夏麗蒂具有將友軍換位的能力。
+SwapCharacter/SwapTutorial_1,Text,,교환은 아군을 적의 공격으로부터 보호할 수 있습니다.,Swap can protect an ally from an incoming enemy attack.,交換は味方を敵の攻撃から保護することができます。,换位能保护友军免受攻击。,換位能保護友軍免受攻擊。
+SwapCharacter/SwapTutorial_2,Text,,"교환은 카운트다운 중인 아군 타겟팅 스킬의 대상을 변경할 수도 있습니다.
+아군을 보호하고 지원하기 위해 교환을 적절히 사용하세요!","Swap can also change target of an ally targeting skill in countdown.
+Properly use swap to protect and support your allies!","交換はカウントダウン中の味方のスキルのターゲットを変更するもできます。
+味方を保護しサポートするために、交換を適切に使用してください！","换位也能改变倒计时中指向友军技能的目标。
+合理使用换位来保护和支援友军！","換位也能改變倒計時中指向友軍技能的目標。
+合理使用換位來保護和支援友軍！ "
+SwapCharacter/SwapTutorial_Description,Text,,교환에 대한 짧은 전투 튜토리얼. 이 모드를 처음 사용하는 경우 켜는 것을 추천합니다.,"A short tutorial in battle for swap, recommend to turn on if you are new to this mod.",交換に関するバトル中の短いチュートリアル。このモッドを初めてプレイする場合はオンにすることをお勧めします。,战斗中添加关于换位的教程，推荐第一次游玩开启。,戰鬥中新增關於換位的教程，推薦第一次遊玩開啟。
+SwapCharacter/SwapTutorial_Name,Text,,교환 튜토리얼,Swap Tutorial,交換チュートリアル,换位教程,換位教程
+SwapCharacter/Title,Text,,,Charite Character Mod Beta Test,,,

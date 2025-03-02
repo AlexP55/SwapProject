@@ -1,0 +1,18 @@
+{
+    "B_SwapChar_3_T": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "SwapCharacter.B_SwapChar_3_T",
+        "BuffTag": "Debuff",
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "Name": "Lost Balance",
+        "Description": "",
+        "Icon": "B_SwapChar_3_T\\B_SwapChar_3_T_Icon.png",
+        "Debuff": true,
+        "TagPer": 110,
+        "MaxStack": 2
+    }
+}

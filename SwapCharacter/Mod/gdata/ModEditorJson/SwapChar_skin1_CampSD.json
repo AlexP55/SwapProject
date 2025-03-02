@@ -1,0 +1,18 @@
+{
+    "myKey": "SwapChar_skin1",
+    "myField": "CampSD",
+    "myValues": {
+        "pivot01": {
+            "x": "0.4537515",
+            "y": "0.205791116"
+        },
+        "pivot23": {
+            "x": "0.5923529",
+            "y": "0.113570154"
+        }
+    },
+    "MyChangeType": "CampSD",
+    "myKeys": [
+        
+    ]
+}

@@ -1,0 +1,160 @@
+
+Chibi 1.png
+size: 1810,1528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belt 1
+  rotate: false
+  xy: 1656, 1179
+  size: 116, 347
+  orig: 116, 347
+  offset: 0, 0
+  index: -1
+Belt 2
+  rotate: true
+  xy: 417, 390
+  size: 129, 498
+  orig: 129, 498
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 1021, 1162
+  size: 364, 633
+  orig: 364, 633
+  offset: 0, 0
+  index: -1
+Hair 1
+  rotate: true
+  xy: 926, 588
+  size: 297, 789
+  orig: 297, 789
+  offset: 0, 0
+  index: -1
+Hair 2
+  rotate: false
+  xy: 2, 37
+  size: 408, 462
+  orig: 408, 462
+  offset: 0, 0
+  index: -1
+Hair 3
+  rotate: true
+  xy: 1021, 887
+  size: 273, 652
+  orig: 273, 652
+  offset: 0, 0
+  index: -1
+Hair 4
+  rotate: false
+  xy: 417, 1004
+  size: 602, 522
+  orig: 602, 522
+  offset: 0, 0
+  index: -1
+Hair 5
+  rotate: false
+  xy: 2, 501
+  size: 413, 1025
+  orig: 413, 1025
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 417, 521
+  size: 507, 481
+  orig: 507, 481
+  offset: 0, 0
+  index: -1
+L Arm
+  rotate: true
+  xy: 893, 2
+  size: 110, 592
+  orig: 110, 592
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: true
+  xy: 782, 6
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+L Eyebrow
+  rotate: false
+  xy: 2, 10
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+L Eyelid
+  rotate: true
+  xy: 1717, 788
+  size: 116, 65
+  orig: 116, 65
+  offset: 0, 0
+  index: -1
+L Jacket
+  rotate: true
+  xy: 412, 10
+  size: 94, 368
+  orig: 94, 368
+  offset: 0, 0
+  index: -1
+L Leg
+  rotate: true
+  xy: 893, 114
+  size: 221, 610
+  orig: 221, 610
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 893, 365
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+R Arm
+  rotate: true
+  xy: 412, 106
+  size: 282, 479
+  orig: 282, 479
+  offset: 0, 0
+  index: -1
+R Eye
+  rotate: false
+  xy: 1675, 1060
+  size: 133, 117
+  orig: 133, 117
+  offset: 0, 0
+  index: -1
+R Eyebrow
+  rotate: false
+  xy: 926, 977
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+R Eyelid
+  rotate: true
+  xy: 1675, 906
+  size: 152, 83
+  orig: 152, 83
+  offset: 0, 0
+  index: -1
+R Jacket
+  rotate: false
+  xy: 1571, 179
+  size: 232, 407
+  orig: 232, 407
+  offset: 0, 0
+  index: -1
+R Leg
+  rotate: true
+  xy: 926, 337
+  size: 249, 643
+  orig: 249, 643
+  offset: 0, 0
+  index: -1

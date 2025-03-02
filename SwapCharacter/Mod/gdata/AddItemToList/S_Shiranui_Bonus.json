@@ -1,0 +1,20 @@
+{
+    "S_Shiranui_Bonus_1": {
+        "_gdeSchema": "Skill",
+        "SkillExtended": [
+            "SwapCharacter.Extended_ExceptDummy"
+        ]
+    },
+    "S_Shiranui_Bonus_2": {
+        "_gdeSchema": "Skill",
+        "SkillExtended": [
+            "SwapCharacter.Extended_ExceptDummy"
+        ]
+    },
+    "S_Shiranui_Bonus_3": {
+        "_gdeSchema": "Skill",
+        "SkillExtended": [
+            "SwapCharacter.Extended_ExceptDummy"
+        ]
+    }
+}

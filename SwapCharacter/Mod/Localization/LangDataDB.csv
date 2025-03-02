@@ -1,0 +1,388 @@
+Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
+Buff/B_DummySummon_P_Description,Text,,"HP가 0 이하가 되거나 &a가 전투 불능이 되면 홀로그램이 파괴됩니다.
+일부 보스 스킬의 대상이 될 수 없습니다.","Hologram is destroyed when HP is below 0 or &a faints.
+Can't be targeted by some boss skills.","ホログラムガードは、HPが0になるか、&aが戦闘不能になると破壊されます。
+一部のボススキルのターゲットにはなりません。","全息护卫会在血量归零或&a无法战斗时被摧毁。
+无法被一些boss技能选为目标。","全息護衛會在血量歸零或&a無法戰鬥時被摧毀。
+無法被一些boss技能選為目標。"
+Buff/B_DummySummon_P_Name,Text,,홀로그램 가드,Protection Hologram,ホログラムガード,全息护卫,全息護衛
+Buff/B_EquipUnique_SwapChar_Description,Text,,"턴 종료 시, 이번 턴에 받은 피해 횟수에 따라 &a 중첩의 강인함(치유 게이지 보호, 중첩당 +5% 방어력)을 얻습니다.","Receive &a stacks of Tenacity (protect healing gauge, +5% armor per stack) at the end of turn based on num of hits received this turn.",ターン終了時に、このターンに受けたヒット数に基づいて、&aスタックのタフネス（回復ゲージを保護し、スタックごとに+5%の防御力を付与）を受け取ります。,在回合结束时根据本回合被命中次数获得&a层坚韧（保护体力极限，每层+5%防御）。,在回合結束時依本回合被命中次數獲得&a層堅韌（保護體力極限，每層+5%防禦）。
+Buff/B_EquipUnique_SwapChar_Name,Text,,수호의 창,Spear of Protection,ガードの槍,护卫之枪,護衛之槍
+Buff/B_RelicSixSense_SwapChar_Description,Text,,유닛에 사라지지 않는 '파악됨!'을 적용합니다. 패배 시 '제6감'을 다른 유닛으로 전이합니다.,"Apply nonvanishing ""Identified!"" to the unit. When defeated, transfer ""6th Sense"" to another unit.",ユニットに消えない「洞察」を与えられる。倒されると、「第六感」を別のユニットに移します。,对该单位施加不会消失的“洞察”减益。被击杀时将“第六感”施加给另一单位。,對該單位施加不會消失的「洞察」減益。被擊殺時將「第六感」施加給另一個單位。
+Buff/B_RelicSixSense_SwapChar_Name,Text,,제6감,6th Sense,第六感,第六感,第六感
+Buff/B_EquipDrone_SwapChar_Description,Text,,"<color=#0096FF>위치 버프</color>
+새로운 턴이 시작될 때, 버프를 새로운 위치로 이동할 수 있습니다.","<color=#0096FF>Position Buff</color>
+At the start of a new turn, select to move the buff to a new position.","<color=#0096FF>位置バフ</color>
+新しいターンの開始時に、バフを新しい位置に移動することを選択します。","<color=#0096FF>位置增益</color>
+回合开始时，可选择将该增益移动至另一个位置。","<color=#0096FF>位置增益</color>
+回合開始時，可選擇將此增益移動至另一個位置。"
+Buff/B_EquipDrone_SwapChar_Name,Text,,드론 지원,Drone Support,ドローンの支援,无人机支援,無人機支援
+Buff/B_SwapChar_10_S_Description,Text,,,,,,
+Buff/B_SwapChar_10_S_Name,Text,,배리어,Barrier,バリア,保护罩,保護罩
+Buff/B_SwapChar_11_T_Description,Text,,"적에게 타겟팅되었을 때, 공격받을 수 없는 위치로 <color=#0096FF>위치 교환</color>합니다 (이 버프가 없고 HP가 가장 높은 아군을 우선시합니다). 스택 1개를 제거합니다. 이 적의 공격은 치유 게이지를 줄일 수 없습니다.","When targeted by an enemy, <color=#0096FF>swap</color> to a position that cannot be attacked (prioritize the ally with the highest HP & without this buff) and remove one stack. This enemy attack cannot reduce healing gauge.",敵にターゲットされた場合、攻撃できない位置に<color=#0096FF>位置交換</color>します（このバフを持たず、HPが最も高い味方を優先します）、スタックを1減る。この敵の攻撃は回復ゲージを減らせない。,当被敌人瞄准时，与一个目标外的友军<color=#0096FF>换位</color>（优先选择没有此增益的血量最高的友军） 并消耗一层。此次敌人的攻击不会减少体力极限。,當被敵人瞄準時，與一個目標外的友軍<color=#0096FF>換位</color>（優先選擇沒有此增益的血量最高的友軍） 並消耗一層。此次敵人的攻擊不會減少體力極限。
+Buff/B_SwapChar_11_T_Name,Text,,위험 감지,Danger Perception,危険感知,危险预知,危險預知
+Buff/B_SwapChar_11_T_2_Description,Text,,"아군과 <color=#0096FF>위치 교환</color>할 때, 스킬 1개를 뽑고 스택 1개를 제거합니다.","When <color=#0096FF>swap</color> with an ally, draw 1 skill and remove one stack.",味方と<color=#0096FF>位置交換</color>すると、スキルを1個引く、スタックを1減る。,当与一名友军<color=#0096FF>换位</color>时，抽取一个技能并消耗一层。,當與一名友軍<color=#0096FF>換位</color>時，抽取一個技能並消耗一層。
+Buff/B_SwapChar_11_T_2_Name,Text,,날렵한 발걸음,Fleet-Footed,迅速な足取り,迅捷步伐,迅捷步伐
+Buff/B_SwapChar_2_S_Description,Text,,"&a가 다른 아군을 타겟팅했을 때, 해당 아군과 <color=#0096FF>위치 교환</color>합니다.
+이 버프는 '반격 보호'와 '전선을 사수하라!'보다 우선순위가 낮습니다.","When &a targets another ally, <color=#0096FF>swap</color> with the ally.
+This buff has lower priority than ""Counter-Protected"" and ""Hold the Line!"".","&aが他の味方をターゲットした場合、その味方と<color=#0096FF>位置交換</color>します。
+このバフは「反撃保護」と「戦線を守れ！」よりも優先度が低いです。","当&a瞄准其他友军时，与该友军<color=#0096FF>换位</color>。
+此增益优先级低于“反击保护”和“坚守战线！”。","當&a瞄準其他友軍時，與該友軍<color=#0096FF>換位</color>。
+此增益優先權低於「反擊保護」和「堅守戰線！」。"
+Buff/B_SwapChar_2_S_Name,Text,,경계 중,Guarding,警戒中,警戒中,警戒中
+Buff/B_SwapChar_2_T_Description,Text,,,,,,
+Buff/B_SwapChar_2_T_Name,Text,,방해 받음,Distracted,足止めされた,被牵制,被牽制
+Buff/B_SwapChar_3_T_Description,Text,,행동 시 1중첩씩 해제됩니다.,1 stack removed per action.,行動する度にストックが1減る。,行动时消耗1层层数。,行動時消耗1層層數。
+Buff/B_SwapChar_3_T_Name,Text,,균형 상실,Lost Balance,バランスを失う,失衡,失衡
+Buff/B_SwapChar_5_1_Description,Text,,"고유 <color=#0096FF>위치 버프</color>
+매 턴 오른쪽 아군으로 이동하며, 끝에 도달하면 사라집니다.","Unique <color=#0096FF>Position Buff</color>
+It moves to the right ally every turn, and vanishes after reaching the end.","ユニーク<color=#0096FF>位置バフ</color>
+毎ターン右の味方に移動し、最後に到達すると消滅します。","唯一<color=#0096FF>位置增益</color>
+每回合移动至右方的友军，移动到最右端之后解除。","唯一<color=#0096FF>位置增益</color>
+每回合移動至右方的友軍，移動到最右端後解除。"
+Buff/B_SwapChar_5_1_Name,Text,,공격 증가!,Attack Increase!,攻撃増加！,攻击增加！,攻擊增加！
+Buff/B_SwapChar_5_2_Description,Text,,"고유 <color=#0096FF>위치 버프</color>
+매 턴 왼쪽 아군으로 이동하며, 끝에 도달하면 사라집니다.","Unique <color=#0096FF>Position Buff</color>
+It moves to the left ally every turn, and vanishes after reaching the end.","ユニーク<color=#0096FF>位置バフ</color>
+毎ターン左の味方に移動し、最後に到達すると消滅します。","唯一<color=#0096FF>位置增益</color>
+每回合移动至左方的友军，移动到最左端之后解除。","唯一<color=#0096FF>位置增益</color>
+每回合移動至左方的友軍，移動到最左端之後解除。"
+Buff/B_SwapChar_5_2_Name,Text,,치유 증가!,Healing Increase!,回復増加！,治疗增加！,治療增加！
+Buff/B_SwapChar_6_T_Description,Text,,,,,,
+Buff/B_SwapChar_6_T_Name,Text,,강화된 감지,Enhanced Perception,強化された感知,强化感知,強化感知
+Buff/B_SwapChar_7_T_Description,Text,,"이 버프의 배리어보다 높은 피해를 받았을 때, 피해를 무효화하고 버프를 해제합니다.
+버프 아이콘을 클릭하여 이 아군을 다른 아군과 <color=#0096FF>위치 교환</color>할 수 있습니다 (첫 사용은 무료, 이후 1 마나 소모).","When receiving damage higher than barrier of this buff, nullify the damage and remove the buff.
+You can click the buff icon to <color=#0096FF>swap</color> this ally with another ally (the first use is free, after that costs 1 mana).","このバフのバリアよりも高いダメージを受けた場合、ダメージを無効化し、バフを解除します。
+バフアイコンをクリックして、この味方を他の味方と<color=#0096FF>位置交換</color>できます（最初の使用は無料、その後は1マナ消費）。","当受到高于此保护罩的伤害时，免疫伤害并解除该增益。
+你可以点击增益图标将该角色与另一友军<color=#0096FF>换位</color>（第一次免费，之后消耗1法力）。","當受到高於此保護罩的傷害時，免疫傷害並解除此增益。
+你可以點選增益圖示將該角色與另一友軍<color=#0096FF>換位</color>（第一次免費，之後消耗1法力）。"
+Buff/B_SwapChar_7_T_Name,Text,,홀로그램 가드,Protection Hologram,ホログラムガード,全息护卫,全息護衛
+Buff/B_SwapChar_8_T_Description,Text,,<color=#0096FF>위치 교환</color>이 발생할 때마다 &a 피해(&b% 공격력)의 추가 타격을 받습니다.,Receive an additional hit that deals &a damage (&b% attack power) whenever a <color=#0096FF>swap</color> occurs.,<color=#0096FF>位置交換</color>が発生するたびに、&aダメージ（&b%攻撃力）の追加ヒットを受けます。,每当有友军<color=#0096FF>换位</color>，受到一次&a伤害（&b%攻击力）的追击。,每當有友軍<color=#0096FF>換位</color>，受到一次&a傷害（&b%攻擊力）的追擊。
+Buff/B_SwapChar_8_T_Name,Text,,게릴라 타겟,Guerrilla Target,ゲリラターゲット,游击目标,遊擊目標
+Buff/B_SwapChar_9_T_Description,Text,,"적이 이 아군을 타겟팅했을 때, &a가 이 아군과 <color=#0096FF>위치 교환</color>하고 &b 피해로 먼저 공격합니다. 그 후 이 버프를 해제하고 이번 턴에만 사용할 수 있는 '반격 전략'을 생성합니다.
+(이 버프는 한 번에 한 아군에게만 활성화됩니다)","When an enemy targets this ally, &a <color=#0096FF>swaps</color> with the ally and attacks before with &b damage. Then remove this buff and create a ""Counter-Offensive"" that can only be used this turn.
+(This buff can be active on only one ally at a time)",敵がこの味方をターゲットした場合、&aがこの味方と<color=#0096FF>位置交換</color>し、&bダメージで先に攻撃します。その後、このバフを解除し、このターンにのみ使用できる「反撃戦略」を作成します。,当敌人瞄准此角色时，&a与该角色<color=#0096FF>换位</color>并在敌人前造成&b伤害，然后解除此增益并生成一张仅本回合能使用的“反击策略”。,當敵人瞄準此角色時，&a與此角色<color=#0096FF>換位</color>並在敵人前造成&b傷害，然後解除此增益並生成一張僅本回合能使用的「反擊策略」。
+Buff/B_SwapChar_9_T_Name,Text,,반격 보호,Counter-Protected,反撃保護,反击保护,反擊保護
+Buff/B_SwapChar_Rare_1_T_Description,Text,,"적이 아군을 타겟팅했을 때, 해당 아군과 <color=#0096FF>위치 교환</color>하고 &a(&c% 최대 HP)만큼 치유합니다.
+적에게 타겟팅되었을 때, &b 피해로 먼저 공격하고 스택 1개를 제거합니다.
+버프 아이콘을 클릭하여 토글할 수 있습니다.","When an enemy targets an ally, <color=#0096FF>swap</color> with the ally and heal by &a (&c% max HP).
+When targeted by an enemy, attack before with &b damage and remove one stack.
+Can be toggled by clicking the buff icon.","敵が味方をターゲットした場合、その味方と<color=#0096FF>位置交換</color>し、&a回復します（&c%最大体力）。
+敵にターゲットされた場合、&bダメージで先に攻撃し、スタックを1減る。
+バフアイコンをクリックして切り替えることができます。","当敌人瞄准友军时，与目标友军<color=#0096FF>换位</color>并获得&a治疗（&c%最大體力值）。
+当敌人瞄准自己时，在敌人之前造成&b伤害并消耗一层。
+你可以点击增益图标以开/关此增益。","當敵人瞄準友軍時，與目標友軍<color=#0096FF>換位</color>並獲得&a治療（&c%最大體力值）。
+當敵人瞄準自己時，在敵人之前造成&b傷害並消耗一層。
+你可以點擊增益圖示以開啟/關閉此增益。"
+Buff/B_SwapChar_Rare_1_T_Name,Text,,전선을 사수하라!,Hold the Line!,戦線を守れ！,坚守战线！,堅守戰線！
+Buff/B_SwapChar_Rare_2_T_Description,Text,,받는 공격 피해가 &a 증가합니다.,Receiving attack damage increases by &a.,受ける攻撃ダメージが&a増加します。,受到的伤害增加&a。,受到的傷害增加&a。
+Buff/B_SwapChar_Rare_2_T_Name,Text,,약점,Weak Points,弱点,弱点,弱點
+Buff/B_SwapChar_Rare_3_T_2_Description,Text,,<color=#0096FF>위치 버프</color>,<color=#0096FF>Position Buff</color>,<color=#0096FF>位置バフ</color>,<color=#0096FF>位置增益</color>,<color=#0096FF>位置增益</color>
+Buff/B_SwapChar_Rare_3_T_2_Name,Text,,방어력 장막,Force Shield,防御力場,防御力场,防禦力場
+Buff/B_SwapChar_Rare_3_T_Description,Text,,"<color=#0096FF>위치 버프</color>
+적에게 피격되었을 때, 공격자에게 기절(<sprite=2>&a%)을 적용합니다.","<color=#0096FF>Position Buff</color>
+Apply stun (<sprite=2>&a%) when hit by an enemy.","<color=#0096FF>位置バフ</color>
+敵にヒットした場合、攻撃者にスタン（<sprite=2>&a%）を適用します。","<color=#0096FF>位置增益</color>
+被敌人命中时对攻击者施加眩晕（<sprite=2>&a%）。","<color=#0096FF>位置增益</color>
+被敵人命中時對攻擊者施加眩暈（<sprite=2>&a%）。"
+Buff/B_SwapChar_Rare_3_T_Name,Text,,눈부신 장막,Dazzling Shield,眩しい力場,炫目力场,炫目力場
+Buff/B_SwapChar_Tenacity_Description,Text,,"중첩당 방어력 +5%.
+치유 게이지를 감소시키는 공격에 피격되었을 때, 스택 1개를 소모합니다.","Armor +5% for each stack.
+Consume one stack when hit by an attack that can reduce healing gauge.","スタックごとに防御力+5%。
+回復ゲージを減少させる攻撃にヒットした場合、スタックを1減る。","每层增加5%防御力。
+受到能减少体力极限的攻击时消耗1层。","每層增加5%防禦力。
+受到能減少體力極限的攻擊時會消耗1層。"
+Buff/B_SwapChar_Tenacity_Name,Text,,강인함,Tenacity,タフネス,坚韧,堅韌
+Character/DummySummon_PassiveDes,Text,,HP가 0 이하가 되거나 소환자가 전투 불능이 되면 파괴됩니다.,Destroyed when HP is below 0 or its sommoner faints.,HPが0になるか、召喚者が戦闘不能になると破壊されます。,当血量归零或召唤者无法战斗时被摧毁。,當血量歸零或召喚者無法戰鬥時被摧毀。
+Character/DummySummon_PassiveName,Text,,가짜 아군,Fake Ally,偽りの味方,友军（假）,友軍（假）
+Character/DummySummon_name,Text,,홀로그램,Hologram,ホログラム,全息护卫,全息護衛
+Character/SwapChar_CampSelectWord,Text,,여기 지원군이 도착했습니다. 제가 전선을 맡겠습니다.,"Reinforcement here, I'll handle the frontline.",援軍が到着しました。私が前線を担当します。,增援已到，我来打头阵。,增援已到，我來打頭陣。
+Character/SwapChar_PassiveDes,Text,,"전투 종료 시 1회 충전되는 '팔랑크스의 눈' (액티브 아이템, 2회 충전)을 획득합니다.
+전투 외 사용: 전투 시작 시 아군의 위치를 조정합니다 (충전을 소모하지 않음).
+전투 중 사용: 두 아군의 위치를 <color=#0096FF>위치 교환</color>하고 치유 게이지를 보호합니다.","Obtain Eye of Phalanx (active item, 2 charges, gain one charge when a battle ends).
+
+Use out of battle: Adjust positions of allies at the start of a battle (do not consume charges).
+
+Use in battle: <color=#0096FF>swap</color> two allies' positions and protect healing gauge.","ファランクスの目（アクティブアイテム、2チャージ、戦闘終了時に1チャージを獲得）を取得します。
+
+戦闘外で使用：戦闘開始時の味方の位置を調整します（チャージを消費しません）。
+
+戦闘中に使用：2人の味方の位置を<color=#0096FF>位置交換</color>し、回復ゲージを保護します。","获得列阵之眼（主动道具，2充能，战斗结束获得1充能）。
+
+战斗外使用：调整战斗开始时队伍的位置（不消耗充能）。
+
+战斗中使用：将两名友军<color=#0096FF>换位</color>并保护体力极限。","獲得列陣之眼（主動道具，2充能，戰鬥結束獲得1充能）。
+
+戰鬥外使用：調整戰鬥開始時隊伍的位置（不消耗充能）。
+
+戰鬥中使用：將兩名友軍<color=#0096FF>換位</color>並保護體力極限。"
+Character/SwapChar_PassiveName,Text,,신속한 배치,Quick Deploy,迅速な布陣,快速布阵,快速布陣
+Character/SwapChar_SelectInfo,Text,,"샤리테는 더 유능하고 신뢰할 수 있게 보이기 위해 군사 전술에 관심을 가졌습니다. 많은 학습과 훈련 끝에, 그녀는 근접 전투와 팀 전략의 전문가가 되었습니다. 그녀는 팀원들이 최고의 성과를 낼 수 있도록 자신이 직접 전선을 맡는 것을 우선시합니다.
+샤리테는 필드 내 캐릭터의 위치를 교환하는 능력을 가지고 있으며, 이를 통해 아군을 공격으로부터 보호하거나 적의 움직임을 이용합니다.","Charite takes interest in military tactics in order to appear more competent and reliable. After a lot of learning and training, she becomes an expert at handling close quarter combat and team strategy. She prioritises taking on the front fight herself in order to let her teammates do their best untroubled.
+
+Charite has the ability to exchange characters' position in the field, she uses that to protect her allies from incomming attacks or take advantage of the enemies' moves.","シャリテは、より有能で信頼できるように見せるために、軍事戦術に興味を持っています。多くの学習と訓練の後、彼女は近接戦闘とチーム戦略の専門家になります。彼女は、チームメイトが最高のパフォーマンスを発揮できるように、自分自身で前線の戦いを優先します。
+
+シャリテは、フィールド内のキャラクターの位置を交換する能力を持っており、それを使って味方を攻撃から守ったり、敵の動きを利用したりします。","夏丽蒂是队伍中可靠的坦克，她在军事战术上略有所长。通过钻研战术和刻苦训练，夏丽蒂成为了调查团中团队指挥和近身作战的专家。
+
+夏丽蒂拥有在战场中改变友军位置的能力，她善于保护友军和利用位置进行反击。","夏麗蒂是隊伍中可靠的坦克，她在軍事戰術上略有所長。透過鑽研戰術和刻苦訓練，夏麗蒂成為了調查團中團隊指揮和近身作戰的專家。
+
+夏莉蒂擁有在戰場中改變友軍位置的能力，她善於保護友軍和利用位置進行反擊。"
+Character/SwapChar_SkinDesc,Text,,샤리테의 원래 의상.,Charite's original outfits.,シャリテのオリジナル衣装,夏丽蒂的原始装束。,夏麗蒂的原始裝束。
+Character/SwapChar_Text_Battle_Idle_0,Text,,루시,You got this Lucy.,ルーシー、君ならできる。,你可以的，露西。,你可以的，露西。
+Character/SwapChar_Text_Battle_Idle_1,Text,,너무 생각하지 말고 그냥 이겨.,"Don't overthink it, just win.",考えすぎずに、ただ勝て。,毋需多想，只为胜利。,毋需多想，只為勝利。
+Character/SwapChar_Text_Battle_Idle_2,Text,,다음 공격은 내가 받을 수 있어,I could just take the hit you know?,次の一撃は私が受けられるよ、わかる？,我可以接住下一击，了解？,我可以接住下一擊，了解？
+Character/SwapChar_Text_Battle_ND_0,Text,,전술적 후퇴...!,Tactical retreat..!,戦術的撤退...！,战术撤退...!,戰術撤退...!
+Character/SwapChar_Text_Battle_ND_1,Text,,방어 전술을 채택!,Engage in defensive tactics.,防御戦術を採用！,采取防守策略！,採取防守策略！
+Character/SwapChar_Text_Battle_ND_2,Text,,으음...,Ugh...,うーん...,呃...,呃...
+Character/SwapChar_Text_Battle_AllyND_0,Text,,아군이 쓰러졌다! 의무병!,Ally Down!,味方が倒れた！医療兵！,友军倒下了！医疗兵！,友軍倒下了！醫療兵！
+Character/SwapChar_Text_Battle_AllyND_1,Text,,내가 그 공격을 막았어야 했는데.,I could have tanked it.,私がその一撃を受け止めるべきだった。,我应该挡住那一击。,我應該擋住那一擊。
+Character/SwapChar_Text_Battle_AllyND_2,Text,,굳세게 버텨! 반드시 승리할 거야!,"We're all going back home, get a grip!",しっかりしろ！必ず凱旋する！,坚持住！我们定会凯旋！,堅持住！我們定會凱旋！
+Character/SwapChar_Text_Battle_Kill_0,Text,,완벽했다.,No mistake made.,完璧だった。,精准无误。,精準無誤。
+Character/SwapChar_Text_Battle_Kill_1,Text,,복수다!,That's payback.,仕返しだ！,以牙还牙！,以牙還牙！
+Character/SwapChar_Text_Battle_Kill_2,Text,,확인,Kill confirmed.,確認、撃破。,确认，已击杀。,確認，已擊殺。
+Character/SwapChar_Text_Battle_Start_0,Text,,진형을 갖춰라!,Get in formation!,陣形を組め！,列阵！,列陣！
+Character/SwapChar_Text_Battle_Start_1,Text,,내 뒤에 숨어라.,Stay behind me.,私の後ろに隠れろ。,躲在我身后。,躲在我身後。
+Character/SwapChar_Text_Battle_Start_2,Text,,적들은 지형의 이점을 가지고 있어..,They got terrain advantage..,彼らは地形の利がある...,他们有地形优势...,他們有地形優勢...
+Character/SwapChar_Text_Battle_Cri_0,Text,,흐흐흐…,Hehehe…,ふふふ…,呵呵...,呵呵...
+Character/SwapChar_Text_Battle_Cri_1,Text,,돌격!,Charge!,突撃！,冲锋！,衝鋒！
+Character/SwapChar_Text_Battle_Cri_2,Text,,완벽한 일격.,Gutsfield.,完璧な一撃。,完美的一击。,完美的一擊。
+Character/SwapChar_Text_Battle_Healed_0,Text,,고마워...!,Thank you...!,ありがとう...！,谢谢...!,謝謝...!
+Character/SwapChar_Text_Battle_Healed_1,Text,,…계획대로야.,…Exactly as planned.,…計画通りだ。,计划掌控之中...,計劃掌控之中...
+Character/SwapChar_Text_Battle_Healed_2,Text,,정신을 재정비하고 계속 싸워라!,"Back on my feet, ready for combat.",精神を整え、戦いを続けよう！,重整精神，继续战斗！,重整精神，繼續戰鬥！
+Character/SwapChar_Text_Field_Idle_0,Text,,선택할 수 있는 경로가 많아.,There are only so many paths.,選択できるルートはたくさんある。,有很多路线可以选择。,有很多路線可以選擇。
+Character/SwapChar_Text_Field_Idle_1,Text,,"나아가자, 동료들, 낭비할 시간은 없어.","En route comrades, we got no time to waste.",進むぞ、仲間たち、無駄にする時間はない。,继续行进，我们没有时间浪费。,繼續行進，我們沒有時間浪費。
+Character/SwapChar_Text_Field_Idle_2,Text,,집중하세요.,Stay focused.,集中してください。,集中精神。,集中精神。
+Character/SwapChar_Text_Field_GetItem_0,Text,,잘 사용할게.,I'll make good use of it.,うまく使わせてもらうよ。,我会好好使用它。,我會好好使用它。
+Character/SwapChar_Text_Field_GetItem_1,Text,,가지고 있는 모든 도구를 다 써라.,Use every tool we have.,持っているすべての道具を使い尽くせ。,要物尽其用。,要物盡其用。
+Character/SwapChar_Text_Field_GetItem_2,Text,,이건 별로 강하지 않은데?,That's not very good is it?,これはあまり強くないね。,这东西看起来不是很强。,這東西看起來不是很強。
+Character/SwapChar_Text_Field_Potion_P_0,Text,,너무 무리했어…,I tried too hard…,頑張りすぎた…,我好像拼过头了。,我好像拼過頭了。
+Character/SwapChar_Text_Field_Potion_P_1,Text,,고마워…,Thanks…,ありがとう…,谢谢...,謝謝...
+Character/SwapChar_Text_Field_Potion_P_2,Text,,*꿀꺽 꿀꺽 꿀꺽*,*GULP GULP GULP*,*ゴクゴクゴク*,*吨吨吨*,*噸噸噸*
+Character/SwapChar_Text_MasterTarget,Text,,당신과 함께 싸울 수 있어 영광이었습니다.,"It has been an honor, fighting by your side.",あなたと一緒に戦えて光栄でした。,能与你一起战斗，是我的荣幸。,能與你一起戰鬥，是我的榮幸。
+Character/SwapChar_Text_PharosLeader_0,Text,,너로 기술을 시험해보겠다.,I'll test my techniques on you.,あなたで技を試させてもらうよ。,我要拿你试试手。,我要拿你試試手。
+Character/SwapChar_Text_PharosLeader_1,Text,,…옳은 편으로 돌아가자.,...Back to the right side.,...正しい側に戻る。,...回到正确的一方。,...回到正確的一方。
+Character/SwapChar_Text_PharosLeader_2,Text,,내 창을 맛봐라!,Taste my blade!,私の槍を味わえ！,吃我一枪！,吃我一槍！
+Character/SwapChar_Text_Witch_0,Text,,당신의 명령에 따르겠습니다.,I'll follow your orders.,あなたの命令に従います。,我遵从你的指令。,我遵從你的指令。
+Character/SwapChar_Text_Witch_1,Text,,정말인가...?,Are you sure...?,本当に...？,你确定...?,你確定...?
+Character/SwapChar_name,Text,,차리티,Charite,シャリテ,夏丽蒂,夏麗蒂
+Character_Skin/SwapChar_skin1_SkinName,Text,,수영복 차리티,Swimsuit Charite,水着のシャリテ,泳装夏丽蒂,泳裝夏麗蒂
+Character_Skin/SwapChar_skin1_SkinDesc,Text,,수영복 차리티.,Swimsuit Charite.,水着のシャリテ。,泳装夏丽蒂。,泳裝夏麗蒂。
+Character_Skin/SwapChar_skin2_SkinName,Text,,해양 차리티,Marine Charite,マリーンのシャリテ,海之夏丽蒂,海之夏麗蒂
+Character_Skin/SwapChar_skin2_SkinDesc,Text,,해양 차리티.,Marine Charite.,マリーンのシャリテ。,海之夏丽蒂。,海之夏麗蒂。
+Item_Active/Active_SwapChar_Description,Text,,"전투 외 사용: 전투 시작 시 아군의 위치를 조정합니다 (충전을 소모하지 않음).
+전투 중 사용: 두 아군의 위치를 <color=#0096FF>위치 교환</color>하고 강인함(치유 게이지 보호, +5% 방어력)을 부여합니다.","Use out of battle: Adjust positions of allies at the start of a battle (do not consume charges).
+Use in battle: <color=#0096FF>Swap</color> positions of two allies and gives them Tenacity (protect healing gauge, +5% armor).","戦闘外で使用：戦闘開始時の味方の位置を調整します（チャージを消費しません）。
+戦闘中に使用：2人の味方の位置を<color=#0096FF>位置交換</color>し、タフネス（回復ゲージを保護し、+5%の防御力）を与えます。","战斗外使用：调整战斗开始时队伍的位置（不消耗充能）。
+战斗中使用：将两名友军<color=#0096FF>换位</color>并赋予坚韧（保护体力极限，+5%防御）。","戰鬥外使用：調整戰鬥開始時隊伍的位置（不消耗充能）。
+戰鬥中使用：將兩名友軍<color=#0096FF>換位</color>並賦予堅韌（保護體力極限，+5%防禦）。"
+Item_Active/Active_SwapChar_name,Text,,팔랑크스의 눈,Eye of Phalanx,ファランクスの目,列阵之眼,列陣之眼
+Item_Equip/EquipUnique_SwapChar_Description,Text,,"턴 종료 시, 이번 턴에 받은 피해 횟수에 따라 x 중첩의 강인함(치유 게이지 보호, 중첩당 +5% 방어력)을 얻습니다.","Receive x stacks of Tenacity (protect healing gauge, +5% armor per stack) at the end of turn based on num of hits received this turn.",ターン終了時に、このターンに受けたヒット数に基づいて、xスタックのタフネス（回復ゲージを保護し、スタックごとに+5%の防御力を付与）を受け取ります。,在回合结束时根据本回合被命中次数获得相应层数坚韧（保护体力极限，每层+5%防御）。,在回合結束時依據本回合被命中次數獲得相應層數堅韌（保護體力極限，每層+5%防禦）。
+Item_Equip/EquipUnique_SwapChar_name,Text,,수호의 창,Spear of Protection,ガードの槍,护卫之枪,護衛之槍
+Item_Passive/RelicSixSense_SwapChar_Description,Text,,"전투 시작 시 랜덤한 적에게 '제6감'을 적용합니다.
+'제6감': 받는 치명타 확률 +10%. 유닛에 사라지지 않는 '파악됨!'을 적용합니다. 패배 시 '제6감'을 다른 유닛으로 전이합니다.
+
+<color=#919191>너의 움직임을 다 꿰뚫어 보았다! - 차리티</color>","Apply ""6th Sense"" on a random enemy when a battle starts.
+""6th Sense"": Receiving Critical Chance +10%. Apply nonvanishing ""Identified!"" to the unit. When defeated, transfer ""6th Sense"" to another unit.
+
+<color=#919191>I've Seen Through Your Moves! - Charite</color>","戦闘開始時にランダムな敵に「第六感」を与えられる。
+「第六感」：被クリティカル率+10%。ユニットに消えない「洞察」を与えられる。倒されると、「第六感」を別のユニットに移します。
+
+<color=#919191>お前の動き、全部見透かしたよ！ - シャリテ</color>","战斗开始时对随机敌人施加“第六感”。
+“第六感”：受到暴击率+10%。对该单位施加不会消失的“洞察”减益。被击杀时将“第六感”施加给另一单位。
+
+<color=#919191>你的动作，我已经全看穿了！ - 夏丽蒂</color>","戰鬥開始時對隨機敵人施加「第六感」。
+「第六感」：受到暴擊率+10%。對該單位施加不會消失的「洞察」減益。被擊殺時將「第六感」施加給另一個單位。
+
+<color=#919191>你的動作，我已經全看穿了！ - 夏麗蒂</color>"
+Item_Passive/RelicSixSense_SwapChar_name,Text,,제6감,6th Sense,第六感,第六感,第六感
+Item_Equip/EquipDrone_SwapChar_Description,Text,,"전투 시작 시, 이 장비의 스탯을 <color=#0096FF>위치 버프</color>로 이동합니다.
+새로운 턴이 시작될 때, 버프를 새로운 위치로 이동할 수 있습니다.","At the start of the battle, move the stats of this equipment to a <color=#0096FF>Position Buff</color>.
+At the start of a new turn, select to move the buff to a new position.","戦闘開始時に、この装備のステータスを<color=#0096FF>位置バフ</color>に移動します。
+新しいターンの開始時に、バフを新しい位置に移動することを選択します。","战斗开始时，将该装备的属性移至一个<color=#0096FF>位置增益</color>。
+回合开始时，可选择将该增益移动至另一个位置。","戰鬥開始時，將該裝備的屬性移至一個<color=#0096FF>位置增益</color>。
+回合開始時，可選擇將此增益移動至另一個位置。"
+Item_Equip/EquipDrone_SwapChar_name,Text,,지원 드론,Support Drone,支援ドローン,支援无人机,支援無人機
+Skill/S_SwapChar_MoveBuff_Description,Text,,&b 위치에서 &a 위치로 버프를 이동합니다.,Move the buff from &b to &a position.,バフを&bから&aの位置に移動します。,将增益从&b移动至&a。,將增益從&b移動至&a。
+Skill/S_SwapChar_MoveBuff_Name,Text,,이동!,Move!,移動！,移动！,移動！
+Skill/S_SwapChar_Active_Description,Text,,&a와 &b의 위치를 <color=#0096FF>위치 교환</color>합니다.,<color=#0096FF>Swap</color> positions of &a and &b.,&aと&bの位置を<color=#0096FF>位置交換</color>します。,将&a和&b<color=#0096FF>换位</color>。,將&a和&b<color=#0096FF>換位</color>。
+Skill/S_SwapChar_Active_Name,Text,,교환!,Swap!,位置交換！,换位！,換位！
+Skill/S_SwapChar_10_Description,Text,,"대상과 사용자의 디버프를 랜덤으로 1개 제거하고, 대상과 <color=#0096FF>위치 교환</color>합니다.
+최대 HP의 &a%에 해당하는 배리어를 생성합니다.","Randomly remove a debuff from both target and user, then <color=#0096FF>swap</color> with the target.
+Generate barrier number equal to &a% max HP.","ターゲットと使用者のデバフをランダムに1つ解除し、ターゲットと<color=#0096FF>位置交換</color>します。
+最大体力の&a%に等しいバリアを生成します。","目标和使用者随机移除一个的减益，然后<color=#0096FF>换位</color>。
+生成保护罩数量为&a%最大體力值。","目標和使用者隨機移除一個的減益，然後<color=#0096FF>換位</color>。
+生成保護罩數量為&a%最大體力值。"
+Skill/S_SwapChar_10_Name,Text,,방어 진형,Defensive Formation,防御陣形,防守阵型,防守陣型
+Skill/S_SwapChar_11_Description,Text,,,,,,
+Skill/S_SwapChar_11_Name,Text,,위험 감지,Danger Perception,危険感知,危险预知,危險預知
+Skill/S_SwapChar_1_Description,Text,,"팔랑크스의 눈(액티브 아이템)의 충전을 1회 획득합니다.
+<color=#0096FF>정면 돌격</color>: '파악됨!' 스택을 1개 추가합니다.","Gain one charge of Eye of Phalanx (active item).
+<color=#0096FF>Frontal Assault:</color> Apply one more stack of ""Identified!"".","ファランクスの目（アクティブ）のチャージを1つ獲得します。
+<color=#0096FF>正面突撃</color>：「洞察」のスタックを1つ追加します。","列阵之眼（主动道具）获得1充能。
+<color=#0096FF>正面突击</color>：施加额外一层“洞察”减益。","列陣之眼（主動道具）獲得1充能。
+<color=#0096FF>正面突擊</color>：施加額外一層「洞察」減益。"
+Skill/S_SwapChar_1_Name,Text,,정찰 타격,Recon Strike,偵察打撃,试探打击,試探打擊
+Skill/S_SwapChar_2_Description,Text,,"카운트다운 중:
+- 사용자는 치유 게이지 보호와 방어력 +20%를 얻습니다.
+- 대상은 치유 게이지를 감소시킬 수 없습니다 (&a%<sprite=0>).
+- 대상이 아군을 타겟팅했을 때, 사용자는 해당 아군과 <color=#0096FF>위치 교환</color>합니다.","When in countdown:
+- User gains healing gauge protection and armor +20%
+- Target cannot reduce healing gauge (&a%<sprite=0>)
+- When targeted enemy targets an ally, user <color=#0096FF>swaps</color> with the ally","カウントダウン中：
+- 使用者は回復ゲージ保護と防御力+20%を獲得
+- ターゲットは回復ゲージを減らせない（&a%<sprite=0>）
+- ターゲットが味方をターゲットした場合、使用者はその味方と<color=#0096FF>位置交換</color>します","此技能倒计时中时：
+- 使用者获得保护体力极限和20%防御力
+- 目标无法降低体力极限（&a%<sprite=0>）
+- 当目标瞄准友军时，使用者与该友军<color=#0096FF>换位</color>","此技能倒計時中時：
+- 使用者獲得保護體力極限和20%防禦力
+- 目標無法降低體力極限（&a%<sprite=0>）
+- 當目標瞄準友軍時，使用者與該友軍<color=#0096FF>換位</color>"
+Skill/S_SwapChar_2_Name,Text,,견제 공격,Diversionary Attack,牽制攻撃,牵制攻击,牽制攻擊
+Skill/S_SwapChar_3_Description,Text,,<color=#0096FF>정면 돌격</color>: 스킬 1개를 뽑습니다.,<color=#0096FF>Frontal Assault:</color> Draw 1 skill.,<color=#0096FF>正面突撃</color>：スキルを1個引きます。,<color=#0096FF>正面突击</color>：抽1技能。,<color=#0096FF>正面突擊</color>：抽1技能。
+Skill/S_SwapChar_3_Name,Text,,적진 돌파,Breakout Thrust,敵陣突破,突出重围,突出重圍
+Skill/S_SwapChar_4_Description,Text,,"사용자의 방어력 x2에 따라 &b 피해(&a%)를 추가합니다.
+<color=#0096FF>정면 돌격</color>: 마나를 2 회복합니다.","Damage +&b (&a%) based on user's armor x2.
+<color=#0096FF>Frontal Assault:</color> Restore 2 mana.","使用者の防御力x2に基づいてダメージ+&b（&a%）。
+<color=#0096FF>正面突撃</color>：マナを2回復する。","根据使用者的护甲x2增加&b伤害（&a%）。
+<color=#0096FF>正面突击</color>：恢复2法力值。","根據使用者的護甲x2增加&b傷害（&a%）。
+<color=#0096FF>正面突擊</color>：恢復2法力值。"
+Skill/S_SwapChar_4_Name,Text,,장갑 돌격,Armored Charge,装甲突撃,护甲冲锋,護甲衝鋒
+Skill/S_SwapChar_5_Description,Text,,"가장 왼쪽의 아군에게 '공격 증가!'를 적용합니다.
+가장 오른쪽의 아군에게 '치유 증가!'를 적용합니다.","Apply ""Attack Increase!"" to the leftmost ally.
+Apply ""Healing Increase!"" to the rightmost ally.","最左の味方に「攻撃増加！」を与えられる。
+最右の味方に「回復増加！」を与えられる。","对最左方友军施加“攻击增加！”。
+对最右方友军施加“治疗增加！”。","對最左方友軍施加「攻擊增加！」。
+對最右邊友軍施加「治療增加！」。"
+Skill/S_SwapChar_5_Name,Text,,지형 우위,Terrain Advantage,地形優位,地形优势,地形優勢
+Skill/S_SwapChar_6_Description,Text,,"발동 시, 모든 적에게 '식별됨!'을 적용합니다.","When cast, apply ""Identified!"" to all enemies.",発動時、すべての敵に「洞察」を適用します。,出手时对所有敌人施加“洞察”减益。,出手時對所有敵人施加「洞察」減益。
+Skill/S_SwapChar_6_Name,Text,,전장 분석,Analyze Battlefield,戦場分析,战场分析,戰場分析
+Skill/S_SwapChar_7_1_Description,Text,,대상의 최대 HP의 25%에 해당하는 <color=purple>고통 피해</color>를 입혀 홀로그램 배리어(사용자의 최대 HP의 &a%)를 생성합니다.,Deal <color=purple>pain damage</color> equal to 25% of target max HP to create a hologram barrier (&a% max HP of user).,ターゲットの最大体力の25%に等しい<color=purple>痛みダメージ</color>を与えて、ホログラムバリア（使用者の最大体力の&a%）を作成します。,造成25%目标最大体力值的<color=purple>痛苦伤害</color>以生成全息护盾（使用者&a%的最大体力值）。,造成25%目標最大体力值的<color=purple>痛苦傷害</color>以生成全息護盾（使用者&a%的最大体力值）。
+Skill/S_SwapChar_7_1_Name,Text,,금단탈출,VIP Cover,金蝉脱壳,金蝉脱壳,金蟬脫殼
+Skill/S_SwapChar_7_2_Description,Text,,"아군 수가 &c 미만일 때만 사용 가능합니다.
+최대 HP의 25%에 해당하는 <color=purple>고통 피해</color>를 입혀 홀로그램(아군)을 생성합니다. 홀로그램은 최대 HP의 &a%(&b)를 가지고 있으며, 매우 낮은 어그로를 가집니다. HP가 0 이하가 되면 파괴되며, 위치를 <color=#0096FF>위치 교환</color>하는 고정 스킬을 가집니다 (첫 사용은 무료, 이후 1 마나 소모).","Usable only if ally number is less than &c.
+Deal <color=purple>pain damage</color> equal to 25% of max HP to create a hologram (ally) with &a% (&b) max HP and very low aggro. The hologram is destroyed when HP is below 0 and has a fixed skill to <color=#0096FF>swap</color> position (the first use is free, after that costs 1 mana).","味方の数が&c未満の場合のみ使用可能。
+最大体力の25%に等しい<color=purple>痛みダメージ</color>を与えて、ホログラム（味方）を作成します。ホログラムは最大体力の&a%（&b）を持ち、非常に低いアグロを持ちます。HPが0以下になると破壊され、位置を<color=#0096FF>位置交換</color>する固定スキルを持ちます（最初の使用は無料、その後は1マナ消費）。","仅当友军数量小于&c时能使用。
+造成25%最大体力值的<color=purple>痛苦伤害</color>以生成全息护卫（友军）。全息护卫拥有&a%（&b）的最大體力值和极低的被攻击概率，会在血量归零时被摧毁且拥有固定的<color=#0096FF>换位</color>技能（第一次免费，之后1费）。","僅當友軍數量小於&c時能使用。
+造成25%最大体力值的<color=purple>痛苦傷害</color>以生成全息護衛（友軍）。全息護衛擁有&a%（&b）的最大生命值和極低的被攻擊機率，會在血量歸零時被摧毀且擁有固定的<color=#0096FF>換位</color>技能（第一次免費，之後1費）。"
+Skill/S_SwapChar_7_2_Name,Text,,무중생유,Fake Reinforcement,無中生有,无中生有,無中生有
+Skill/S_SwapChar_7_Description,Text,,"선택: 아군에게 홀로그램을 생성하거나, 새로운 홀로그램 캐릭터를 생성합니다.","Select: Create a hologram on an ally, or create a new hologram character.",選択：味方にホログラムを作成するか、新しいホログラムキャラクターを作成します。,选择：为友军创造一个全息护盾，或者创造一个新的全息影像（友军）。,選擇：為友軍創造一個全息護盾，或創造一個新的全息影像（友軍）。
+Skill/S_SwapChar_7_Name,Text,,홀로그램 미끼,Distraction Hologram,ホログラム囮,全息诱饵,全息誘餌
+Skill/S_SwapChar_8_Add_Description,Text,,,,,,
+Skill/S_SwapChar_8_Add_Name,Text,,추가 공격,Additional Attack,追加攻撃,追击,追擊
+Skill/S_SwapChar_8_Description,Text,,,,,,
+Skill/S_SwapChar_8_Name,Text,,게릴라 전술,Guerrilla Tactics,ゲリラ戦術,游击战术,遊擊戰術
+Skill/S_SwapChar_9_Counter_Description,Text,,,,,,
+Skill/S_SwapChar_9_Counter_Name,Text,,반격!,Counter Attack!,反撃！,反击！,反擊！
+Skill/S_SwapChar_9_Description,Text,,,,,,
+Skill/S_SwapChar_9_Name,Text,,반격 전략,Counter-Offensive,反撃戦略,反击策略,反擊策略
+Skill/S_SwapChar_Lucy_Description,Text,,스킬 2개를 뽑습니다.,Draw 2 skills.,スキルを2個引きます。,抽取2个技能。,抽取2個技能。
+Skill/S_SwapChar_Lucy_Name,Text,,조심해!,Watch Out!,気をつけろ！,小心！,小心！
+Skill/S_SwapChar_Rare_1_Counter_Description,Text,,,,,,
+Skill/S_SwapChar_Rare_1_Counter_Name,Text,,반격!,Counter Attack!,反撃！,反击！,反擊！
+Skill/S_SwapChar_Rare_1_Description,Text,,,,,,
+Skill/S_SwapChar_Rare_1_Name,Text,,전선을 사수하라!,Hold the Line!,戦線を守れ！,坚守战线！,堅守戰線！
+Skill/S_SwapChar_Rare_2_Add_Description,Text,,,,,,
+Skill/S_SwapChar_Rare_2_Add_Name,Text,,폭풍 연격,Piercing Tempest,暴雨連撃,暴雨连击,暴雨連擊
+Skill/S_SwapChar_Rare_2_Description,Text,,이번 턴과 이전 턴의 사용자의 <b>받은 공격 횟수+위치 변경 횟수</b>에 따라 이 스킬을 &a회 재발동합니다.,Recast this skill &a times based on <b>(number of attacks received + position changes)</b> of user during this turn and the last turn.,このターンと前のターンの使用者の<b>受けた攻撃数+位置変更の回数</b>に基づいて、このスキルを&a回再発動します。,根据使用者本回合和上回合<b>受到攻击+位置变化的次数</b>重复释放&a次此技能。,根據使用者本回合和上回合<b>受到攻擊+位置變化的次數</b>重複釋放&a次此技能。
+Skill/S_SwapChar_Rare_2_Name,Text,,폭풍 연격,Piercing Tempest,暴雨連撃,暴雨连击,暴雨連擊
+Skill/S_SwapChar_Rare_3_Description,Text,,대상은 모든 적에게 도발(<sprite=2>&a%)을 적용합니다.,The target applies taunted to all enemies (<sprite=2>&a%).,ターゲットはすべての敵に挑発する（<sprite=2>&a%）。,目标嘲讽所有敌人（<sprite=2>&a%）。,目標嘲諷所有敵人（<sprite=2>&a%）。
+Skill/S_SwapChar_Rare_3_Name,Text,,홀로그래픽 포스 필드,Holographic Force Field,ホログラフィック力場,全息力盾,全息力盾
+Skill/S_SwapChar_Swap_Description,Text,,"대상과 <color=#0096FF>위치 교환</color>합니다.
+고정 스킬로 무한히 사용할 수 있습니다.","<color=#0096FF>Swap</color> with the target.
+Can be used infinity times as a fixed skill.","ターゲットと<color=#0096FF>位置交換</color>します。
+固定スキルとして無限回使用可能です。","与目标<color=#0096FF>换位</color>。
+作为固定技能时可无限使用。","與目標<color=#0096FF>換位</color>。
+作為固定技能時可無限使用。"
+Skill/S_SwapChar_Swap_Name,Text,,교환!,Swap!,位置交換！,换位！,換位！
+SkillExtended/SkillEn_SwapChar_1_Des,Text,,,,,,
+SkillExtended/SkillEn_SwapChar_1_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_SwapChar_1_Name,Text,,"도발 무시
+<color=#0096FF>정면 돌격</color>: 피해 +30%","Ignore Taunt
+<color=#0096FF>Frontal Assault:</color> Damage +30%","挑発無視を与える
+<color=#0096FF>正面突撃</color>：ダメージ+30%","无视嘲讽
+<color=#0096FF>正面突击</color>：伤害+30%","無視嘲諷
+<color=#0096FF>正面突擊</color>：傷害+30%"
+SkillExtended/SkillEn_SwapChar_2_Des,Text,,단일 공격,Single-Target Attack,単体攻撃,单体攻击,單體攻擊
+SkillExtended/SkillEn_SwapChar_2_EnforceString,Text,,,,,,
+SkillExtended/SkillEn_SwapChar_2_Name,Text,,"손에서 사용할 때, 대상과 <color=#0096FF>위치 교환</color>하고 두 캐릭터에게 강인함(치유 게이지 보호, +5% 방어력)을 부여합니다.","When use in hand, <color=#0096FF>swap</color> with the target and give both characters Tenacity (protect healing gauge, +5% armor)",手札から使用する時、ターゲットと<color=#0096FF>位置交換</color>し、両方のキャラクターにタフネス（回復ゲージを保護し、+5%の防御力を付与）を与えます。,出手时，与目标<color=#0096FF>换位</color>并给予双方坚韧（保护体力极限，+5%防御力）,出手時，與目標<color=#0096FF>換位</color>並給予雙方堅韌（保護體力極限，+5%防禦力）
+SkillExtended/SkillEn_SwapChar_3_Des,Text,,,,,,
+SkillExtended/SkillEn_SwapChar_3_EnforceString,Text,,"<sprite name=""비용1""><sprite name=""이상"">","<sprite name=""비용1""><sprite name=""이상"">","<sprite name=""비용1""><sprite name=""이상"">","<sprite name=""비용1""><sprite name=""이상"">","<sprite name=""비용1""><sprite name=""이상"">"
+SkillExtended/SkillEn_SwapChar_3_Name,Text,,"손에 있는 동안, 아군이 2번 <color=#0096FF>위치 교환</color>할 때마다 비용 -1","When in hand, every 2 times two allies <color=#0096FF>swap</color> with each other, cost -1",手札にある間、味方が2回<color=#0096FF>位置交換</color>するたびに、コスト-1,在手中时，友军每进行两次<color=#0096FF>换位</color>，费用-1,在手中時，友軍每進行兩次<color=#0096FF>換位</color>，費用-1
+SkillKeyword/KeyWord_SwapChar_Swap_Desc,Text,,"두 아군의 위치를 교환합니다. 교환 시, 모든 적과 아군의 카운트다운 중인 스킬은 같은 위치를 타겟팅합니다.","Exchange positions of two allies. When swapping, all enemy skills and ally skills in countdown will target the same position.",2人の味方の位置を交換します。位置交換時、すべての敵と味方のカウント中のスキルは同じ位置をターゲットにします。,将两个友军的位置交换。换位时，所有敌人和友军在倒计时中的技能保持指向固定位置。,將兩個友軍的位置交換。換位時，所有敵人和友軍在倒數計時中的技能保持指向固定位置。
+SkillKeyword/KeyWord_SwapChar_Swap_Name,Text,,위치 교환,Swap,位置交換,换位,換位
+SkillKeyword/KeyWord_SwapChar_Synchronize_Desc,Text,,사용자와 대상이 왼쪽에서 오른쪽으로 같은 위치에 있을 때 (전투 불능 및 선택 불가 캐릭터 무시) 발동합니다.,Activated when user and target are at the same position counting from left to right (ignore fainted or unselectable characters).,使用者とターゲットが左から右に数えて同じ位置にいる場合（戦闘不能および選択不可のキャラクターを無視する）、発動します。,当使用者和目标在从左往右的同样位置时（忽略无法战斗和无法选中的角色），激活特殊效果。,當使用者和目標在從左到右的相同位置時（忽略無法戰鬥和無法選中的角色），啟動特殊效果。
+SkillKeyword/KeyWord_SwapChar_Synchronize_Name,Text,,정면 돌격,Frontal Assault,正面突撃,正面突击,正面突擊
+SkillKeyword/KeyWord_SwapChar_Unmoving_Desc,Text,,캐릭터의 위치가 변경되어도 위치 버프는 그 위치에 남아 있습니다.,A position buff will stick to its position when the character position changes.,キャラクターの位置が変わっても、位置バフはその位置に留まります。,位置增益在角色位置变化时不会移动位置。,位置增益在角色位置變化時不會移動位置。
+SkillKeyword/KeyWord_SwapChar_Unmoving_Name,Text,,위치 버프,Position Buff,位置バフ,位置增益,位置增益
+SpecialKey/SPK_TheLight_Power_SwapChar_Name,Text,,내 안에 힘이 솟아오른다!,I'm bursting with power!,私の体内に力が湧き上がる！,我的体内涌现出力量！,我的體內湧現力量！
+SimpleCampDialogue/CampDial_SwapChar_SilverStein_Dialogues_0,Text,,[A]왜 그렇게 뒤틀린 땅을 두려워하나요? 당신은 유능해 보이는데.,[A]Why are you so scared of the twisted land? You seem capable.,[A]なぜそんなに歪みの地を恐れているの？あなたは有能そうだ。,[A]为什么这么害怕扭曲之地？你看起来很强。,[A]為什麼這麼害怕扭曲之地？你看起來很強。
+SimpleCampDialogue/CampDial_SwapChar_SilverStein_Dialogues_1,Text,,[B]전투에서 죽는 건 싫어요.,[B]I wouldn't like being killed in a fight.,[B]戦闘で殺される覚悟はありません。,[B]我没有在战斗中被杀死的觉悟。,[B]我沒有在戰鬥中被殺死的覺悟。
+SimpleCampDialogue/CampDial_SwapChar_SilverStein_Dialogues_2,Text,,"[B]유능하든 아니든, 10명의 괴물들에게 덤벼들면 누구라도 쓰러질 거예요.","[B]Capable or not, being jumped by 10 freaks would down anybody.",[B]有能かどうかに関わらず、10人の変人に襲われたら誰でも倒れる。,[B]不管强不强，战场上的生死总在一瞬之间。,[B]不管強不強，戰場上的生死總在一瞬之間。
+SimpleCampDialogue/CampDial_SwapChar_SilverStein_Dialogues_3,Text,,[A]최악의 상황이 일어나지 않도록 할게요.,[A]I'll make sure that doesn't happen.,[A]最悪の事態が起こらないようにするよ。,[A]我会确保最坏的事情不会发生。,[A]我會確保最壞的事情不會發生。
+SimpleCampDialogue/CampDial_SwapChar_Trisha_Dialogues_0,Text,,"[A]전에 당신을 본 적이 없는데, 새로 오셨나요?","[A]I had never seen you before, are you new here?",[A]以前あなたを見たことがないけど、新人ですか？,[A]我以前没有见过你，你是新人吗？,[A]我以前沒見過你，你是新人嗎？
+SimpleCampDialogue/CampDial_SwapChar_Trisha_Dialogues_1,Text,,[B]감사합니다. 아니에요.,[B]Thanks. I'm not.,[B]ありがとう。違うよ。,[B]谢谢，我不是。,[B]謝謝，我不是。
+SimpleCampDialogue/CampDial_SwapChar_Ilya_Dialogues_0,Text,,[B]제가 약해서 당신이 많이 다쳐서 미안해요.,[B]I'm sorry you get hurt so much because I'm weak.,[B]私が弱いせいで、あなたがたくさん傷ついてごめんなさい。,[B]对不起，因为我很弱的缘故你受了很多伤。,[B]對不起，因為我很弱的緣故你受了很多傷。
+SimpleCampDialogue/CampDial_SwapChar_Ilya_Dialogues_1,Text,,"[A]약하다고? 당신은 바람처럼 달려가고, 칼과 검의 빛 속에서 흐르는 물처럼 부드럽게 움직이고 있어요.",[A]Weak? You've been zapping and slicing around so much.,[A]弱い？あなたは疾風のように駆け抜け、刀と剣の光の中で流れる水のように滑らかに動いています。,[A]弱？你这一路疾影纵横，刀光剑影之间行云流水。,[A]弱？你這一路疾影縱橫，刀光劍影之間行雲流水。
+SimpleCampDialogue/CampDial_SwapChar_Ilya_Dialogues_2,Text,,"[A]솔직히, 당신을 따라가기 힘들어요.",[A]Honnestly I've been having trouble keeping up with you.,[A]正直、あなたについていくのに苦労しているよ。,[A]说实话我很难跟上你的速度。,[A]說實話我很難跟上你的速度。
+SimpleCampDialogue/CampDial_SwapChar_Ilya_Dialogues_3,Text,,"[B]제가 이렇게 약하지 않았다면, 당신이 저를 보호할 필요도 없었을 텐데…","[B]If I weren't so weak, you wouldn't have to protect me…",[B]もし私がこんなに弱くなければ、あなたは私を守らなくてもいいのに…,[B]但如果我没这么弱的话你也不用保护我了...,[B]但如果我沒這麼弱的話你也不用保護我了...
+SimpleCampDialogue/CampDial_SwapChar_Joey_Dialogues_0,Text,,"[A]포션을 더 만들어야 해요, 소비에 맞출 수가 없어요.","[A]Produce more potion, we can barely keep up.",[A]もっとポーションを作って、私たちは消費に追いつけません。,[A]快制作更多的药水，我们跟不上消耗了。,[A]快製作更多的藥水，我們跟不上消耗了。
+SimpleCampDialogue/CampDial_SwapChar_Joey_Dialogues_1,Text,,"[B]만드는 데 시간이 걸려요, 낭비하지 마세요.","[B]It takes time to make them, quit wasting.",[B]作るのに時間がかかるんだ、無駄にするな。,[B]做药很费时间的，不要浪费它们。,[B]做藥很花時間的，不要浪費它們。
+SimpleCampDialogue/CampDial_SwapChar_Joey_Dialogues_2,Text,,[A]그렇게 엘리트는 아니네요? 느려터졌어요.,[A]Not so elite huh? Slowie.,[A]そんなにエリートじゃないんだな？遅いやつ。,[A]看来你还不够精英啊？慢吞吞的家伙。,[A]看來你還不夠菁英啊？慢吞吞的傢伙。
+SimpleCampDialogue/CampDial_SwapChar_Joey_Dialogues_3,Text,,[B]으음…,[B]Ugh-,[B]うーん…,[B]呃...,[B]呃...
+SimpleCampDialogue/CampDial_SwapChar_Narhan_Dialogues_0,Text,,"[A]사람들은 당신이 신비롭다고 말하지만, 사실은 그냥 지루해요.","[A]People keep saying that you're mysterious, but really you're just boring.",[A]人々はあなたが神秘的だと言っているが、実際はただ退屈だ。,[A]人们都说你很神秘，但实际上你很无趣。,[A]人們都說你很神秘，但其實你很無聊。
+SimpleCampDialogue/CampDial_SwapChar_Narhan_Dialogues_1,Text,,[B]당신 같은 근육 머리는 이해 못할 거예요.,[B]I wouldn't expect a musclebrain like you to understand.,[B]あなたのような筋肉脳には理解できないだろう。,[B]我不期待一个肌肉脑能理解我。,[B]我不期待一個肌肉腦能理解我。
+SimpleCampDialogue/CampDial_SwapChar_Narhan_Dialogues_2,Text,,"[A]그래, 너 같은 똑똑이의 마음을 읽는 거지.","[A]Sure, you mind reading smartass.",[A]そうだな、あなたは賢い奴の心を読むんだな。,[A]噢，看来你只会读聪明蛋子的心。,[A]噢，看來你只會讀聰明蛋子的心。
+SimpleCampDialogue/CampDial_SwapChar_Narhan_Dialogues_3,Text,,[B]잘 알고 있네요.,[B]Sounds exactly like me.,[B]よくわかっているようだ。,[B]你挺上道的嘛。,[B]你挺上道的嘛。
+SimpleCampDialogue/CampDial_SwapChar_Priest_Dialogues_0,Text,,[A]유연하고 다양하는 것은 좋지만…,[A]Having versatility is good but..,[A]柔軟で多様であることは良いことだが…,[A]灵活多变是好事，但是...,[A]靈活多變是好事，但...
+SimpleCampDialogue/CampDial_SwapChar_Priest_Dialogues_1,Text,,[A]방망이를 휘두르는 치유 사제…?,[A]An healing priest wielding a bat..?,[A]バットを振るう癒しの司祭…？,[A]一个拿着球棒的牧师？,[A]一個拿著球棒的牧師？
+SimpleCampDialogue/CampDial_SwapChar_Priest_Dialogues_2,Text,,[A]그건 큰 놀라움이에요.,[A]That's a big surprise.,[A]それは大きな驚きだ。,[A]真是个大惊喜。,[A]真是個大驚喜。
+SimpleCampDialogue/CampDial_SwapChar_Priest_Dialogues_3,Text,,"[B]당신에게는, 그럴지도 모르죠.","[B]For you, maybe.",[B]あなたにとっては、そうかもね。,[B]对你来说，也许是。,[B]對你來說，也許是。
+SimpleCampDialogue/CampDial_SwapChar_Leryn_Dialogues_0,Text,,[A]저에게 더 많은 배리어를 씌워 주세요.,[A]You should put more barrier on me.,[A]もっとバリアをかけてくれ。,[A]你应该给我提供更多的保护罩。,[A]你應該提供我更多的保護罩。
+SimpleCampDialogue/CampDial_SwapChar_Leryn_Dialogues_1,Text,,"[B]차리테, 모든 걸 혼자 하려고 하는 건 건강하지 않아요.","[B]Charite, it's not healthy for you to do everything by yourself.",[B]シャリテ、あなたがすべてを自分でやるのはよくない。,[B]夏丽蒂，你总想自己一个人做好所有事，这是不明智的。,[B]夏麗蒂，你總想自己一個人做好所有事，這是不明智的。
+SimpleCampDialogue/CampDial_SwapChar_Leryn_Dialogues_2,Text,,[A]모든 걸 혼자 하는 건 아니에요.,[A]I'm not doing everything by myself.,[A]すべてを自分でやっているわけじゃない。,[A]我没有一个人做所有事。,[A]我沒有一個人做所有事。
+SimpleCampDialogue/CampDial_SwapChar_Leryn_Dialogues_3,Text,,"[A]당신이 배리어를 씌우면, 나머지는 제가 할게요.",[A]You put barriers onto me and I do the rest.,[A]あなたがバリアをかけて、残りは私がやる。,[A]你给我套护盾，我做剩下的事。,[A]你給我套護盾，我做剩下的事。
+SimpleCampDialogue/CampDial_SwapChar_Sizz_Dialogues_0,Text,,"[B]차리테 씨, 재킷이 찢어졌어요.",[B]Miss Charite I think you ripped your jacket.,[B]シャリテさん、ジャケットが破れているようです。,[B]夏丽蒂女士，你的外套裂开了。,[B]夏麗蒂女士，妳的外套裂開了。
+SimpleCampDialogue/CampDial_SwapChar_Sizz_Dialogues_1,Text,,"[A]자주 있는 일이에요, 제가 처리할게요.","[A]It happens, I can deal with it.",[A]よくあることだ、自分で何とかするよ。,[A]常有的事，我自己能处理。,[A]常有的事，我自己能處理。
+SimpleCampDialogue/CampDial_SwapChar_Sizz_Dialogues_2,Text,,"[B]혼자 감당하지 마세요, 제가 꿰매 드릴게요.","[B]Don't bear it like that, let me sew it up.",[B]一人で抱え込まないで、私が縫い上げるよ。,[B]不用独自承受，让我来把它缝好。,[B]不用獨自承受，讓我來把它縫好。
+SimpleCampDialogue/CampDial_SwapChar_Sizz_Dialogues_3,Text,,[A]고마워요…,[A]Thanks…,[A]ありがとう…,[A]谢谢...,[A]謝謝...
+SimpleCampDialogue/CampDial_SwapChar_Johan_Dialogues_0,Text,,"[B]많은 군인들이 종교적이라고 들었는데, 당신도 그런가요?","[B]I've heard a lot of soldiers are religious, are you?",[B]多くの兵士が宗教的だと聞いたけど、あなたは？,[B]我听说很多士兵都有宗教信仰，你有吗？,[B]我聽說很多士兵都有宗教信仰，你有嗎？
+SimpleCampDialogue/CampDial_SwapChar_Johan_Dialogues_1,Text,,"[A]아니요, 왜 그런 질문을 하시나요?","[A]Not really, why do you ask?",[A]そうでもない、なぜそんなことを聞くの？,[A]没有。为什么这么问？,[A]沒有。為什麼這麼問？
+SimpleCampDialogue/CampDial_SwapChar_Johan_Dialogues_2,Text,,"[B]별다른 이유는 없어요, 그냥 당신의 성격을 추측하고 있어요.","[B]Nothing, just guessing your personality.",[B]特に何もない、ただあなたの性格を推測しているだけ。,[B]没其他意思，就想猜猜你的个性。,[B]沒其他意思，就想猜猜你的個性。
+SimpleCampDialogue/CampDial_SwapChar_Johan_Dialogues_3,Text,,[A]아하…,[A]I see…,[A]なるほど…,[A]哦...,[A]哦...
+SimpleCampDialogue/CampDial_SwapChar_Huz_Dialogues_0,Text,,[A]저 토끼.,[A]That rabbit.,[A]そのウサギ。,[A]那个兔子。,[A]那個兔子。
+SimpleCampDialogue/CampDial_SwapChar_Huz_Dialogues_1,Text,,[B]왜요?,[B]What about it?,[B]どうしたの？,[B]它怎么了？,[B]牠怎麼了？
+SimpleCampDialogue/CampDial_SwapChar_Huz_Dialogues_2,Text,,[A]…귀여워요.,[A]…It's cute.,[A]…かわいいね。,[A]...很可爱。,[A]...很可愛。
+SimpleCampDialogue/CampDial_SwapChar_Azar_Dialogues_0,Text,,[A]당신의 검에는 무게가 없어요.,[A]Your swords have no weight to them.,[A]あなたの剣には重みがない。,[A]你的剑没有力量。,[A]你的劍沒有力量。
+SimpleCampDialogue/CampDial_SwapChar_Azar_Dialogues_1,Text,,[B]그래도 당신의 창보다는 강해요.,[B]Yet they'd still beat your spear.,[B]それでもあなたの槍より強いよ。,[B]即便如此它们也比你的枪强。,[B]即便如此它們也比你的槍強。
+SimpleCampDialogue/CampDial_SwapChar_Azar_Dialogues_2,Text,,[A]오? 한번 해볼래요?,[A]Oh? Wanna try it out?,[A]ああ？試してみるか？,[A]哦？想试试？,[A]哦？想試試？
+SimpleCampDialogue/CampDial_SwapChar_Pheonix_Dialogues_0,Text,,[A]그래서 페니ックス,"[A]So Phoenix, you are immortal right?",[A]だからフェニックス、あなたは不死身なんだよね？,[A]所以凤凰，你是无敌的是吧？,[A]所以鳳凰，你是無敵的是吧？
+SimpleCampDialogue/CampDial_SwapChar_Pheonix_Dialogues_1,Text,,[B]그래! 나는 위대한 불사조 페니ックス야! 어떤 피해를 입어도 재에서 다시 일어날 거야!,"[B]Indeed! I am the grand immortal Phoenix! I will always rise from my ashes, no matter the damage!",[B]その通り！私は偉大なる不死鳥フェニックス！どんなダメージを受けても、灰からよみがえる！,[B]没错！我是伟大不朽的凤凰！无论受到多少伤害，我都能从灰烬中重生！,[B]沒錯！我是偉大不朽的鳳凰！無論受到多少傷害，我都能從灰燼中重生！
+SimpleCampDialogue/CampDial_SwapChar_Pheonix_Dialogues_2,Text,,[A]내가 너를 방패처럼 휘두르면 어떻게 될까?,[A]What if I moved you around like a shield?,[A]もし私があなたを盾のように動かしたらどうなる？,[A]如果我把你当盾牌一样挥来挥去会怎样？,[A]如果我把你當盾牌一樣揮來揮去會怎樣？
+SimpleCampDialogue/CampDial_SwapChar_Pheonix_Dialogues_3,Text,,[B]…,[B]…,[B]…,[B]...,[B]...
+SimpleCampDialogue/CampDial_SwapChar_Pheonix_Dialogues_4,Text,,[B]그래도 아프긴 해.,[B]I still do feel pain.,[B]それでも痛みは感じるよ。,[B]我还是会痛的。,[B]我還是會痛的。
+SimpleCampDialogue/CampDial_SwapChar_Lian_Dialogues_0,Text,,[B]내가 적을 패링하려고 할 때 날 리포지셔닝하지 마.,[B]Quit repositioning me when I'm about to parry the enemy.,[B]敵をパリィしようとしているときに私をリポジションしないでくれ。,[B]不要在我打算格挡的时候把我换位。,[B]不要在我打算格擋的時候把我換位。
+SimpleCampDialogue/CampDial_SwapChar_Lian_Dialogues_1,Text,,[A]내가 처리하려는 적을 패링하려고 하지 마.,[A]Well don't get ready to parry an enemy I'm about to handle.,[A]私が対処しようとしている敵をパリィしようとしないでくれ。,[A]不要想去格挡我正在对付的敌人。,[A]不要想去格擋我正在對付的敵人。
+SimpleCampDialogue/CampDial_SwapChar_Lian_Dialogues_2,Text,,[B]자신의 한계를 과대평가하지 말고,"[B]Don't overestimate your limits, you need to rely on others.",[B]自分の限界を過大評価しないで、他人に頼る必要がある。,[B]别太高估自己的能力，你也要学会依赖别人。,[B]別太高估自己的能力，你也要學會依賴別人。
+SimpleCampDialogue/CampDial_SwapChar_Lian_Dialogues_3,Text,,[A]나는 의존받는 쪽이야.,[A]I'm the one that's relied on.,[A]私は頼られる側だ。,[A]我才应该是被依靠的一方。,[A]我才應該是被依靠的一方。
+SimpleCampDialogue/CampDial_SwapChar_Red_Dialogues_0,Text,,[B]야! 울보를 보호하는 건 내 일이야,"[B]Hey! Protecting the crybaby is my job, newbie.",[B]おい！うちの泣き虫を守るのは私の仕事だ、新人。,[B]嘿！保护我家的爱哭鬼是我的职责，新人。,[B]嘿！保護我家的愛哭鬼是我的職責，新人。
+SimpleCampDialogue/CampDial_SwapChar_Red_Dialogues_1,Text,,[A]적을 태우는 데 집중하면 더 효율적일 거야. 보호는 나에게 맡겨.,[A]You'd be more efficient if you just focused on burning our enemies. Let the protecting to me.,[A]敵を燃やすことに集中すれば、もっと効率的になるよ。守りは私に任せてくれ。,[A]如果你能专注于灼烧敌人效率会更高。我更擅长保护。,[A]如果你能專注於灼燒敵人效率會更高。我更擅長保護。
+SimpleCampDialogue/CampDial_SwapChar_Red_Dialogues_2,Text,,[B]안 돼! 내가 너보다 그녀를 더 잘 보호할 수 있어!,[B]No way! I protect her better than you ever could!,[B]まさか！私はあなたよりも彼女を守れる！,[B]不行！我比你能更好保护她！,[B]不行！我比你能更好保護她！
+SimpleCampDialogue/CampDial_SwapChar_Red_Dialogues_3,Text,,[B]헬리아,[B]Helia you're burning me…,[B]ヘリア、あなたが私を燃やしている…,[B]海拉你烧到我了...,[B]海拉你燒到我了...
+SimpleCampDialogue/CampDial_SwapChar_Blue_Dialogues_0,Text,,[A]달빛은 야간 전투에서 큰 이점이야.,[A]Moonlight is a great advantage to have during night combat.,[A]月光は夜間戦闘で大きな利点だ。,[A]月光在夜晚作战时是很好的光源。,[A]月光在夜晚作戰時是很好的光源。
+SimpleCampDialogue/CampDial_SwapChar_Blue_Dialogues_1,Text,,[B]난 싸울 수 없어,"[B]I can't fight, Helia is much better at that.",[B]私は戦えない、ヘリアの方がずっと得意だ。,[B]我不擅长这些，海拉比我更擅于创造光源。,[B]我不擅長這些，海拉比我更擅於創造光源。
+SimpleCampDialogue/CampDial_SwapChar_Blue_Dialogues_2,Text,,[A]전술적인 빛의 중요성을 과소평가하지 마.,[A]Never underestimate the importance of tactical light.,[A]戦術的な光の重要性を過小評価しないでくれ。,[A]不要低估战术光源的作用。,[A]不要低估戰術光源的作用。
+SimpleCampDialogue/CampDial_SwapChar_Blue_Dialogues_3,Text,,[B]그래도 태양이 더 밝아…,[B]The sun is still brighter…,[B]それでも太陽の方が明るい…,[B]但还是太阳更明亮...,[B]但還是太陽更明亮...
+SimpleCampDialogue/CampDial_SwapChar_Hein_Dialogues_0,Text,,[A]너무 무모해,"[A]You're reckless, you're gonna die if you keep doing what you're doing.",[A]あなたは無謀だ、このままでは死ぬよ。,[A]你太鲁莽了，再这样下去你可能会死。,[A]你太魯莽了，再這樣下去你可能會死。
+SimpleCampDialogue/CampDial_SwapChar_Hein_Dialogues_1,Text,,[B]누구한테 죽는다고? 나를 죽이려는 자를 먼저 죽이면 돼.,[B]Dying from what? I just kill my would-be killer first.,[B]誰に殺されるの？私はただ私を殺そうとする奴を先に殺すだけだ。,[B]被谁杀死？我只要杀光可能杀死我的人就行了。,[B]被誰殺死？我只要殺光可能殺死我的人就行了。
+SimpleCampDialogue/CampDial_SwapChar_Iron_Dialogues_0,Text,,[B]너 용병이야? 내 부대에 딱 맞을 거야.,[B]You're a mercenary? You'd fit right into my squadron.,[B]あなたは傭兵？私の部隊にぴったりだ。,[B]你是一个佣兵？我的队伍需要你这样的人。,[B]你是個傭兵？我的隊伍需要你這樣的人。
+SimpleCampDialogue/CampDial_SwapChar_Iron_Dialogues_1,Text,,[A]아마도,"[A]Probably, remind me once we're done with the clock tower.",[A]そうかもね、時計塔を終えたらまた教えてくれ。,[A]听起来不错，在我们搞定钟楼之后再提醒我一次。,[A]聽起來不錯，在我們搞定鐘樓之後再提醒我一次。
+SimpleCampDialogue/CampDial_SwapChar_Miss_Dialogues_0,Text,,[A]너무 무모하고,"[A]You're reckless, an arsonist and you charge everywhere.",[A]あなたは無謀で、火をあちこちに放っています。,[A]你很鲁莽，你把火放得到处都是。,[A]你很魯莽，你把火放得到處都是。
+SimpleCampDialogue/CampDial_SwapChar_Miss_Dialogues_1,Text,,[B]고마워! 하지만 난 그냥 나 자신일 뿐이야...,[B]Thank you! But I'm just being myself...,[B]ありがとう！でも私はただ自分らしくしているだけ…,[B]多谢提醒！但这就是我...,[B]多謝提醒！但這就是我...
+SimpleCampDialogue/CampDial_SwapChar_Charon_Dialogues_0,Text,,[B]그 홀로그램에 영혼을 주입할 수 있을까?,[B]Can I infuse a soul into that hologram?,[B]そのホログラムに魂を注入できる？,[B]我可以把灵魂融进那个全息影像里吗？,[B]我可以把靈魂融進那個全像影像裡嗎？
+SimpleCampDialogue/CampDial_SwapChar_Charon_Dialogues_1,Text,,[A]안 돼.,[A]No.,[A]ダメ。,[A]不行。,[A]不行。
+SimpleCampDialogue/CampDial_SwapChar_Charon_Dialogues_2,Text,,[B]해볼 수는 없을까?,[B]Can I try?,[B]試させてくれない？,[B]让我试试嘛？,[B]讓我試試嘛？
+SimpleCampDialogue/CampDial_SwapChar_Charon_Dialogues_3,Text,,[A]안 돼.,[A]No.,[A]ダメ。,[A]不行。,[A]不行。
+SimpleCampDialogue/CampDial_SwapChar_Momori_Dialogues_0,Text,,[B]우와~ 너 같은 남자다운 복근이 없어서 다행이야!,[B]Uwa~ I'm so glad I don't have manly abs like that!,[B]うわ～、私にはそんな男らしい腹筋がないのが嬉しい！,[B]哇～很庆幸我没有像你那样的腹肌！,[B]哇～很慶幸我沒有像你那樣的腹肌！
+SimpleCampDialogue/CampDial_SwapChar_Momori_Dialogues_1,Text,,[A]그 복근이 널 부셔버릴 거야.,[A]Those abs would crush you.,[A]その腹筋はあなたを粉砕するだろう。,[A]这些腹肌意味着我能轻松击败你。,[A]這些腹肌意味著我能輕鬆擊敗你。
+SimpleCampDialogue/CampDial_SwapChar_Momori_Dialogues_2,Text,,[B]무서워~!,[B]Scary~!,[B]怖い～！,[B]好吓人哦～,[B]好嚇人哦～

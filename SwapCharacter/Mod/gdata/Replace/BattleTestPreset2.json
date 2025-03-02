@@ -1,0 +1,70 @@
+{
+    "BattleTestPreset2": {
+        "_gdeSchema": "Preset",
+        "Party": [
+            "SwapChar",
+            "Hein",
+            "Queen",
+            "MissChain"
+        ],
+        "PartyBasicSkill": [
+            "S_SwapChar_9",
+            "S_SwapChar_Swap",
+            "S_Queen_7",
+            "S_MissChain_7"
+        ],
+        "PartySkills": [
+            [
+                "S_SwapChar_Rare_2",
+                "S_SwapChar_3",
+                "S_SwapChar_1",
+                "S_SwapChar_2",
+                "S_SwapChar_4",
+                "S_SwapChar_5",
+                "S_SwapChar_6",
+                "S_SwapChar_7",
+                "S_SwapChar_8",
+                "S_SwapChar_Rare_1",
+                "S_SwapChar_Rare_3"
+            ],
+            [
+                
+            ],
+            [
+                
+            ],
+            [
+                
+            ]
+        ],
+        "PartyEquip": [
+            [
+                "EquipUnique_SwapChar"
+            ],
+            [
+                
+            ],
+            [
+                
+            ],
+            [
+                
+            ]
+        ],
+        "ConsumeItems": [
+            "Active_SwapChar"
+        ],
+        "AP": 8,
+        "Passive": [
+            "RelicSixSense_SwapChar",
+            "BlueRose"
+        ],
+        "LucySkill": [
+            "S_Lucy_0",
+            "S_LucyCasinoDLC_V2_0_Plus",
+            "S_SwapChar_Lucy",
+            "S_Lucy_2",
+            "S_Lucy_CasinoDLC_9"
+        ]
+    }
+}

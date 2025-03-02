@@ -1,0 +1,15 @@
+{
+    "S_SwapChar_3_skin1": {
+        "_gdeSchema": "VFXSkill",
+        "MySkill": "S_SwapChar_3",
+        "Image_0": "S_SwapChar_3_skin1\\S_SwapChar_3_skin1_Image_0.png",
+        "SkillImage": [
+            "S_SwapChar_3_skin1\\S_SwapChar_3_skin1_Image_0.png",
+            "S_SwapChar_3_skin1\\S_SwapChar_3_skin1_Image_1.png",
+            "S_SwapChar_3_skin1\\S_SwapChar_3_skin1_Image_2.png"
+        ],
+        "Image_1": "S_SwapChar_3_skin1\\S_SwapChar_3_skin1_Image_1.png",
+        "Image_2": "S_SwapChar_3_skin1\\S_SwapChar_3_skin1_Image_2.png",
+        "Particle": "Assets/ModAssets/SwapChar_3_skin1_VFX.prefab"
+    }
+}

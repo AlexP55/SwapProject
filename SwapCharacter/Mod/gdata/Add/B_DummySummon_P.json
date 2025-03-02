@@ -1,0 +1,17 @@
+{
+    "B_DummySummon_P": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": true,
+        "ClassName": "SwapCharacter.B_DummySummon_P",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": true,
+        "Name": "Protection Hologram",
+        "Icon": "B_DummySummon_P\\B_DummySummon_P_Icon.png",
+        "Description": "",
+        "Debuff": false,
+        "TagPer": 0
+    }
+}

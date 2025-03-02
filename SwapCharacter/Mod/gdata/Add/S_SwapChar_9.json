@@ -1,0 +1,34 @@
+{
+    "S_SwapChar_9": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Buff",
+        "Target": "otherally",
+        "NoBasicSkill": false,
+        "Name": "Counter-Offensive",
+        "Description": "",
+        "User": "SwapChar",
+        "NotCount": true,
+        "Basic": true,
+        "Effect_Target": "SE_T_S_SwapChar_9",
+        "Effect_Self": "SE_S_S_SwapChar_9",
+        "PlusKeyWords": [
+            "KeyWord_SwapChar_Swap"
+        ],
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "Image_0": "S_SwapChar_9\\S_SwapChar_9_Image_0.png",
+        "Image_1": "S_SwapChar_9\\S_SwapChar_9_Image_1.png",
+        "Image_2": "S_SwapChar_9\\S_SwapChar_9_Image_2.png"
+    }
+}

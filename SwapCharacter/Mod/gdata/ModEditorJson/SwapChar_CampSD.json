@@ -1,0 +1,18 @@
+{
+    "myKey": "SwapChar",
+    "myField": "CampSD",
+    "myValues": {
+        "pivot01": {
+            "x": "0.5",
+            "y": "0.22"
+        },
+        "pivot23": {
+            "x": "0.6",
+            "y": "0.14"
+        }
+    },
+    "MyChangeType": "CampSD",
+    "myKeys": [
+        
+    ]
+}

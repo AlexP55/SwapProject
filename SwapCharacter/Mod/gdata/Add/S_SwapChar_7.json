@@ -1,0 +1,34 @@
+{
+    "S_SwapChar_7": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Shield",
+        "Target": "choiceskill",
+        "NotCount": true,
+        "Name": "Distraction Hologram",
+        "Description": "",
+        "UseAp": 1,
+        "User": "SwapChar",
+        "SkillExtended": [
+            "SwapCharacter.S_SwapChar_7"
+        ],
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "PlusSkillView": "S_SwapChar_7_1",
+        "Image_0": "S_SwapChar_7\\S_SwapChar_7_Image_0.png",
+        "Image_1": "S_SwapChar_7\\S_SwapChar_7_Image_1.png",
+        "Image_2": "S_SwapChar_7\\S_SwapChar_7_Image_2.png"
+    }
+}

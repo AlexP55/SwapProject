@@ -1,0 +1,10 @@
+{
+    "EquipDrone_SwapChar": {
+        "_gdeSchema": "Item_Equip",
+        "Itemclass": "Unique",
+        "image": "Item\\EquipDrone_SwapChar_image.png",
+        "name": "Support Drone",
+        "Description": "At the start of the battle, move the stats of this equipment to a Position Buff.\nAt the start of a new turn, select to move the buff to a new position.",
+        "Equip_Script": "SwapCharacter.EquipDrone_SwapChar"
+    }
+}

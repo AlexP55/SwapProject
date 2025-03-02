@@ -1,0 +1,37 @@
+{
+    "S_SwapChar_7_1": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Shield",
+        "Rare": false,
+        "Target": "ally",
+        "NODOD": false,
+        "NotCount": true,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": true,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "Description": "",
+        "Name": "VIP Cover",
+        "Effect_Target": "SE_T_S_SwapChar_7_1",
+        "SkillExtended": [
+            "SwapCharacter.S_SwapChar_7_1"
+        ],
+        "PlusSkillView": "S_SwapChar_7_2",
+        "PlusKeyWords": [
+            "KeyWord_SwapChar_Swap"
+        ],
+        "UseAp": 1,
+        "Image_0": "S_SwapChar_7_1\\S_SwapChar_7_1_Image_0.png",
+        "Image_1": "S_SwapChar_7_1\\S_SwapChar_7_1_Image_1.png",
+        "Image_2": "S_SwapChar_7_1\\S_SwapChar_7_1_Image_2.png"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "B_SwapChar_10_S": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "SwapCharacter.B_SwapChar_10_S",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "Name": "Barrier",
+        "LifeTime": 2,
+        "Description": "",
+        "Icon": "Image/Buff/Skill_Icon_Pack/emerald/emerald_03"
+    }
+}

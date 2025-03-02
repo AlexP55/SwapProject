@@ -1,0 +1,324 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06c1d1917f9e5c4b9cd9b7da319c29e, type: 3}
+  m_Name: KingNPC_SwapChar
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 11400000, guid: a152ecbd6d88e2e4492e5c92bda1dfdb, type: 2}
+  ModEvent: {fileID: 114718459827258506, guid: a152ecbd6d88e2e4492e5c92bda1dfdb, type: 2}
+  nodes:
+  - {fileID: 114600859901702136}
+  - {fileID: 114252891385294624}
+  - {fileID: 114426334521078490}
+  - {fileID: 114703262320695360}
+  - {fileID: 114956560215857508}
+--- !u!114 &114252891385294624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 341abbe0ff5c7ae429a33ee7b887308e, type: 3}
+  m_Name: ModStart
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114690091188772364, guid: a152ecbd6d88e2e4492e5c92bda1dfdb, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: -140.33334
+    y: 255
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 39.666656
+    y: 255
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: -130.33334
+    y: 212
+    width: 170
+    height: 106
+  options:
+  - {fileID: 114764770707242206}
+  m_CharacterName: 
+  m_Text: 
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0
+--- !u!114 &114288991600478342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: 03_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114333245308514186, guid: a152ecbd6d88e2e4492e5c92bda1dfdb, type: 2}
+  Parent: {fileID: 114956560215857508}
+  target: {fileID: 0}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!114 &114392421106634322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 298e594e0d672b04e950b82cc64d27b5, type: 3}
+  m_Name: Start_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114206013435882786, guid: a152ecbd6d88e2e4492e5c92bda1dfdb, type: 2}
+  Parent: {fileID: 114600859901702136}
+  target: {fileID: 114252891385294624}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114426334521078490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130d4caafbfb3a245b254a242ab66912, type: 3}
+  m_Name: 01
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114029067776087806, guid: a152ecbd6d88e2e4492e5c92bda1dfdb, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 79
+    y: 275
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 259
+    y: 275
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 89
+    y: 199
+    width: 170
+    height: 172
+  options:
+  - {fileID: 114560727863637654}
+  m_CharacterName: 
+  m_Text: '*Charite
+
+    So this is it.'
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0
+--- !u!114 &114560727863637654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: 01_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114475476836378142, guid: a152ecbd6d88e2e4492e5c92bda1dfdb, type: 2}
+  Parent: {fileID: 114426334521078490}
+  target: {fileID: 114703262320695360}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!114 &114600859901702136
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 986b6808acc31f44187f6300c1884e4b, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114330707655350250, guid: a152ecbd6d88e2e4492e5c92bda1dfdb, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: -180.33334
+    y: 227
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: -230.33334
+    y: 212
+    width: 50
+    height: 50
+  options:
+  - {fileID: 114392421106634322}
+--- !u!114 &114703262320695360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130d4caafbfb3a245b254a242ab66912, type: 3}
+  m_Name: 02
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114244334924704418, guid: a152ecbd6d88e2e4492e5c92bda1dfdb, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 289
+    y: 294
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 469
+    y: 294
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 299
+    y: 199
+    width: 170
+    height: 210
+  options:
+  - {fileID: 114798838530378108}
+  m_CharacterName: 
+  m_Text: '*Charite
+
+    We''ve lost some supplies on the way, and this Knight looks awfuly strong.'
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0
+--- !u!114 &114764770707242206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: ModStart_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114935941538459658, guid: a152ecbd6d88e2e4492e5c92bda1dfdb, type: 2}
+  Parent: {fileID: 114252891385294624}
+  target: {fileID: 114426334521078490}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114798838530378108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: 02_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114403517455880916, guid: a152ecbd6d88e2e4492e5c92bda1dfdb, type: 2}
+  Parent: {fileID: 114703262320695360}
+  target: {fileID: 114956560215857508}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!114 &114956560215857508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130d4caafbfb3a245b254a242ab66912, type: 3}
+  m_Name: 03
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114269739852441404, guid: a152ecbd6d88e2e4492e5c92bda1dfdb, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 505
+    y: 309
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 685
+    y: 309
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 515
+    y: 220
+    width: 170
+    height: 198
+  options:
+  - {fileID: 114288991600478342}
+  m_CharacterName: 
+  m_Text: '*Charite
+
+    This won''t be an easy fight Lucy, but I''m ready for it.'
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0

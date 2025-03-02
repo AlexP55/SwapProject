@@ -1,0 +1,16 @@
+{
+    "B_SwapChar_6_T": {
+        "_gdeSchema": "Buff",
+        "ClassName": "SwapCharacter.B_SwapChar_6_T",
+        "BuffTag": "null",
+        "Name": "Enhanced Perception",
+        "Icon": "B_SwapChar_6_T\\B_SwapChar_6_T_Icon.png",
+        "Description": "",
+        "LifeTime": 3,
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "UseSkillDebuff": false,
+        "Caution": false
+    }
+}

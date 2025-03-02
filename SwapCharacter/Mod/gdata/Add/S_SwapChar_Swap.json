@@ -1,0 +1,34 @@
+{
+    "S_SwapChar_Swap": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Buff",
+        "Rare": false,
+        "Target": "otherally",
+        "NODOD": false,
+        "NotCount": true,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": true,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": true,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "Name": "Swap!",
+        "SkillExtended": [
+            "SwapCharacter.S_SwapChar_Swap"
+        ],
+        "Description": "",
+        "PlusKeyWords": [
+            "KeyWord_SwapChar_Swap"
+        ],
+        "Image_0": "S_SwapChar_Swap\\S_SwapChar_Swap_Image_0.png",
+        "Image_1": "S_SwapChar_Swap\\S_SwapChar_Swap_Image_1.png",
+        "Image_2": "S_SwapChar_Swap\\S_SwapChar_Swap_Image_2.png"
+    }
+}

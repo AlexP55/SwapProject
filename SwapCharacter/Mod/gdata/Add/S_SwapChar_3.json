@@ -1,0 +1,38 @@
+{
+    "S_SwapChar_3": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Assets/ModAssets/SwapChar_3_VFX.prefab",
+        "Target": "enemy",
+        "User": "SwapChar",
+        "IgnoreTaunt": true,
+        "PlusKeyWords": [
+            "KeyWord_SwapChar_Synchronize"
+        ],
+        "Description": "",
+        "Name": "Breakout Thrust",
+        "UseAp": 0,
+        "NotCount": false,
+        "Effect_Target": "SE_T_S_SwapChar_3",
+        "SkillExtended": [
+            "SwapCharacter.S_SwapChar_3"
+        ],
+        "VFX": true,
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "Except": false,
+        "NoBasicSkill": true,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "Image_0": "S_SwapChar_3\\S_SwapChar_3_Image_0.png",
+        "Image_1": "S_SwapChar_3\\S_SwapChar_3_Image_1.png",
+        "Image_2": "S_SwapChar_3\\S_SwapChar_3_Image_2.png"
+    }
+}

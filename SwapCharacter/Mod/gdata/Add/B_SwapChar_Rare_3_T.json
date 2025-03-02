@@ -1,0 +1,16 @@
+{
+    "B_SwapChar_Rare_3_T": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "Icon": "B_SwapChar_Rare_3_T\\B_SwapChar_Rare_3_T_Icon.png",
+        "LifeTime": 1,
+        "Name": "Dazzling Shield",
+        "Description": "",
+        "ClassName": "SwapCharacter.B_SwapChar_Rare_3_T"
+    }
+}

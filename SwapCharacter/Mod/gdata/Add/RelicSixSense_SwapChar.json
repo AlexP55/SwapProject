@@ -1,0 +1,9 @@
+{
+    "RelicSixSense_SwapChar": {
+        "_gdeSchema": "Item_Passive",
+        "name": "6th Sense",
+        "Description": "Apply \"6th Sense\" on a random enemy when a battle starts.\n\"6th Sense\": Receiving Critical Chance +10%. Apply nonvanishing \"Identified!\" to the unit. When defeated, transfer \"6th Sense\" to another unit.",
+        "image": "Item\\RelicSixSense_SwapChar_image.png",
+        "passive_script": "SwapCharacter.RelicSixSense_SwapChar"
+    }
+}

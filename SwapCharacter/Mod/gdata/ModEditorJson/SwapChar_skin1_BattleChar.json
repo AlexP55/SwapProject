@@ -1,0 +1,23 @@
+{
+    "myKey": "SwapChar_skin1",
+    "myField": "BattleChar",
+    "myValues": {
+        "path": "SwapChar_skin1\\SwapChar_skin1Main.png",
+        "offsetMax": {
+            "x": "781.043762",
+            "y": "311.023071"
+        },
+        "offsetMin": {
+            "x": "-915.3466",
+            "y": "-1385.36707"
+        },
+        "pivot": {
+            "x": "0.5395849",
+            "y": "0.816655934"
+        }
+    },
+    "MyChangeType": "BattleChar",
+    "myKeys": [
+        
+    ]
+}

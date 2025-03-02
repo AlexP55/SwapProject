@@ -1,0 +1,1144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2046309494, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ClockTower_SwapChar
+  m_EditorClassIdentifier: 
+  _guid: 4362742242739693056
+  nodes:
+  - {fileID: 114461743392966140}
+  - {fileID: 114687796511475906}
+  - {fileID: 114426755380822664}
+  - {fileID: 114284089865635786}
+  - {fileID: 114414920917756292}
+  - {fileID: 114436196025518072}
+  - {fileID: 114583043347902938}
+  - {fileID: 114645366839337468}
+  - {fileID: 114754292430624918}
+  - {fileID: 114754149829535982}
+  - {fileID: 114467670013728444}
+  - {fileID: 114615785825684102}
+  nodesToDelete: []
+  currentLanguageIndex: 0
+  languageKeys: 
+  completeRectOriginal:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114040886989978940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 10_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 0}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 1027112872079135616
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114104072636107600
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 02_Option1
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114645366839337468}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 5598951109481132032
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Ask how Charite feels
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114221149945379690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 08_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114467670013728444}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 5114087805918758912
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114250583155945128
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 09_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114615785825684102}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 1689856120348681728
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114277048582039292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 04_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114583043347902938}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 155311540823625216
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114284089865635786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 02
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 02
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114981784201718224}
+  - {fileID: 114104072636107600}
+  NameIndex: 0
+  _guid: 6414848373291760640
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    The normal world, I wonder how it''ll look like... '
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114297222244591608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1086786121, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: Start_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114687796511475906}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114414920917756292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 03
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 03
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114667570091826254}
+  NameIndex: 0
+  _guid: 6141783779938140160
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    The future huh? I should have thought about that more. '
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114426755380822664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 01
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 01
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114812595470875874}
+  NameIndex: 0
+  _guid: 6602650843508549632
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    So this is it huh, it''s finally over.'
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114436196025518072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 04
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 04
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114277048582039292}
+  NameIndex: 0
+  _guid: 9202820562499270656
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    I hope the world will still need someone like me, somehow.'
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114444259488908644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 07_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114754149829535982}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 8572842889601726464
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114449215880539008
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1453227286, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ModStartEvent
+  m_EditorClassIdentifier: 
+  FaceNodes: []
+  FacePaths: []
+  StandingNodes:
+  - {fileID: 114426755380822664}
+  - {fileID: 114284089865635786}
+  - {fileID: 114414920917756292}
+  - {fileID: 114436196025518072}
+  - {fileID: 114583043347902938}
+  - {fileID: 114645366839337468}
+  - {fileID: 114754292430624918}
+  - {fileID: 114754149829535982}
+  - {fileID: 114467670013728444}
+  - {fileID: 114615785825684102}
+  StandingPaths:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  ModID: SwapCharacter
+  AssetBundlePath: swapcharacterunityassetbundle
+--- !u!114 &114461743392966140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1938751104, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: Start
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114297222244591608}
+--- !u!114 &114467670013728444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 09
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 09
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114250583155945128}
+  NameIndex: 0
+  _guid: 7921410162833555456
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    Regardless, it''s not over until it''s over.'
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114476253333475588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ModStart_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114426755380822664}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 4540471442684640768
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114541976492292886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 05_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114467670013728444}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 7310745351557347328
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114583043347902938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 05
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 05
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114541976492292886}
+  NameIndex: 0
+  _guid: 5182024383162777600
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    Maybe I''ll join team Ironheart, there guys have been trying to scout me for a
+    while. '
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114615785825684102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 10
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 10
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114040886989978940}
+  NameIndex: 0
+  _guid: 2373479450921702912
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    Go on Lucy, it''s time to go back to more peaceful times.'
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114645366839337468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 06
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 06
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114998321915488722}
+  NameIndex: 0
+  _guid: 4295347943771752448
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    Right now? It''s weird. '
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114667570091826254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 03_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114436196025518072}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 5474934508571967488
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114687796511475906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -645878220, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ModStart
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: ModStart
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114476253333475588}
+  NameIndex: 0
+  _guid: 5611128896549124096
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - 
+  Audio: []
+  AudioDelay: []
+  Events1:
+  - {fileID: 114449215880539008}
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114754149829535982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 08
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 08
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114221149945379690}
+  NameIndex: 0
+  _guid: 7933159763136773120
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    I''m proud of myself, and of our team. But I also fear I''ll feel aimless once
+    it all goes back to normal. '
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114754292430624918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 07
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 07
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114444259488908644}
+  NameIndex: 0
+  _guid: 7255705143770014720
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - "*Charite\nHonnestly I didn't expect us to go that far. \nI thought it'd take
+    us a tactical retreat or two."
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114812595470875874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 01_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114284089865635786}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 7852869519913910272
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114981784201718224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 02_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114414920917756292}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 7028689196920723456
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Ask about future plans
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114998321915488722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 06_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114754292430624918}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 3522065482930833408
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0

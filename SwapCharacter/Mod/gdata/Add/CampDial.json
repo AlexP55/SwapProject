@@ -1,0 +1,212 @@
+{
+    "CampDial_SwapChar_SilverStein": {
+        "CharA": "SwapChar",
+        "CharB": "SilverStein",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Trisha": {
+        "CharA": "SwapChar",
+        "CharB": "Trisha",
+        "Dialogues": [
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Ilya": {
+        "CharA": "SwapChar",
+        "CharB": "Ilya",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Joey": {
+        "CharA": "SwapChar",
+        "CharB": "Joey",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Narhan": {
+        "CharA": "SwapChar",
+        "CharB": "Control",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Priest": {
+        "CharA": "SwapChar",
+        "CharB": "Priest",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Leryn": {
+        "CharA": "SwapChar",
+        "CharB": "Leryn",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Sizz": {
+        "CharA": "SwapChar",
+        "CharB": "Sizz",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Johan": {
+        "CharA": "SwapChar",
+        "CharB": "Mement",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Huz": {
+        "CharA": "SwapChar",
+        "CharB": "Queen",
+        "Dialogues": [
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Azar": {
+        "CharA": "SwapChar",
+        "CharB": "Azar",
+        "Dialogues": [
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Phoenix": {
+        "CharA": "SwapChar",
+        "CharB": "Phoenix",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Lian": {
+        "CharA": "SwapChar",
+        "CharB": "Lian",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Red": {
+        "CharA": "SwapChar",
+        "CharB": "TW_Red",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Blue": {
+        "CharA": "SwapChar",
+        "CharB": "TW_Blue",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Hein": {
+        "CharA": "SwapChar",
+        "CharB": "Hein",
+        "Dialogues": [
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Iron": {
+        "CharA": "SwapChar",
+        "CharB": "Prime",
+        "Dialogues": [
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Miss": {
+        "CharA": "SwapChar",
+        "CharB": "MissChain",
+        "Dialogues": [
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Charon": {
+        "CharA": "SwapChar",
+        "CharB": "ShadowPriest",
+        "Dialogues": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    },
+    "CampDial_SwapChar_Momori": {
+        "CharA": "SwapChar",
+        "CharB": "Momori",
+        "Dialogues": [
+            "",
+            "",
+            ""
+        ],
+        "_gdeSchema": "SimpleCampDialogue"
+    }
+}

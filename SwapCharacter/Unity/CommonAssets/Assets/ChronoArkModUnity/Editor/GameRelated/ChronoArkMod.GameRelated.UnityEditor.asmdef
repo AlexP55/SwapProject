@@ -1,0 +1,29 @@
+{
+    "name": "ChronoArkMod.GameRelated.UnityEditor",
+    "references": [
+        "ChronoArkMod.UnityEditor",
+        "ChronoArkMod.SwapCharacter.ModAssembly"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Assembly-CSharp.dll",
+        "Assembly-CSharp-firstpass.dll",
+        "Unity.Addressables.dll",
+        "Unity.ResourceManager.dll",
+        "Newtonsoft.Json.dll",
+        "DOTween.dll",
+        "spine-unity.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "CHRONOARKLOADED"
+    ]
+}

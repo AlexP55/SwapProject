@@ -1,0 +1,15 @@
+{
+    "SE_T_S_SwapChar_8": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "Buffs": [
+            "B_SwapChar_8_T",
+            "B_Control_P"
+        ],
+        "BuffPlusTagPer": [
+            0,
+            0
+        ],
+        "DMG_Per": 40
+    }
+}

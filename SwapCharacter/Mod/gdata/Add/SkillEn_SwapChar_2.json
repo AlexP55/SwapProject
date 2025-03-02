@@ -1,0 +1,13 @@
+{
+    "SkillEn_SwapChar_2": {
+        "_gdeSchema": "SkillExtended",
+        "Drop": false,
+        "EnforceString": "",
+        "NeedCharacter": "",
+        "ClassName": "SwapCharacter.SkillEn_SwapChar_2",
+        "Des": "",
+        "Name": "When use in hand, swap with the target and give both characters Tenacity",
+        "AlwaysParticle": false,
+        "IsOnesInit": false
+    }
+}

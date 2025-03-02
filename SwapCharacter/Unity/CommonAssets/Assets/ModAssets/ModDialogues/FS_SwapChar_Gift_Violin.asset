@@ -1,0 +1,462 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2046309494, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: FS_SwapChar_Gift_Violin
+  m_EditorClassIdentifier: 
+  _guid: 7386796913028651008
+  nodes:
+  - {fileID: 114621239860828334}
+  - {fileID: 114942758139608412}
+  - {fileID: 114452113286024524}
+  - {fileID: 114529610214323380}
+  - {fileID: 114413908132150870}
+  nodesToDelete: []
+  currentLanguageIndex: 0
+  languageKeys: 
+  completeRectOriginal:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114329781372754052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ModStart_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114452113286024524}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 5530193347374638080
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114409308105986580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 002_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114413908132150870}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 6348479824183732224
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114413908132150870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 003
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 003
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114859076888118908}
+  NameIndex: 0
+  _guid: 475802872478746752
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    Thank you Lucy! This might be my opportunity to get back to it.'
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114452113286024524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 001
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 001
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114595928696940630}
+  NameIndex: 0
+  _guid: 5602385670275291136
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - "*Charite\nA violin? \nI used to play the violin back when I was a kid!"
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114529610214323380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 825941888, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 002
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: 002
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114409308105986580}
+  NameIndex: 0
+  _guid: 5157571446413115392
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - '*Charite
+
+    Never got the chance to get good at it though.'
+  Audio: []
+  AudioDelay: []
+  Events1: []
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114595928696940630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 001_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114529610214323380}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 5231014206092908544
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114621239860828334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1938751104, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: Start
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114983531351423728}
+--- !u!114 &114778716133878796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1453227286, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ModStartEvent
+  m_EditorClassIdentifier: 
+  FaceNodes: []
+  FacePaths: []
+  StandingNodes:
+  - {fileID: 114452113286024524}
+  - {fileID: 114529610214323380}
+  - {fileID: 114413908132150870}
+  StandingPaths:
+  - 
+  - 
+  - 
+  ModID: SwapCharacter
+  AssetBundlePath: swapcharacterunityassetbundle
+--- !u!114 &114859076888118908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: 003_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 0}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 97588674987124928
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114942758139608412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -645878220, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ModStart
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: ModStart
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114329781372754052}
+  NameIndex: 0
+  _guid: 6895167468308864000
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - 
+  Audio: []
+  AudioDelay: []
+  Events1:
+  - {fileID: 114778716133878796}
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114983531351423728
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1086786121, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: Start_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114942758139608412}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0

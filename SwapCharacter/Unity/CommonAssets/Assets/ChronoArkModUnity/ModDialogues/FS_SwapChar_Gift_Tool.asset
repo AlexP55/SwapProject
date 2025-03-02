@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06c1d1917f9e5c4b9cd9b7da319c29e, type: 3}
+  m_Name: FS_SwapChar_Gift_Tool
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 11400000, guid: 22c3861c56284e4449599597df654539, type: 2}
+  ModEvent: {fileID: 114522294280078924, guid: 22c3861c56284e4449599597df654539, type: 2}
+  nodes:
+  - {fileID: 114518431669969348}
+  - {fileID: 114622351131382734}
+  - {fileID: 114563276605338576}
+  - {fileID: 114151053587857090}
+  - {fileID: 114838864945565998}
+--- !u!114 &114017093531026984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: 002_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114786351409689388, guid: 22c3861c56284e4449599597df654539, type: 2}
+  Parent: {fileID: 114151053587857090}
+  target: {fileID: 114838864945565998}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!114 &114118146853398490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: 003_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114253031947187348, guid: 22c3861c56284e4449599597df654539, type: 2}
+  Parent: {fileID: 114838864945565998}
+  target: {fileID: 0}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!114 &114151053587857090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130d4caafbfb3a245b254a242ab66912, type: 3}
+  m_Name: 002
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114034915967562662, guid: 22c3861c56284e4449599597df654539, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 340
+    y: 311
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 520
+    y: 311
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 350
+    y: 216
+    width: 170
+    height: 210
+  options:
+  - {fileID: 114017093531026984}
+  m_CharacterName: 
+  m_Text: '*Charite
+
+    My spear gets pretty beat up each fight, maintenance is crucial for it.'
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0
+--- !u!114 &114253735186547490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 298e594e0d672b04e950b82cc64d27b5, type: 3}
+  m_Name: Start_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114720887962651500, guid: 22c3861c56284e4449599597df654539, type: 2}
+  Parent: {fileID: 114518431669969348}
+  target: {fileID: 114622351131382734}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114504407287859180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: 001_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114264746930738894, guid: 22c3861c56284e4449599597df654539, type: 2}
+  Parent: {fileID: 114563276605338576}
+  target: {fileID: 114151053587857090}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!114 &114518431669969348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 986b6808acc31f44187f6300c1884e4b, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114137956175984882, guid: 22c3861c56284e4449599597df654539, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: -127.33334
+    y: 234
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: -177.33334
+    y: 219
+    width: 50
+    height: 50
+  options:
+  - {fileID: 114253735186547490}
+--- !u!114 &114563276605338576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130d4caafbfb3a245b254a242ab66912, type: 3}
+  m_Name: 001
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114384058090414846, guid: 22c3861c56284e4449599597df654539, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 132
+    y: 282.5
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 312
+    y: 282.5
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 142
+    y: 200
+    width: 170
+    height: 185
+  options:
+  - {fileID: 114504407287859180}
+  m_CharacterName: 
+  m_Text: '*Charite
+
+    Oh thanks you Lucy, that''s very considerate of you.'
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0
+--- !u!114 &114622351131382734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 341abbe0ff5c7ae429a33ee7b887308e, type: 3}
+  m_Name: ModStart
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114972830145420432, guid: 22c3861c56284e4449599597df654539, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: -87.33334
+    y: 262
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 92.66666
+    y: 262
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: -77.33334
+    y: 219
+    width: 170
+    height: 106
+  options:
+  - {fileID: 114683284671777914}
+  m_CharacterName: 
+  m_Text: 
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0
+--- !u!114 &114683284671777914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: ModStart_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114370792504399092, guid: 22c3861c56284e4449599597df654539, type: 2}
+  Parent: {fileID: 114622351131382734}
+  target: {fileID: 114563276605338576}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114838864945565998
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130d4caafbfb3a245b254a242ab66912, type: 3}
+  m_Name: 003
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114919500085095270, guid: 22c3861c56284e4449599597df654539, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 559
+    y: 307
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 739
+    y: 307
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 569
+    y: 212
+    width: 170
+    height: 210
+  options:
+  - {fileID: 114118146853398490}
+  m_CharacterName: 
+  m_Text: '*Charite
+
+    I tend to be a bit too rough with it, it doesn''t look like it but it''s actually
+    quite delicate. '
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0

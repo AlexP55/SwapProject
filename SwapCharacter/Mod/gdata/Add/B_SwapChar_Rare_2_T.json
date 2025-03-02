@@ -1,0 +1,19 @@
+{
+    "B_SwapChar_Rare_2_T": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "SwapCharacter.B_SwapChar_Rare_2_T",
+        "BuffTag": "Debuff",
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "Name": "Weak Points",
+        "Description": "",
+        "Icon": "Image/Buff/Skill_Icon_Pack/red/red_18",
+        "Debuff": true,
+        "TagPer": 110,
+        "LifeTime": 4,
+        "MaxStack": 5
+    }
+}

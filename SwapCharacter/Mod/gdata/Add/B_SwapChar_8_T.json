@@ -1,0 +1,18 @@
+{
+    "B_SwapChar_8_T": {
+        "_gdeSchema": "Buff",
+        "ClassName": "SwapCharacter.B_SwapChar_8_T",
+        "BuffTag": "DOT",
+        "Name": "Guerrilla Target",
+        "Description": "",
+        "LifeTime": 4,
+        "Debuff": true,
+        "TagPer": 115,
+        "Icon": "B_SwapChar_8_T\\B_SwapChar_8_T_Icon.png",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "UseSkillDebuff": false,
+        "Caution": false
+    }
+}

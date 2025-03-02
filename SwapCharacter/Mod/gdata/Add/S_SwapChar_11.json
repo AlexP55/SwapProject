@@ -1,0 +1,41 @@
+{
+    "S_SwapChar_11": {
+        "_gdeSchema": "Skill",
+        "Category": "PublicSkill",
+        "Particle": "Particle/Charon/ShadowPriest_Thurible",
+        "Target": "ally",
+        "NotCount": true,
+        "Name": "Danger Perception",
+        "Description": "",
+        "Effect_Target": "SE_T_S_SwapChar_11",
+        "NoBasicSkill": true,
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "UseAp": 1,
+        "User": "",
+        "PlusKeyWords": [
+            "KeyWord_SwapChar_Swap"
+        ],
+        "SKillExtendedItem": [
+            
+        ],
+        "LucyPartyDraw": "",
+        "SkillExtended": [
+            
+        ],
+        "Image_0": "S_SwapChar_11\\S_SwapChar_11_Image_0.png",
+        "Image_1": "S_SwapChar_11\\S_SwapChar_11_Image_1.png",
+        "Image_2": "S_SwapChar_11\\S_SwapChar_11_Image_2.png"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "S_ProgramMaster2_LucyGuard": {
+        "_gdeSchema": "Skill",
+        "SkillExtended": [
+            "SwapCharacter.Extended_ExceptDummy"
+        ]
+    }
+}

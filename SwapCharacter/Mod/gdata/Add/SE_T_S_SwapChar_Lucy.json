@@ -1,0 +1,14 @@
+{
+    "SE_T_S_SwapChar_Lucy": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "Buffs": [
+            "B_SwapChar_11_T",
+            "B_SwapChar_11_T"
+        ],
+        "BuffPlusTagPer": [
+            0,
+            0
+        ]
+    }
+}

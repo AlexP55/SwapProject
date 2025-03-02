@@ -1,0 +1,71 @@
+{
+    "DummySummon": {
+        "Off": true,
+        "_gdeSchema": "Character",
+        "name": "Hologram",
+        "face": "Image/Face/Stake_Face",
+        "PassiveClassName": "SwapCharacter.P_DummySummon",
+        "PassiveName": "Fake Ally",
+        "PassiveDes": "Destroyed when HP is below 0 or its sommoner faints.",
+        "PassiveIcon": "CharImagePrefebs/PassiveIcon/Priest",
+        "PassiveUnlockLV1": true,
+        "BattleChar": "CharImagePrefebs/PresselBattle",
+        "FaceOriginChar": "CharImagePrefebs/FaceSmall/FaceSmall_Stake",
+        "FaceSmallChar": "CharImagePrefebs/FaceSmall/FaceSmall_Stake",
+        "MAXHP": {
+            "x": 1,
+            "y": 1
+        },
+        "ATK": {
+            "x": 10,
+            "y": 10
+        },
+        "DEF": {
+            "x": 0,
+            "y": 0
+        },
+        "CRI": {
+            "x": 0,
+            "y": 0
+        },
+        "DODGE": {
+            "x": 0,
+            "y": 0
+        },
+        "HIT": {
+            "x": 100,
+            "y": 100
+        },
+        "HIT_DOT": {
+            "x": 0,
+            "y": 0
+        },
+        "REG": {
+            "x": 10,
+            "y": 10
+        },
+        "RES_CC": {
+            "x": 0,
+            "y": 0
+        },
+        "RES_DEBUFF": {
+            "x": 0,
+            "y": 0
+        },
+        "HIT_CC": {
+            "x": 0,
+            "y": 0
+        },
+        "HIT_DEBUFF": {
+            "x": 0,
+            "y": 0
+        },
+        "RES_DOT": {
+            "x": 0,
+            "y": 0
+        },
+        "Role": "Role_TempAlly",
+        "FirstSkill": "S_Swap",
+        "FixedBasicSkill": "S_SwapChar_Swap"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "S_SwapChar_1": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Assets/ModAssets/SwapChar_1_VFX.prefab",
+        "Rare": false,
+        "Target": "enemy",
+        "NODOD": false,
+        "NotCount": true,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": true,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "User": "SwapChar",
+        "Description": "",
+        "Name": "Recon Strike",
+        "Effect_Target": "SE_T_S_SwapChar_1",
+        "UseAp": 1,
+        "SkillExtended": [
+            "SwapCharacter.S_SwapChar_1"
+        ],
+        "PlusKeyWords": [
+            "KeyWord_SwapChar_Synchronize"
+        ],
+        "Image_0": "S_SwapChar_1\\S_SwapChar_1_Image_0.png",
+        "Image_1": "S_SwapChar_1\\S_SwapChar_1_Image_1.png",
+        "Image_2": "S_SwapChar_1\\S_SwapChar_1_Image_2.png"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "S_SwapChar_10": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Shield",
+        "Rare": false,
+        "Target": "otherally",
+        "NODOD": false,
+        "NotCount": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "Name": "Defensive Formation",
+        "Description": "",
+        "PlusKeyWords": [
+            "KeyWord_SwapChar_Swap"
+        ],
+        "UseAp": 1,
+        "User": "SwapChar",
+        "Effect_Self": "SE_S_S_SwapChar_10",
+        "SkillExtended": [
+            "SwapCharacter.S_SwapChar_10"
+        ],
+        "Effect_Target": "SE_T_S_SwapChar_10",
+        "Image_0": "S_SwapChar_10\\S_SwapChar_10_Image_0.png",
+        "Image_1": "S_SwapChar_10\\S_SwapChar_10_Image_1.png",
+        "Image_2": "S_SwapChar_10\\S_SwapChar_10_Image_2.png"
+    }
+}

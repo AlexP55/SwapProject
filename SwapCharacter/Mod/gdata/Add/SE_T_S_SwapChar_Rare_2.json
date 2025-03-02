@@ -1,0 +1,14 @@
+{
+    "SE_T_S_SwapChar_Rare_2": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "DMG_Per": 33,
+        "Buffs": [
+            "B_SwapChar_Rare_2_T"
+        ],
+        "BuffPlusTagPer": [
+            0
+        ],
+        "CRI": 20
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "B_SwapChar_2_S": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "SwapCharacter.B_SwapChar_2_S",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": true,
+        "Name": "Guarding",
+        "Description": "",
+        "Icon": "B_SwapChar_2_S\\B_SwapChar_2_S_Icon.png",
+        "LifeTime": 0
+    }
+}

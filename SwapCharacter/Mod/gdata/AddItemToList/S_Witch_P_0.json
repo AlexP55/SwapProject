@@ -1,0 +1,8 @@
+{
+    "S_Witch_P_0": {
+        "_gdeSchema": "Skill",
+        "SkillExtended": [
+            "SwapCharacter.Extended_ExceptDummy"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "B_SwapChar_7_T": {
+        "_gdeSchema": "Buff",
+        "ClassName": "SwapCharacter.B_SwapChar_7_T",
+        "BuffTag": "null",
+        "Description": "",
+        "Name": "Protection Hologram",
+        "LifeTime": 2,
+        "Icon": "B_SwapChar_7_T\\B_SwapChar_7_T_Icon.png",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "Debuff": false,
+        "TagPer": 0
+    }
+}

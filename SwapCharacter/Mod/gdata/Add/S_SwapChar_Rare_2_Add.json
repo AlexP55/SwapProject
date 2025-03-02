@@ -1,0 +1,16 @@
+{
+    "S_SwapChar_Rare_2_Add": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Public/Public_1",
+        "Rare": true,
+        "Target": "enemy",
+        "Disposable": false,
+        "Effect_Target": "SE_T_S_SwapChar_Rare_2_Add",
+        "NotCount": false,
+        "NoBasicSkill": false,
+        "Name": "Piercing Tempest",
+        "Description": "",
+        "NoDrop": true
+    }
+}

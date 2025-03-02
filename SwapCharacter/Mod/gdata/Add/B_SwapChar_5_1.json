@@ -1,0 +1,15 @@
+{
+    "B_SwapChar_5_1": {
+        "_gdeSchema": "Buff",
+        "ClassName": "SwapCharacter.B_SwapChar_5_1",
+        "BuffTag": "null",
+        "Icon": "Image/Buff/Skill_Icon_Pack/1_7_buff (4)",
+        "Name": "Attack Increase!",
+        "Description": "",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "UseSkillDebuff": false,
+        "Caution": false
+    }
+}

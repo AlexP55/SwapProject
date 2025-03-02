@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BattleEnemy
+  - BattleAlly
+  - Particle
+  - ParticleRender
+  - CameraOcllusion
+  - Tile
+  - MonsterC
+  - FieldAllyWindow
+  - ItemSlot
+  - Back_After
+  - EventObject
+  - MainUICanvas
+  - BattleStop
+  - 3DUICanvas
+  - Tutorial
+  - FieldMap
+  - eventsystem
+  - SkillButton
+  - Isotile
+  - PlayerC
+  - EffectView
+  - UICamera
+  - SelectButton
+  - MainCharEquipInven
+  - DestroyMain
+  - SkillWindow
+  - Pictrue
+  - Picture
+  - ObjectLight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lock
+  - BackGround
+  - Tile
+  - Light
+  - BlockLight
+  - FreeLight
+  - BlockTile
+  - DefaultTile
+  - ShadowObject
+  - BattleObject
+  - FieldLock
+  - Lucy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2292566043
+    locked: 0
+  - name: Block
+    uniqueID: 3111327743
+    locked: 0
+  - name: Shadow
+    uniqueID: 2053370039
+    locked: 0
+  - name: Object
+    uniqueID: 3843044123
+    locked: 0
+  - name: Fog
+    uniqueID: 2679160573
+    locked: 0
+  - name: UI
+    uniqueID: 3499016583
+    locked: 0
+  - name: Fade
+    uniqueID: 1128343013
+    locked: 0

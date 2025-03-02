@@ -1,0 +1,35 @@
+{
+    "S_SwapChar_Rare_1": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Lian/Lian_7",
+        "Target": "self",
+        "NoBasicSkill": true,
+        "User": "SwapChar",
+        "Rare": true,
+        "Description": "",
+        "Name": "Hold the Line!",
+        "UseAp": 2,
+        "NotCount": true,
+        "Counting": 1,
+        "PlusKeyWords": [
+            "KeyWord_SwapChar_Swap"
+        ],
+        "Effect_Target": "SE_T_S_SwapChar_Rare_1",
+        "Disposable": false,
+        "NoDrop": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "Image_0": "S_SwapChar_Rare_1\\S_SwapChar_Rare_1_Image_0.png",
+        "Image_1": "S_SwapChar_Rare_1\\S_SwapChar_Rare_1_Image_1.png",
+        "Image_2": "S_SwapChar_Rare_1\\S_SwapChar_Rare_1_Image_2.png"
+    }
+}

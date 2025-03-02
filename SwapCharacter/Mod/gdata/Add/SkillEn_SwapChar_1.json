@@ -1,0 +1,13 @@
+{
+    "SkillEn_SwapChar_1": {
+        "_gdeSchema": "SkillExtended",
+        "AlwaysParticle": false,
+        "IsOnesInit": false,
+        "Name": "Ignore Taunt\nFrontal Assault: Damage +30%",
+        "Drop": true,
+        "EnforceString": "",
+        "NeedCharacter": "SwapChar",
+        "ClassName": "SwapCharacter.SkillEn_SwapChar_1",
+        "Des": ""
+    }
+}

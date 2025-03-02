@@ -1,0 +1,17 @@
+{
+    "B_SwapChar_11_T_2": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "SwapCharacter.B_SwapChar_11_T_2",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "Icon": "Image/Buff/Skill_Icon_Pack/addons/addon_09",
+        "MaxStack": 2,
+        "LifeTime": 1,
+        "Name": "Fleet-Footed",
+        "Description": ""
+    }
+}

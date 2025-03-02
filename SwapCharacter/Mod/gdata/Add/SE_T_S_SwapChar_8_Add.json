@@ -1,0 +1,7 @@
+{
+    "SE_T_S_SwapChar_8_Add": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "DMG_Per": 60
+    }
+}

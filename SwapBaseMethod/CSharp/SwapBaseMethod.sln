@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapBaseMethod", "SwapBaseMethod.csproj", "{6DBABBBF-3494-420A-9BED-D680E5BC4C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DBABBBF-3494-420A-9BED-D680E5BC4C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DBABBBF-3494-420A-9BED-D680E5BC4C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C35F7F0-0016-48BA-9ED1-4D3F8B71572A}
+	EndGlobalSection
+EndGlobal

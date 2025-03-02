@@ -1,0 +1,37 @@
+{
+    "S_SwapChar_5": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Battle_Uncurse",
+        "Target": "Misc",
+        "NoBasicSkill": false,
+        "Fatal": false,
+        "User": "SwapChar",
+        "Description": "",
+        "Name": "Terrain Advantage",
+        "UseAp": 1,
+        "NotCount": false,
+        "SkillExtended": [
+            "SwapCharacter.S_SwapChar_5"
+        ],
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": true,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "Basic": false,
+        "Track": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "Effect_Target": "SE_T_S_SwapChar_5",
+        "PlusKeyWords": [
+            "KeyWord_SwapChar_Unmoving"
+        ],
+        "Image_0": "S_SwapChar_5\\S_SwapChar_5_Image_0.png",
+        "Image_1": "S_SwapChar_5\\S_SwapChar_5_Image_1.png",
+        "Image_2": "S_SwapChar_5\\S_SwapChar_5_Image_2.png"
+    }
+}

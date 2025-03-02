@@ -1,0 +1,7 @@
+{
+    "KeyWord_SwapChar_Synchronize": {
+        "_gdeSchema": "SkillKeyword",
+        "Name": "Frontal Assault",
+        "Desc": "Activated when user and target are at the same position counting from left to right (ignore fainted or unselectable characters)."
+    }
+}

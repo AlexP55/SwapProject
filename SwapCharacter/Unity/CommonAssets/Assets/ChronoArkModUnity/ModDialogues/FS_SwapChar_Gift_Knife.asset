@@ -1,0 +1,450 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b06c1d1917f9e5c4b9cd9b7da319c29e, type: 3}
+  m_Name: FS_SwapChar_Gift_Knife
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 11400000, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  ModEvent: {fileID: 114463955858727816, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  nodes:
+  - {fileID: 114550287636597964}
+  - {fileID: 114536737227847852}
+  - {fileID: 114997244307902810}
+  - {fileID: 114980380338943120}
+  - {fileID: 114751644513023190}
+  - {fileID: 114506282459930218}
+  - {fileID: 114967837859952696}
+--- !u!114 &114111551542795342
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: ModStart_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114428950879147948, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  Parent: {fileID: 114536737227847852}
+  target: {fileID: 114997244307902810}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114305419150419090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: 002_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114762448631879820, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  Parent: {fileID: 114980380338943120}
+  target: {fileID: 114751644513023190}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!114 &114338324417368440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: 001_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114722872605376942, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  Parent: {fileID: 114997244307902810}
+  target: {fileID: 114980380338943120}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!114 &114370011185088924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: 005_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114084260264352408, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  Parent: {fileID: 114967837859952696}
+  target: {fileID: 0}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!114 &114495389184593948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: 003_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114454332886880786, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  Parent: {fileID: 114751644513023190}
+  target: {fileID: 114506282459930218}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!114 &114506282459930218
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130d4caafbfb3a245b254a242ab66912, type: 3}
+  m_Name: 004
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114659570237737890, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 787
+    y: 343
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 967
+    y: 343
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 797
+    y: 254
+    width: 170
+    height: 198
+  options:
+  - {fileID: 114549817372661428}
+  m_CharacterName: 
+  m_Text: '*Charite
+
+    Oh I see, Thanks you Lucy, I''ll make good use of it.'
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0
+--- !u!114 &114536737227847852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 341abbe0ff5c7ae429a33ee7b887308e, type: 3}
+  m_Name: ModStart
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114683227136675848, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: -71.33334
+    y: 293
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 108.66666
+    y: 293
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: -61.333344
+    y: 250
+    width: 170
+    height: 106
+  options:
+  - {fileID: 114111551542795342}
+  m_CharacterName: 
+  m_Text: 
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0
+--- !u!114 &114549817372661428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df50f41da6e00c46ab3430b490ea9e4, type: 3}
+  m_Name: 004_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114825616082085330, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  Parent: {fileID: 114506282459930218}
+  target: {fileID: 114967837859952696}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!114 &114550287636597964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 986b6808acc31f44187f6300c1884e4b, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114335768435546370, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: -111.333374
+    y: 265
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: -161.33337
+    y: 250
+    width: 50
+    height: 50
+  options:
+  - {fileID: 114650148698823432}
+--- !u!114 &114650148698823432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 298e594e0d672b04e950b82cc64d27b5, type: 3}
+  m_Name: Start_Option0
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114171682272527872, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  Parent: {fileID: 114550287636597964}
+  target: {fileID: 114536737227847852}
+  Index: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114751644513023190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130d4caafbfb3a245b254a242ab66912, type: 3}
+  m_Name: 003
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114425733025888402, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 571
+    y: 317
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 751
+    y: 317
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 581
+    y: 241
+    width: 170
+    height: 172
+  options:
+  - {fileID: 114495389184593948}
+  m_CharacterName: 
+  m_Text: '*Charite
+
+    What? It''s for me?'
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0
+--- !u!114 &114967837859952696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130d4caafbfb3a245b254a242ab66912, type: 3}
+  m_Name: 005
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114006984261576752, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 999
+    y: 343.5
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 1179
+    y: 343.5
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 1009
+    y: 261
+    width: 170
+    height: 185
+  options:
+  - {fileID: 114370011185088924}
+  m_CharacterName: 
+  m_Text: 'Charite gives it a spin before storing it inside one of her jacket''s pocket. '
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0
+--- !u!114 &114980380338943120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130d4caafbfb3a245b254a242ab66912, type: 3}
+  m_Name: 002
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114482946003002006, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 363
+    y: 312.5
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 543
+    y: 312.5
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 373
+    y: 211
+    width: 170
+    height: 223
+  options:
+  - {fileID: 114305419150419090}
+  m_CharacterName: 
+  m_Text: '*Charite
+
+    I''m already busy protecting you from enemies, I can''t spend my time protecting
+    you from yourself.'
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0
+--- !u!114 &114997244307902810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 130d4caafbfb3a245b254a242ab66912, type: 3}
+  m_Name: 001
+  m_EditorClassIdentifier: 
+  m_Value: {fileID: 114010842737864822, guid: b387576e8c592244fb988ce353cff2d2, type: 2}
+  ParentTree: {fileID: 11400000}
+  m_inputPoint:
+    serializedVersion: 2
+    x: 157
+    y: 315.5
+    width: 10
+    height: 20
+  m_outputPoints:
+  - serializedVersion: 2
+    x: 337
+    y: 315.5
+    width: 10
+    height: 20
+  nodeRect:
+    serializedVersion: 2
+    x: 167
+    y: 214
+    width: 170
+    height: 223
+  options:
+  - {fileID: 114338324417368440}
+  m_CharacterName: 
+  m_Text: '*Charite
+
+    Wow be careful with that, kid. Those things are fun but rather sharp, you don''t
+    want a cut from one of those.'
+  m_UseChronoArkFace: 0
+  m_UseChronoArkImage: 0

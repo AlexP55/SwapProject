@@ -1,0 +1,23 @@
+{
+    "SwapChar_skin1": {
+        "_gdeSchema": "Character_Skin",
+        "SkinName": "Swimsuit Charite",
+        "Character": "SwapChar",
+        "SkinDesc": "Swimsuit Charite",
+        "VFXChangeSkill": [
+            "S_SwapChar_1_skin1",
+            "S_SwapChar_3_skin1",
+            "S_SwapChar_Rare_2_skin1"
+        ],
+        "FaceSprite": "SwapChar_skin1\\SwapChar_skin1BattleFace.png",
+        "CampSD": [
+            "SwapChar_skin1\\SwapChar_skin1CampSD0.png",
+            "SwapChar_skin1\\SwapChar_skin1CampSD1.png",
+            "SwapChar_skin1\\SwapChar_skin1CampSD2.png",
+            "SwapChar_skin1\\SwapChar_skin1CampSD3.png"
+        ],
+        "Face_SmallButton": "SwapChar_skin1\\SwapChar_skin1Face_SmallButton.png",
+        "Face_BigButton": "SwapChar_skin1\\SwapChar_skin1Face_BigButton.png",
+        "Face_CharSelect": "SwapChar_skin1\\SwapChar_skin1Face_CharSelect.png"
+    }
+}

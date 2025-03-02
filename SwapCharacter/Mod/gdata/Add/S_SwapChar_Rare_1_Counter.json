@@ -1,0 +1,17 @@
+{
+    "S_SwapChar_Rare_1_Counter": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Enemy/PharosDPS_2",
+        "Rare": false,
+        "Target": "enemy",
+        "NotCount": false,
+        "Disposable": false,
+        "NoBasicSkill": false,
+        "NoDrop": true,
+        "Name": "Counter Attack!",
+        "Description": "",
+        "Effect_Target": "SE_T_S_SwapChar_Rare_1_Counter",
+        "Fatal": false
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "S_SwapChar_Lucy": {
+        "_gdeSchema": "Skill",
+        "Category": "LucySkill",
+        "Particle": "Particle/Charon/ShadowPriest_Thurible",
+        "Target": "ally",
+        "NotCount": false,
+        "Basic": false,
+        "Name": "Watch Out!",
+        "Description": "",
+        "User": "LucyDraw",
+        "LucyPartyDraw": "SwapChar",
+        "SkillExtended": [
+            "SwapCharacter.S_SwapChar_Lucy"
+        ],
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "PlusKeyWords": [
+            "KeyWord_SwapChar_Swap"
+        ],
+        "Effect_Target": "SE_T_S_SwapChar_Lucy",
+        "Image_0": "S_SwapChar_Lucy\\S_SwapChar_Lucy_Image_0.png",
+        "Image_1": "S_SwapChar_Lucy\\S_SwapChar_Lucy_Image_1.png",
+        "Image_2": "S_SwapChar_Lucy\\S_SwapChar_Lucy_Image_2.png"
+    }
+}

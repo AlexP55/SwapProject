@@ -1,0 +1,23 @@
+{
+    "SwapChar_skin2": {
+        "_gdeSchema": "Character_Skin",
+        "SkinName": "Marine Charite",
+        "Character": "SwapChar",
+        "SkinDesc": "Marine Charite",
+        "VFXChangeSkill": [
+            "S_SwapChar_1_skin2",
+            "S_SwapChar_3_skin2",
+            "S_SwapChar_Rare_2_skin2"
+        ],
+        "FaceSprite": "SwapChar_skin2\\SwapChar_skin2BattleFace.png",
+        "CampSD": [
+            "SwapChar_skin2\\SwapChar_skin2CampSD0.png",
+            "SwapChar_skin2\\SwapChar_skin2CampSD1.png",
+            "SwapChar_skin2\\SwapChar_skin2CampSD2.png",
+            "SwapChar_skin2\\SwapChar_skin2CampSD3.png"
+        ],
+        "Face_SmallButton": "SwapChar_skin2\\SwapChar_skin2Face_SmallButton.png",
+        "Face_BigButton": "SwapChar_skin2\\SwapChar_skin2Face_BigButton.png",
+        "Face_CharSelect": "SwapChar_skin2\\SwapChar_skin2Face_CharSelect.png"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "B_SwapChar_5_2": {
+        "_gdeSchema": "Buff",
+        "ClassName": "SwapCharacter.B_SwapChar_5_2",
+        "BuffTag": "null",
+        "Name": "Healing Increase!",
+        "Icon": "Image/Buff/Skill_Icon_Pack/1_7_buff (21)",
+        "Description": ""
+    }
+}

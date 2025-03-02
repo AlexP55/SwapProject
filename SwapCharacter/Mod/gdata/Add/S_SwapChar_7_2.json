@@ -1,0 +1,36 @@
+{
+    "S_SwapChar_7_2": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Shield",
+        "Target": "self",
+        "Description": "",
+        "Name": "Fake Reinforcement",
+        "PlusKeyWords": [
+            "KeyWord_SwapChar_Swap"
+        ],
+        "SkillExtended": [
+            "SwapCharacter.S_SwapChar_7_2"
+        ],
+        "NotCount": true,
+        "Basic": false,
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": true,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "NoBasicSkill": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "PlusSkillView": "S_SwapChar_Swap",
+        "UseAp": 1,
+        "Image_0": "S_SwapChar_7_2\\S_SwapChar_7_2_Image_0.png",
+        "Image_1": "S_SwapChar_7_2\\S_SwapChar_7_2_Image_1.png",
+        "Image_2": "S_SwapChar_7_2\\S_SwapChar_7_2_Image_2.png"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "B_SwapChar_Rare_3_T_2": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "SwapCharacter.B_SwapChar_Rare_3_T_2",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "Name": "Force Shield",
+        "Icon": "B_SwapChar_Rare_3_T_2\\B_SwapChar_Rare_3_T_2_Icon.png",
+        "LifeTime": 2,
+        "Description": ""
+    }
+}

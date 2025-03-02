@@ -1,0 +1,26 @@
+{
+    "S_SwapChar_9_Counter": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/slash1",
+        "Rare": false,
+        "Target": "Misc",
+        "NotCount": false,
+        "Disposable": false,
+        "NoBasicSkill": false,
+        "Name": "Counter Attack!",
+        "Description": "",
+        "Effect_Target": "SE_T_S_SwapChar_9_Counter",
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "NoDrop": true,
+        "IgnoreTaunt": false,
+        "Except": false,
+        "Basic": false,
+        "Track": false,
+        "Fatal": false,
+        "EnemyPreview": false,
+        "UnknownTarget": false
+    }
+}

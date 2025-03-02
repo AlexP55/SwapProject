@@ -1,0 +1,167 @@
+
+Chibi 3.png
+size: 1736,1795
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 773, 629
+  size: 362, 640
+  orig: 362, 641
+  offset: 0, 1
+  index: -1
+Hair 1
+  rotate: false
+  xy: 333, 506
+  size: 297, 789
+  orig: 297, 789
+  offset: 0, 0
+  index: -1
+Hair 2
+  rotate: false
+  xy: 598, 33
+  size: 408, 462
+  orig: 408, 462
+  offset: 0, 0
+  index: -1
+Hair 3
+  rotate: false
+  xy: 1137, 617
+  size: 274, 652
+  orig: 274, 652
+  offset: 0, 0
+  index: -1
+Hair 4
+  rotate: false
+  xy: 812, 1271
+  size: 602, 522
+  orig: 602, 522
+  offset: 0, 0
+  index: -1
+Hair 5
+  rotate: false
+  xy: 2, 362
+  size: 329, 933
+  orig: 329, 933
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 2, 1297
+  size: 808, 496
+  orig: 808, 496
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 1008, 108
+  size: 507, 481
+  orig: 507, 481
+  offset: 0, 0
+  index: -1
+L Arm 1
+  rotate: false
+  xy: 632, 497
+  size: 139, 798
+  orig: 139, 798
+  offset: 0, 0
+  index: -1
+L Arm 2
+  rotate: true
+  xy: 1008, 22
+  size: 84, 259
+  orig: 84, 259
+  offset: 0, 0
+  index: -1
+L Arm 3
+  rotate: false
+  xy: 1665, 1050
+  size: 69, 89
+  orig: 69, 89
+  offset: 0, 0
+  index: -1
+L Eye
+  rotate: false
+  xy: 907, 525
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+L Eyebrow
+  rotate: false
+  xy: 1427, 81
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+L Eyelid
+  rotate: true
+  xy: 1665, 1141
+  size: 122, 68
+  orig: 122, 68
+  offset: 0, 0
+  index: -1
+L Leg
+  rotate: false
+  xy: 1491, 27
+  size: 220, 593
+  orig: 220, 593
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 2, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+R Arm 1
+  rotate: false
+  xy: 2, 20
+  size: 314, 340
+  orig: 314, 340
+  offset: 0, 0
+  index: -1
+R Arm 2
+  rotate: false
+  xy: 1416, 1265
+  size: 304, 528
+  orig: 304, 528
+  offset: 0, 0
+  index: -1
+R Arm 3
+  rotate: false
+  xy: 333, 71
+  size: 263, 433
+  orig: 263, 433
+  offset: 0, 0
+  index: -1
+R Eye
+  rotate: false
+  xy: 773, 510
+  size: 132, 117
+  orig: 133, 117
+  offset: 0, 0
+  index: -1
+R Eyebrow
+  rotate: true
+  xy: 1665, 974
+  size: 74, 25
+  orig: 74, 25
+  offset: 0, 0
+  index: -1
+R Eyelid
+  rotate: false
+  xy: 1269, 23
+  size: 156, 83
+  orig: 156, 83
+  offset: 0, 0
+  index: -1
+R Leg
+  rotate: false
+  xy: 1413, 622
+  size: 250, 641
+  orig: 250, 641
+  offset: 0, 0
+  index: -1

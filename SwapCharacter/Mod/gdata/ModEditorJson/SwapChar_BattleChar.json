@@ -1,0 +1,23 @@
+{
+    "myKey": "SwapChar",
+    "myField": "BattleChar",
+    "myValues": {
+        "path": "SwapChar\\SwapCharMain.png",
+        "offsetMax": {
+            "x": "512.4096",
+            "y": "375.5856"
+        },
+        "offsetMin": {
+            "x": "-743.788635",
+            "y": "-1316.97632"
+        },
+        "pivot": {
+            "x": "0.592094958",
+            "y": "0.7780964"
+        }
+    },
+    "MyChangeType": "BattleChar",
+    "myKeys": [
+        
+    ]
+}

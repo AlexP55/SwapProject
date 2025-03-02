@@ -1,0 +1,8 @@
+{
+    "SE_T_S_SwapChar_Rare_1_Counter": {
+        "_gdeSchema": "SkillEffect",
+        "HIT": 100,
+        "DMG_Per": 60,
+        "DMG_Base": 0
+    }
+}

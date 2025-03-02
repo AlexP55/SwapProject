@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -186293530, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: SwapTutorial
+  m_EditorClassIdentifier: 
+  Contents:
+  - Text: Charite has the ability to swap positions of two allies.
+    Text_I2:
+      mTerm: SwapTutorial_0
+      mRTL_IgnoreArabicFix: 0
+      mRTL_MaxLineLength: 100
+      mRTL_ConvertNumbers: 0
+      m_DontLocalizeParameters: 0
+    UseVideo: {fileID: 32900000, guid: d44554b0feda98f4eac6fa19cd0abdb0, type: 3}
+    UseSprite: {fileID: 0}
+    ControlTextIndexList: 
+    PadKeyText: []
+  - Text: Swap can protect an ally from an incoming enemy attack.
+    Text_I2:
+      mTerm: SwapTutorial_1
+      mRTL_IgnoreArabicFix: 0
+      mRTL_MaxLineLength: 100
+      mRTL_ConvertNumbers: 0
+      m_DontLocalizeParameters: 0
+    UseVideo: {fileID: 32900000, guid: 718a650a7013b674ba02b951d955f551, type: 3}
+    UseSprite: {fileID: 0}
+    ControlTextIndexList: 
+    PadKeyText: []
+  - Text: 'Swap can also change target of an ally targeting skill in countdown.
+
+      Properly use swap to protect and support your allies!'
+    Text_I2:
+      mTerm: SwapTutorial_2
+      mRTL_IgnoreArabicFix: 0
+      mRTL_MaxLineLength: 100
+      mRTL_ConvertNumbers: 0
+      m_DontLocalizeParameters: 0
+    UseVideo: {fileID: 32900000, guid: 24a3cf8e936d86342bdedbd3c46d8332, type: 3}
+    UseSprite: {fileID: 0}
+    ControlTextIndexList: 
+    PadKeyText: []
+  ClickSkip: 1
+  ClearType: 0

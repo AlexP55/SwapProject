@@ -1,0 +1,12 @@
+{
+    "B_SwapChar_Parry": {
+        "_gdeSchema": "Buff",
+        "Hide": true,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "SwapCharacter.B_SwapChar_Parry",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": false
+    }
+}

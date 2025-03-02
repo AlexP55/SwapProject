@@ -1,0 +1,15 @@
+{
+    "B_EquipDrone_SwapChar": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "SwapCharacter.B_EquipDrone_SwapChar",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": true,
+        "Name": "Drone Support",
+        "Description": "",
+        "Icon": "B_EquipDrone_SwapChar\\B_EquipDrone_SwapChar_Icon.png"
+    }
+}

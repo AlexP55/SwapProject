@@ -1,0 +1,16 @@
+{
+    "B_SwapChar_Tenacity": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "SwapCharacter.B_SwapChar_Tenacity",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "Name": "Tenacity",
+        "Icon": "B_SwapChar_Tenacity\\B_SwapChar_Tenacity_Icon.png",
+        "MaxStack": 5,
+        "Description": ""
+    }
+}

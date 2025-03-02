@@ -1,0 +1,18 @@
+{
+    "B_SwapChar_2_T": {
+        "_gdeSchema": "Buff",
+        "ClassName": "SwapCharacter.B_SwapChar_2_T",
+        "BuffTag": "Debuff",
+        "Name": "Distracted",
+        "Description": "",
+        "Debuff": true,
+        "TagPer": 120,
+        "Icon": "B_SwapChar_2_T\\B_SwapChar_2_T_Icon.png",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "MaxStack": 0
+    }
+}

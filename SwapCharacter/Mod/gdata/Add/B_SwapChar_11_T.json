@@ -1,0 +1,17 @@
+{
+    "B_SwapChar_11_T": {
+        "_gdeSchema": "Buff",
+        "Hide": false,
+        "IsFieldBuff": false,
+        "Cantdisable": false,
+        "ClassName": "SwapCharacter.B_SwapChar_11_T",
+        "BuffTag": "null",
+        "UseSkillDebuff": false,
+        "Caution": false,
+        "Name": "Danger Perception",
+        "Description": "",
+        "Icon": "B_SwapChar_11_T\\B_SwapChar_11_T_Icon.png",
+        "MaxStack": 3,
+        "LifeTime": 0
+    }
+}

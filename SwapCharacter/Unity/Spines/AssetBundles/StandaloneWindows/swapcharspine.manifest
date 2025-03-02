@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1718358483
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d9bfe16123efac2dc5b9ef921f98bd9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c739bf9b6ec91156d7cd68d9448b0a25
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sprites/Chibi 1/Chibi 1_Material.mat
+- Assets/Sprites/Chibi 2/Chibi 2_SkeletonData.asset
+- Assets/Sprites/Chibi 3/Chibi 3.atlas.txt
+- Assets/Sprites/Chibi 1/Chibi 1.png
+- Assets/Sprites/Chibi 2/Chibi 2.png
+- Assets/Sprites/Chibi 1/Chibi 1_Atlas.asset
+- Assets/Sprites/Chibi 2/Chibi 2.atlas.txt
+- Assets/Sprites/Chibi 3/Chibi 3_Material.mat
+- Assets/Sprites/Chibi 1/Chibi 1.json
+- Assets/Sprites/Chibi 3/Chibi 3_Atlas.asset
+- Assets/Sprites/Chibi 2/Chibi 2_Material.mat
+- Assets/Sprites/Chibi 1/Chibi 1.atlas.txt
+- Assets/Sprites/Chibi 3/Chibi 3.png
+- Assets/Sprites/Chibi 1/Chibi 1_SkeletonData.asset
+- Assets/Sprites/Chibi 3/Chibi 3_SkeletonData.asset
+- Assets/Sprites/Chibi 3/Chibi 3.json
+- Assets/Sprites/Chibi 2/Chibi 2.json
+- Assets/Sprites/Chibi 2/Chibi 2_Atlas.asset
+Dependencies: []

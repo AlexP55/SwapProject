@@ -1,0 +1,37 @@
+{
+    "S_SwapChar_4": {
+        "_gdeSchema": "Skill",
+        "Category": "null",
+        "Particle": "Particle/Enemy/ST4/King/S4_King_P1_2",
+        "Target": "enemy",
+        "User": "SwapChar",
+        "IgnoreTaunt": false,
+        "Name": "Armored Charge",
+        "Description": "",
+        "NotCount": false,
+        "UseAp": 3,
+        "PlusKeyWords": [
+            "KeyWord_SwapChar_Synchronize"
+        ],
+        "Effect_Target": "SE_T_S_SwapChar_4",
+        "Fatal": true,
+        "NoBasicSkill": true,
+        "SkillExtended": [
+            "SwapCharacter.S_SwapChar_4"
+        ],
+        "Rare": false,
+        "NODOD": false,
+        "NotChuck": false,
+        "HealSkill": false,
+        "Disposable": false,
+        "NoDrop": false,
+        "Except": false,
+        "Basic": false,
+        "Track": true,
+        "EnemyPreview": false,
+        "UnknownTarget": false,
+        "Image_0": "S_SwapChar_4\\S_SwapChar_4_Image_0.png",
+        "Image_1": "S_SwapChar_4\\S_SwapChar_4_Image_1.png",
+        "Image_2": "S_SwapChar_4\\S_SwapChar_4_Image_2.png"
+    }
+}

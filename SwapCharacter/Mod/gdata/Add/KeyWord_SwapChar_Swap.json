@@ -1,0 +1,7 @@
+{
+    "KeyWord_SwapChar_Swap": {
+        "_gdeSchema": "SkillKeyword",
+        "Name": "Swap",
+        "Desc": "Exchange positions of two allies. When swapping, all enemy skills and ally skills in countdown will target the same position."
+    }
+}

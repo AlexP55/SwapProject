@@ -1,0 +1,10 @@
+{
+    "EquipUnique_SwapChar": {
+        "_gdeSchema": "Item_Equip",
+        "Itemclass": "Legendary",
+        "image": "Item\\EquipUnique_SwapChar_image.png",
+        "name": "Spear of Protection",
+        "Description": "Receive x stacks of Tenacity (protect healing gauge, +5% armor per stack) at the end of turn based on num of hits received this turn.",
+        "Equip_Script": "SwapCharacter.EquipUnique_SwapChar"
+    }
+}

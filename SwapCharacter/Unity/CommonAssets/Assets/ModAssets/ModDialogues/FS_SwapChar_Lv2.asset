@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2046309494, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: FS_SwapChar_Lv2
+  m_EditorClassIdentifier: 
+  _guid: 7656077988085085184
+  nodes:
+  - {fileID: 114937034401587714}
+  - {fileID: 114778689836251350}
+  nodesToDelete: []
+  currentLanguageIndex: 0
+  languageKeys: 
+  completeRectOriginal:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114178786322588472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1086786121, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: Start_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 114778689836251350}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+--- !u!114 &114465886059964138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1453227286, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ModStartEvent
+  m_EditorClassIdentifier: 
+  FaceNodes: []
+  FacePaths: []
+  StandingNodes: []
+  StandingPaths: []
+  ModID: SwapCharacter
+  AssetBundlePath: swapcharacterunityassetbundle
+--- !u!114 &114636500604647232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -267237239, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ModStart_Option0
+  m_EditorClassIdentifier: 
+  backgroundRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 18
+    height: 22
+  target: {fileID: 0}
+  _parent: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _nodeConnectorRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  _guid: 1787608523784173824
+  preCondition: 
+  preConditionParameterSet: {fileID: 0}
+  Text:
+  - Continue
+  postEvent: 
+  postEventParameterSet: {fileID: 0}
+  isShownOncePerConversation: 0
+--- !u!114 &114778689836251350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -645878220, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: ModStart
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: ModStart
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114636500604647232}
+  NameIndex: 0
+  _guid: 8954651085663543296
+  globalEvent: 
+  globalEventParameterSet: {fileID: 0}
+  FaceChip: {fileID: 0}
+  Standing: {fileID: 0}
+  Standing_Path: 
+  Standing_3DMap: {fileID: 0}
+  Standing_3DMap_Number: 
+  StandingBefore: 0
+  localEvent: 
+  localEventParameterSet: {fileID: 0}
+  Text:
+  - 
+  Audio: []
+  AudioDelay: []
+  Events1:
+  - {fileID: 114465886059964138}
+  autoChoiceDelay: 0
+  autoChoiceIndex: 0
+--- !u!114 &114937034401587714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1938751104, guid: 29486fe0b871ffeca76cef1777c919bd, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  isShowingPS: 0
+  title: Start
+  numConnectedFrom: 0
+  numConnectedTo: 0
+  _parentTree: {fileID: 0}
+  showRedMarker: 0
+  redMarkerRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  options:
+  - {fileID: 114178786322588472}

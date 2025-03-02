@@ -1,0 +1,7 @@
+{
+    "KeyWord_SwapChar_Unmoving": {
+        "_gdeSchema": "SkillKeyword",
+        "Name": "Position Buff",
+        "Desc": "A position buff will stick to its position when the character position changes."
+    }
+}

@@ -1,0 +1,159 @@
+{
+    "SwapChar": {
+        "_gdeSchema": "Character",
+        "Role": "Role_Tank",
+        "PassiveClassName": "SwapCharacter.P_SwapChar",
+        "PassiveUnlockLV1": false,
+        "name": "Charite",
+        "SelectInfo": "Introduction place holder",
+        "Gender": 1,
+        "MAXHP": {
+            "x": 27,
+            "y": 45
+        },
+        "ATK": {
+            "x": 14,
+            "y": 24
+        },
+        "CRI": {
+            "x": 0,
+            "y": 10
+        },
+        "DODGE": {
+            "x": 5,
+            "y": 15
+        },
+        "DEF": {
+            "x": 0,
+            "y": 8
+        },
+        "REG": {
+            "x": 9,
+            "y": 15
+        },
+        "HIT": {
+            "x": 100,
+            "y": 120
+        },
+        "RES_CC": {
+            "x": 10,
+            "y": 50
+        },
+        "RES_DEBUFF": {
+            "x": 0,
+            "y": 40
+        },
+        "RES_DOT": {
+            "x": 0,
+            "y": 40
+        },
+        "HIT_CC": {
+            "x": 5,
+            "y": 45
+        },
+        "HIT_DEBUFF": {
+            "x": 5,
+            "y": 45
+        },
+        "HIT_DOT": {
+            "x": 5,
+            "y": 45
+        },
+        "StatView_Atk": 1,
+        "StatView_Def": 2,
+        "StatView_Sup": 3,
+        "StatView_Debuff": 1,
+        "StatView_Dot": 1,
+        "StatView_CC": 1,
+        "StatView_Difficult": 3,
+        "PassiveName": "Quick Deploy",
+        "PassiveDes": "Obtain Eye of Phalanx (active item).",
+        "face": "SwapChar\\SwapCharBattleFace.png",
+        "CollectionSprite_Cover": "SwapChar\\SwapCharCollectionSprite_Cover.png",
+        "CollectionSprite_SkillFace": "SwapChar\\SwapCharCollectionSprite_SkillFace.png",
+        "FirstSkill": "S_SwapChar_1",
+        "CampSelectWord": "Text selected in Camp",
+        "Text_PharosLeader": [
+            "Pharos leader control start",
+            "Pharos leader control end",
+            "Pharos leader kill ally"
+        ],
+        "Text_Witch": [
+            "Witch curse >= 25% HP",
+            "Witch curse < 25% HP"
+        ],
+        "Text_Battle_Idle": [
+            "Battle idle 1",
+            "Battle idle 2",
+            "Battle idle 3"
+        ],
+        "Text_Battle_ND": [
+            "Battle near death 1",
+            "Battle near death 2",
+            "Battle near death 3"
+        ],
+        "Text_Battle_AllyND": [
+            "Battle ally near death 1",
+            "Battle ally near death 2",
+            "Battle ally near death 3"
+        ],
+        "Text_Battle_Kill": [
+            "Battle kill 1",
+            "Battle kill 2",
+            "Battle kill 3"
+        ],
+        "Text_Battle_Start": [
+            "Battle start 1",
+            "Battle start 2",
+            "Battle start 3"
+        ],
+        "Text_Battle_Cri": [
+            "Battle crit 1",
+            "Battle crit 2",
+            "Battle crit 3"
+        ],
+        "Text_Battle_Healed": [
+            "Battle healed 1",
+            "Battle healed 2",
+            "Battle healed 3"
+        ],
+        "Text_Field_Idle": [
+            "Field idle 1",
+            "Field idle 2",
+            "Field idle 3"
+        ],
+        "Text_Field_GetItem": [
+            "Field get item 1",
+            "Field get item 2",
+            "Field get item 3"
+        ],
+        "Text_Field_Potion_P": [
+            "Field use healing potion 1",
+            "Field use healing potion 2",
+            "Field use healing potion 3"
+        ],
+        "Text_MasterTarget": "Master target text",
+        "CampSD": [
+            "SwapChar\\SwapCharCampSD0.png",
+            "SwapChar\\SwapCharCampSD1.png",
+            "SwapChar\\SwapCharCampSD2.png",
+            "SwapChar\\SwapCharCampSD3.png"
+        ],
+        "Face_SmallButton": "SwapChar\\SwapCharFace_SmallButton.png",
+        "Face_BigButton": "SwapChar\\SwapCharFace_BigButton.png",
+        "Face_CharSelect": "SwapChar\\SwapCharFace_CharSelect.png",
+        "PassiveIcon": "SwapChar\\SwapCharPassiveIcon.png",
+        "SkinDesc": "Original skin",
+        "GoodGift": [
+            "Gift_Violin",
+            "Gift_Knife",
+            "Gift_Tool"
+        ],
+        "CanFriendShip": true
+    },
+    "SPK_TheLight_Power_SwapChar": {
+        "_gdeType_Name": "String",
+        "Name": "Text when obtained power from Karaela",
+        "_gdeSchema": "SpecialKey"
+    }
+}
