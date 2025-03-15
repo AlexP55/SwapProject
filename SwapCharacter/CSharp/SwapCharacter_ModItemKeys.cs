@@ -300,6 +300,60 @@ namespace SwapCharacter
     {
 		/// <summary>
 		/// Korean:
+		/// 교환 메커니즘을 가진 여러 버프는 고정된 순서로 발동됩니다.
+		/// (먼저 획득한 것이 먼저 발동됩니다)
+		/// English:
+		/// Multiple buffs with swap mechanisms are triggered in a fix order (first in first triggers).
+		/// Japanese:
+		/// 交換メカニズムを持つ複数のバフは固定された順序でトリガーされます。
+		/// （先に取得したものが先にトリガーされます）
+		/// Chinese:
+		/// 多个有换位能力的增益会以固定顺序触发（先获得先触发）。
+		/// Chinese-TW:
+		/// 多個有換位能力的增益會以固定順序觸發（先獲得先觸發）。
+		/// </summary>
+        public static string SwapCharacterBuffTutorial_0 => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/BuffTutorial_0");
+		/// <summary>
+		/// Korean:
+		/// 버프의 순서를 조정하여 적의 한 번의 행동으로 여러 번 교환할 수 있습니다.
+		/// English:
+		/// By adjusting the order of the buffs, you can achive multiple swaps at one enemy action.
+		/// Japanese:
+		/// バフの順序を調整することで、敵の1回の行動で複数の交換を実現できます。
+		/// Chinese:
+		/// 合理调整增益的顺序，能在敌人一次行动时多次换位。
+		/// Chinese-TW:
+		/// 合理調整增益的順序，能在敵人一次行動時多次換位。
+		/// </summary>
+        public static string SwapCharacterBuffTutorial_1 => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/BuffTutorial_1");
+		/// <summary>
+		/// Korean:
+		/// 교환 버프에 대한 짧은 전투 튜토리얼. 이 모드를 처음 사용하는 경우 켜는 것을 추천합니다.
+		/// English:
+		/// A short tutorial in battle for swap buffs, recommend to turn on if you are new to this mod.
+		/// Japanese:
+		/// 交換バフに関するバトル中の短いチュートリアル。このモッドを初めてプレイする場合はオンにすることをお勧めします。
+		/// Chinese:
+		/// 战斗中添加关于换位增益的教程，推荐第一次游玩开启。
+		/// Chinese-TW:
+		/// 戰鬥中新增關於換位增益的教程，推薦第一次遊玩開啟。
+		/// </summary>
+        public static string SwapCharacterBuffTutorial_Description => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/BuffTutorial_Description");
+		/// <summary>
+		/// Korean:
+		/// 버프 튜토리얼
+		/// English:
+		/// Buff Tutorial
+		/// Japanese:
+		/// バフチュートリアル
+		/// Chinese:
+		/// 增益教程
+		/// Chinese-TW:
+		/// 增益教程
+		/// </summary>
+        public static string SwapCharacterBuffTutorial_Name => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/BuffTutorial_Name");
+		/// <summary>
+		/// Korean:
 		/// 차리테는 전투 중 아군의 위치를 변경하는 메커니즘을 가진 탱크 캐릭터입니다. 적의 공격을 리다이렉트하여 아군을 보호하거나, 카운트다운 중인 아군 타겟팅 스킬의 대상을 변경하여 아군을 지원하거나, 자신과 같은 위치에 있는 적을 공격할 때 보너스를 얻을 수 있습니다.
 		/// 스킬 디자인: Mazuko, surprise4u
 		/// 프로그램: surprise4u
@@ -333,65 +387,17 @@ namespace SwapCharacter
         public static string SwapCharacterDescription => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/Description");
 		/// <summary>
 		/// Korean:
-		/// 이동할 위치를 선택하세요:
+		/// 5번째 멤버로 홀로그램을 소환할 수 있습니다
 		/// English:
-		/// Select a position to move to:
+		/// Allow summoning hologram as 5th member
 		/// Japanese:
-		/// 移動先の位置を選択してください：
+		/// 5番目のメンバーとしてホログラムを召喚できるようにする
 		/// Chinese:
-		/// 选择将增益移动至：
+		/// 允许在5号位召唤全息护卫（友军）
 		/// Chinese-TW:
-		/// 選擇將增益移至：
+		/// 允許在5號位召喚全息護衛（友軍）
 		/// </summary>
-        public static string SwapCharacterSelectMoveText => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/SelectMoveText");
-		/// <summary>
-		/// Korean:
-		/// 교환할 대상을 선택하세요:
-		/// English:
-		/// Select a target to swap with:
-		/// Japanese:
-		/// 交換するターゲットを選択してください：
-		/// Chinese:
-		/// 选择与一个目标换位：
-		/// Chinese-TW:
-		/// 選擇與一個目標換位：
-		/// </summary>
-        public static string SwapCharacterSelectSwapText => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/SelectSwapText");
-		/// <summary>
-		/// Korean:
-		/// 교환할 대상을 선택하세요 (&a 마나 소모):
-		/// English:
-		/// Select a target to swap with (consume &a mana):
-		/// Japanese:
-		/// 交換するターゲットを選択してください（&aマナを消費）：
-		/// Chinese:
-		/// 选择与一个目标换位（消耗&a法力）：
-		/// Chinese-TW:
-		/// 選擇與一個目標換位（消耗&a法力）：
-		/// </summary>
-        public static string SwapCharacterSelectSwapCostText => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/SelectSwapCostText");
-		/// <summary>
-		/// Korean:
-		/// 행동 없음
-		/// English:
-		/// No Action
-		/// Japanese:
-		/// 行動なし
-		/// Chinese:
-		/// 不行动
-		/// Chinese-TW:
-		/// 不行動
-		/// </summary>
-        public static string SwapCharacterNoActionText => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/NoActionText");
-		/// <summary>
-		/// Korean:
-		/// English:
-		/// Charite Character Mod Beta Test
-		/// Japanese:
-		/// Chinese:
-		/// Chinese-TW:
-		/// </summary>
-        public static string SwapCharacterTitle => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/Title");
+        public static string SwapCharacterFifthMember_Description => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/FifthMember_Description");
 		/// <summary>
 		/// Korean:
 		/// 5번째 멤버
@@ -407,69 +413,82 @@ namespace SwapCharacter
         public static string SwapCharacterFifthMember_Name => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/FifthMember_Name");
 		/// <summary>
 		/// Korean:
-		/// 5번째 멤버로 홀로그램을 소환할 수 있습니다
+		/// 시작 포메이션
 		/// English:
-		/// Allow summoning hologram as 5th member
+		/// Starting Formation
 		/// Japanese:
-		/// 5番目のメンバーとしてホログラムを召喚できるようにする
+		/// 開始時のフォーメーション
 		/// Chinese:
-		/// 允许在5号位召唤全息护卫（友军）
+		/// 初始阵型
 		/// Chinese-TW:
-		/// 允許在5號位召喚全息護衛（友軍）
+		/// 初始陣型
 		/// </summary>
-        public static string SwapCharacterFifthMember_Description => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/FifthMember_Description");
+        public static string SwapCharacterFormation => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/Formation");
 		/// <summary>
 		/// Korean:
-		/// 교환에 대한 짧은 전투 튜토리얼. 이 모드를 처음 사용하는 경우 켜는 것을 추천합니다.
+		/// 두 아군을 클릭하여 위치를 변경합니다.
 		/// English:
-		/// A short tutorial in battle for swap, recommend to turn on if you are new to this mod.
+		/// Click two allies to change positions.
 		/// Japanese:
-		/// 交換に関するバトル中の短いチュートリアル。このモッドを初めてプレイする場合はオンにすることをお勧めします。
+		/// 2人の味方をクリックして位置を変更します。
 		/// Chinese:
-		/// 战斗中添加关于换位的教程，推荐第一次游玩开启。
+		/// 点击两个队员以调整位置。
 		/// Chinese-TW:
-		/// 戰鬥中新增關於換位的教程，推薦第一次遊玩開啟。
+		/// 點擊兩個隊員以調整位置。
 		/// </summary>
-        public static string SwapCharacterSwapTutorial_Description => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/SwapTutorial_Description");
+        public static string SwapCharacterFormationDes => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/FormationDes");
 		/// <summary>
 		/// Korean:
-		/// 교환 튜토리얼
+		/// 행동 없음
 		/// English:
-		/// Swap Tutorial
+		/// No Action
 		/// Japanese:
-		/// 交換チュートリアル
+		/// 行動なし
 		/// Chinese:
-		/// 换位教程
+		/// 不行动
 		/// Chinese-TW:
-		/// 換位教程
+		/// 不行動
 		/// </summary>
-        public static string SwapCharacterSwapTutorial_Name => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/SwapTutorial_Name");
+        public static string SwapCharacterNoActionText => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/NoActionText");
 		/// <summary>
 		/// Korean:
-		/// 교환 버프에 대한 짧은 전투 튜토리얼. 이 모드를 처음 사용하는 경우 켜는 것을 추천합니다.
+		/// 이동할 위치를 선택하세요:
 		/// English:
-		/// A short tutorial in battle for swap buffs, recommend to turn on if you are new to this mod.
+		/// Select a position to move to:
 		/// Japanese:
-		/// 交換バフに関するバトル中の短いチュートリアル。このモッドを初めてプレイする場合はオンにすることをお勧めします。
+		/// 移動先の位置を選択してください：
 		/// Chinese:
-		/// 战斗中添加关于换位增益的教程，推荐第一次游玩开启。
+		/// 选择将增益移动至：
 		/// Chinese-TW:
-		/// 戰鬥中新增關於換位增益的教程，推薦第一次遊玩開啟。
+		/// 選擇將增益移至：
 		/// </summary>
-        public static string SwapCharacterBuffTutorial_Description => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/BuffTutorial_Description");
+        public static string SwapCharacterSelectMoveText => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/SelectMoveText");
 		/// <summary>
 		/// Korean:
-		/// 버프 튜토리얼
+		/// 교환할 대상을 선택하세요 (&a 마나 소모):
 		/// English:
-		/// Buff Tutorial
+		/// Select a target to swap with (consume &a mana):
 		/// Japanese:
-		/// バフチュートリアル
+		/// 交換するターゲットを選択してください（&aマナを消費）：
 		/// Chinese:
-		/// 增益教程
+		/// 选择与一个目标换位（消耗&a法力）：
 		/// Chinese-TW:
-		/// 增益教程
+		/// 選擇與一個目標換位（消耗&a法力）：
 		/// </summary>
-        public static string SwapCharacterBuffTutorial_Name => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/BuffTutorial_Name");
+        public static string SwapCharacterSelectSwapCostText => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/SelectSwapCostText");
+		/// <summary>
+		/// Korean:
+		/// 교환할 대상을 선택하세요:
+		/// English:
+		/// Select a target to swap with:
+		/// Japanese:
+		/// 交換するターゲットを選択してください：
+		/// Chinese:
+		/// 选择与一个目标换位：
+		/// Chinese-TW:
+		/// 選擇與一個目標換位：
+		/// </summary>
+        public static string SwapCharacterSelectSwapText => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/SelectSwapText");
 		/// <summary>
 		/// Korean:
 		/// 차리테는 두 아군의 위치를 교환할 수 있는 능력을 가지고 있습니다.
@@ -516,58 +535,39 @@ namespace SwapCharacter
         public static string SwapCharacterSwapTutorial_2 => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/SwapTutorial_2");
 		/// <summary>
 		/// Korean:
-		/// 교환 메커니즘을 가진 여러 버프는 고정된 순서로 발동됩니다.
-		/// (먼저 획득한 것이 먼저 발동됩니다)
+		/// 교환에 대한 짧은 전투 튜토리얼. 이 모드를 처음 사용하는 경우 켜는 것을 추천합니다.
 		/// English:
-		/// Multiple buffs with swap mechanisms are triggered in a fix order (first in first triggers).
+		/// A short tutorial in battle for swap, recommend to turn on if you are new to this mod.
 		/// Japanese:
-		/// 交換メカニズムを持つ複数のバフは固定された順序でトリガーされます。
-		/// （先に取得したものが先にトリガーされます）
+		/// 交換に関するバトル中の短いチュートリアル。このモッドを初めてプレイする場合はオンにすることをお勧めします。
 		/// Chinese:
-		/// 多个有换位能力的增益会以固定顺序触发（先获得先触发）。
+		/// 战斗中添加关于换位的教程，推荐第一次游玩开启。
 		/// Chinese-TW:
-		/// 多個有換位能力的增益會以固定順序觸發（先獲得先觸發）。
+		/// 戰鬥中新增關於換位的教程，推薦第一次遊玩開啟。
 		/// </summary>
-        public static string SwapCharacterBuffTutorial_0 => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/BuffTutorial_0");
+        public static string SwapCharacterSwapTutorial_Description => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/SwapTutorial_Description");
 		/// <summary>
 		/// Korean:
-		/// 버프의 순서를 조정하여 적의 한 번의 행동으로 여러 번 교환할 수 있습니다.
+		/// 교환 튜토리얼
 		/// English:
-		/// By adjusting the order of the buffs, you can achive multiple swaps at one enemy action.
+		/// Swap Tutorial
 		/// Japanese:
-		/// バフの順序を調整することで、敵の1回の行動で複数の交換を実現できます。
+		/// 交換チュートリアル
 		/// Chinese:
-		/// 合理调整增益的顺序，能在敌人一次行动时多次换位。
+		/// 换位教程
 		/// Chinese-TW:
-		/// 合理調整增益的順序，能在敵人一次行動時多次換位。
+		/// 換位教程
 		/// </summary>
-        public static string SwapCharacterBuffTutorial_1 => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/BuffTutorial_1");
+        public static string SwapCharacterSwapTutorial_Name => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/SwapTutorial_Name");
 		/// <summary>
 		/// Korean:
-		/// 시작 포메이션
 		/// English:
-		/// Starting Formation
+		/// Charite Character Mod Beta Test
 		/// Japanese:
-		/// 開始時のフォーメーション
 		/// Chinese:
-		/// 初始阵型
 		/// Chinese-TW:
-		/// 初始陣型
 		/// </summary>
-        public static string SwapCharacterFormation => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/Formation");
-		/// <summary>
-		/// Korean:
-		/// 두 아군을 클릭하여 위치를 변경합니다.
-		/// English:
-		/// Click two allies to change positions.
-		/// Japanese:
-		/// 2人の味方をクリックして位置を変更します。
-		/// Chinese:
-		/// 点击两个队员以调整位置。
-		/// Chinese-TW:
-		/// 點擊兩個隊員以調整位置。
-		/// </summary>
-        public static string SwapCharacterFormationDes => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/FormationDes");
+        public static string SwapCharacterTitle => ModManager.getModInfo("SwapCharacter").localizationInfo.SystemLocalizationUpdate("SwapCharacter/Title");
 
     }
 }

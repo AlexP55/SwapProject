@@ -3,14 +3,14 @@
     "Uploader": "surprise4u",
     "Visibility": "Private",
     "Title": "SwapCharacter/Title",
-    "Version": "0.4.1",
+    "Version": "1.0.0",
     "Description": "SwapCharacter/Description",
     "TagList": [
         "Characters"
     ],
     "DefaultAssetBundlePath": "swapcharacterunityassetbundle",
-    "WorkShopId": "3353336492",
-    "ChangeNote": "Update machine translations for JP and KR",
+    "WorkShopId": "3444999372",
+    "ChangeNote": "New mod page",
     "OnlyUploadFiles": true,
     "Author": "surprise4u, Mazuko, Ashara",
     "Cover": "SwapCharacterCover.png",

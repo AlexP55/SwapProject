@@ -54,6 +54,7 @@ namespace SwapCharacter
         [HarmonyPatch(typeof(S_ProgramMaster_1), nameof(S_ProgramMaster_1.SkillUseSingle))]
         [HarmonyPatch(typeof(S_TheDealer_0), nameof(S_TheDealer_0.SkillUseSingle))]
         [HarmonyPatch(typeof(P_ProgramMaster_2nd), nameof(P_ProgramMaster_2nd.EnemyAttackScene), MethodType.Enumerator)]
+        [HarmonyPatch(typeof(SkillExtended_DeathBringer_0), nameof(SkillExtended_DeathBringer_0.SkillUseSingle))]
         static IEnumerable<CodeInstruction> RemoveDummyEnemySkill(IEnumerable<CodeInstruction> instructions)
         {
             foreach (var instruction in instructions)

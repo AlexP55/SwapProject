@@ -1,0 +1,23 @@
+{
+    "myKey": "DummySummon",
+    "myField": "FaceOriginChar",
+    "myValues": {
+        "path": "DummySummon\\DummySummonMain.png",
+        "offsetMax": {
+            "x": "393.0721",
+            "y": "252.553146"
+        },
+        "offsetMin": {
+            "x": "-395.1387",
+            "y": "-798.3945"
+        },
+        "pivot": {
+            "x": "0.4995348",
+            "y": "0.7545765"
+        }
+    },
+    "MyChangeType": "FaceOriginChar",
+    "myKeys": [
+        
+    ]
+}

@@ -3,15 +3,12 @@
         "Off": true,
         "_gdeSchema": "Character",
         "name": "Hologram",
-        "face": "Image/Face/Stake_Face",
+        "face": "DummySummon\\DummySummonBattleFace.png",
         "PassiveClassName": "SwapCharacter.P_DummySummon",
         "PassiveName": "Fake Ally",
         "PassiveDes": "Destroyed when HP is below 0 or its sommoner faints.",
-        "PassiveIcon": "CharImagePrefebs/PassiveIcon/Priest",
+        "PassiveIcon": "DummySummon\\DummySummonPassiveIcon.png",
         "PassiveUnlockLV1": true,
-        "BattleChar": "CharImagePrefebs/PresselBattle",
-        "FaceOriginChar": "CharImagePrefebs/FaceSmall/FaceSmall_Stake",
-        "FaceSmallChar": "CharImagePrefebs/FaceSmall/FaceSmall_Stake",
         "MAXHP": {
             "x": 1,
             "y": 1
@@ -66,6 +63,7 @@
         },
         "Role": "Role_TempAlly",
         "FirstSkill": "S_Swap",
-        "FixedBasicSkill": "S_SwapChar_Swap"
+        "FixedBasicSkill": "S_SwapChar_Swap",
+        "SelectInfo": ""
     }
 }

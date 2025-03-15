@@ -1,79 +1,132 @@
 Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
 Dialogue/Ark_SwapChar/01,Text,,,"*Charite
 You're Lucy, the girl from the prophecy?",,"*夏丽蒂
-你就是预言少女露西吗？",
+你就是预言少女露西吗？","*夏麗蒂
+你就是預言少女露西嗎？"
 Dialogue/Ark_SwapChar/02,Text,,,"*Charite
 Can you take me with you on your next expedition?",,"*夏丽蒂
-你能在下一次调查时带上我吗？",
-Dialogue/Ark_SwapChar/03,Text,Lucy,,Take you with me? I can but...,,带上你吗？可以但是......,
-Dialogue/Ark_SwapChar/03_Option0,Text,,,I'll think about it,,我会考虑的,
-Dialogue/Ark_SwapChar/03_Option1,Text,,,We're already full,,我们的队伍已经满了,
-Dialogue/Ark_SwapChar/04,Text,Option0 Lucy,,I'll think about it. What are you good at?,,我会考虑的。你有什么擅长的吗？,
+你能在下一次调查时带上我吗？","*夏麗蒂
+你能在下次調查時帶上我嗎？"
+Dialogue/Ark_SwapChar/03,Text,Lucy,,Take you with me?,,带上你吗？可以但是......,帶上你嗎？可以但是......
+Dialogue/Ark_SwapChar/03_Option0,Text,,,I'll think about it,,我会考虑的,我會考慮的
+Dialogue/Ark_SwapChar/03_Option1,Text,,,We're already full,,我们的队伍已经满了,我們的隊伍已經滿了
+Dialogue/Ark_SwapChar/04,Text,Option0 Lucy,,I'll think about it. What are you good at?,,我会考虑的。你有什么擅长的吗？,我會考慮的。你有什麼擅長的嗎？
 Dialogue/Ark_SwapChar/05,Text,Option0,,"*Charite
 Thanks, I handle the frontlines fairly well. ",,"*夏丽蒂
-谢谢。我擅长在队伍的前排抵挡进攻。",
+谢谢。我擅长在队伍的前排抵挡进攻。","*夏麗蒂
+謝謝。我擅長在隊伍的前排抵擋進攻。"
 Dialogue/Ark_SwapChar/06,Text,Option0,,"*Charite
 Usually my job is to protect allies and cheap damage at our opponents. ",,"*夏丽蒂
-我的职责通常是保护其他队员并适时反击。",
-Dialogue/Ark_SwapChar/07,Text,Option0 Lucy,,"I see, that could come in handy. ",,明白了。这对队伍很有帮助。,
-Dialogue/Ark_SwapChar/08,Text,Option1 Lucy,,I've already prepared a team.,,我们的队伍已经满了。,
+我的职责通常是保护其他队员并适时反击。","*夏麗蒂
+我的職責通常是保護其他隊員並適時反擊。"
+Dialogue/Ark_SwapChar/07,Text,Option0 Lucy,,"I see, that could come in handy. ",,我了解了。你的能力对队伍有很大帮助。,我了解了。你的能力對隊伍有很大幫助。
+Dialogue/Ark_SwapChar/08,Text,Option1 Lucy,,I've already prepared a team.,,我们的队伍已经满了。,我們的隊伍已經滿了。
 Dialogue/Ark_SwapChar/09,Text,Option1,,"*Charite
 I see... That's a shame.",,"*夏丽蒂
-这样啊......真可惜。",
+这样啊......真可惜。","*夏麗蒂
+這樣啊......真可惜。"
 Dialogue/Ark_SwapChar/10,Text,,,"*Charite
 If you ever need me just give me a sign.",,"*夏丽蒂
-如果你需要我就跟我打个招呼。",
+如果你需要我就跟我打个招呼。","*夏麗蒂
+如果你需要我就跟我打個招呼。"
 Dialogue/Ark_SwapChar/11,Text,,,"*Charite
 Training is useful but you always learn better in real combat.",,"*夏丽蒂
-日常训练很有用但是在实战中往往能学会更多。",
-Dialogue/Ark_SwapChar/12,Text,Lucy,,I'll think about it.,,我会考虑的。,
+日常训练很有用，但是在实战中往往能学会更多。","*夏麗蒂
+日常訓練很有用，但是在實戰中往往能學會更多。"
+Dialogue/Ark_SwapChar/12,Text,Lucy,,Maybe next time.,,我会的。,我會的。
 Dialogue/ClockTower_SwapChar/01,Text,,,"*Charite
-So this is it huh, it's finally over.",,,
-Dialogue/ClockTower_SwapChar/02,,,,"*Charite
-The normal world, I wonder how it'll look like... ",,,
-Dialogue/ClockTower_SwapChar/02_Option0,Text,,,Ask about future plans,,,
-Dialogue/ClockTower_SwapChar/02_Option1,Text,,,Ask how Charite feels,,,
+So this is it huh, it's finally over.",,"*夏丽蒂
+所以，这一切终于结束了。","*夏麗蒂
+所以，這一切終於結束了。"
+Dialogue/ClockTower_SwapChar/02,Text,,,"*Charite
+The normal world, I wonder how it'll look like... ",,"*夏丽蒂
+我想知道一个正常的世界是什么样的。","*夏麗蒂
+我想知道一個正常的世界是什麼樣的。"
+Dialogue/ClockTower_SwapChar/02_Option0,Text,,앞으로의 일정에 대해,Ask about future plans,この後のことについて聞く,关于今后的计划,關於今後的計劃
+Dialogue/ClockTower_SwapChar/02_Option1,Text,,감상을 물어본다,Ask how Charite feels,今の気持ちを聞く,询问感想,詢問感想
 Dialogue/ClockTower_SwapChar/03,Text,Option 0,,"*Charite
-The future huh? I should have thought about that more. ",,,
+The future huh? I should have thought about that more. ",,"*夏丽蒂
+计划？我之前应该多考虑考虑的。","*夏麗蒂
+計劃？我之前應該多考慮考慮的。"
 Dialogue/ClockTower_SwapChar/04,Text,Option 0,,"*Charite
-I hope the world will still need someone like me, somehow.",,,
+I hope the world will still need someone like me, somehow.",,"*夏丽蒂
+无论如何，我希望新世界仍然需要像我这样的人。","*夏麗蒂
+無論如何，我希望新世界仍然需要像我這樣的人。"
 Dialogue/ClockTower_SwapChar/05,Text,Option 0,,"*Charite
-Maybe I'll join team Ironheart, there guys have been trying to scout me for a while. ",,,
+Maybe I'll join team Ironheart, there guys have been trying to scout me for a while. ",,"*夏丽蒂
+也许我会加入钢铁之心的佣兵团，他们老早就想招揽我了。","*夏麗蒂
+也許我會加入鋼鐵之心的傭兵團，他們老早就想招攬我了。"
 Dialogue/ClockTower_SwapChar/06,Text,Option 1,,"*Charite
-Right now? It's weird. ",,,
+Right now? It's weird. ",,"*夏丽蒂
+现在？有种奇怪的感觉。","*夏麗蒂
+現在？有種奇怪的感覺。"
 Dialogue/ClockTower_SwapChar/07,Text,Option 1,,"*Charite
 Honnestly I didn't expect us to go that far. 
-I thought it'd take us a tactical retreat or two.",,,
+I thought it'd take us a tactical retreat or two.",,"*夏丽蒂
+说实话我本来没有期待我们能走这么远。
+我以为我们需要经历一两次的战略撤退。","*夏麗蒂
+說實話我本來沒有期待我們能走這麼遠。
+我以為我們需要經歷一兩次的戰略撤退。"
 Dialogue/ClockTower_SwapChar/08,Text,Option 1,,"*Charite
-I'm proud of myself, and of our team. But I also fear I'll feel aimless once it all goes back to normal. ",,,
+I'm proud of myself, and of our team. But I also fear I'll feel aimless once it all goes back to normal. ",,"*夏丽蒂
+我对我自己和我们的队伍感到自豪。但是我有些害怕一切回归正常后我会失去目标。","*夏麗蒂
+我對我自己和我們的隊伍感到自豪。但我有些害怕一切回歸正常後我會失去目標。"
 Dialogue/ClockTower_SwapChar/09,Text,Post option dialogues,,"*Charite
-Regardless, it's not over until it's over.",,,
+Regardless, it's not over until it's over.",,"*夏丽蒂
+不管怎样，我们还差一步才算完全结束。","*夏麗蒂
+不管怎樣，我們還差一步才算完全結束。"
 Dialogue/ClockTower_SwapChar/10,Text,Post option dialogues,,"*Charite
-Go on Lucy, it's time to go back to more peaceful times.",,,
+Go on Lucy, it's time to go back to more peaceful times.",,"*夏丽蒂
+去吧露西，是时候回到更和平的时代了。","*夏麗蒂
+去吧露西，是時候回到更和平的時代了。"
 Dialogue/FS_SwapChar_Gift_Violin/001,Text,,,"*Charite
 A violin? 
-I used to play the violin back when I was a kid!",,,
+I used to play the violin back when I was a kid!",,"*夏丽蒂
+小提琴？
+我记得我小时候弹过小提琴。","*夏麗蒂
+小提琴？
+我記得我小時候彈過小提琴。"
 Dialogue/FS_SwapChar_Gift_Violin/002,Text,,,"*Charite
-Never got the chance to get good at it though.",,,
+Never got the chance to get good at it though.",,"*夏丽蒂
+虽然那时没有练习得很熟练。","*夏麗蒂
+雖然那時沒有練習得很熟練。"
 Dialogue/FS_SwapChar_Gift_Violin/003,Text,,,"*Charite
-Thank you Lucy! This might be my opportunity to get back to it.",,,
+Thank you Lucy! This might be my opportunity to get back to it.",,"*夏丽蒂
+谢谢你露西！也许我能重新找回我儿时的兴趣。","*夏麗蒂
+謝謝你露西！也許我能重新找回我兒時的興趣。"
 Dialogue/FS_SwapChar_Gift_Knife/001,Text,,,"*Charite
-Wow be careful with that, kid. Those things are fun but rather sharp, you don't want a cut from one of those.",,,
+Wow be careful with that, kid. Those things are fun but rather sharp, you don't want a cut from one of those.",,"*夏丽蒂
+哇小心点露西。这玩意很好玩但是很危险，你很容易弄伤自己的。","*夏麗蒂
+哇小心點露西。這玩意很好玩但是很危險，你很容易弄傷自己的。"
 Dialogue/FS_SwapChar_Gift_Knife/002,Text,,,"*Charite
-I'm already busy protecting you from enemies, I can't spend my time protecting you from yourself.",,,
+I'm already busy protecting you from enemies, I can't spend my time protecting you from yourself.",,"*夏丽蒂
+我能在战斗中保护你，但是我不可能平时一直盯着你。","*夏麗蒂
+我能在戰鬥中保護你，但是我不可能平常一直盯著你。"
 Dialogue/FS_SwapChar_Gift_Knife/003,Text,,,"*Charite
-What? It's for me?",,,
+What? It's for me?",,"*夏丽蒂
+嗯？这是给我的？","*夏麗蒂
+嗯？這是給我的？"
 Dialogue/FS_SwapChar_Gift_Knife/004,Text,,,"*Charite
-Oh I see, Thanks you Lucy, I'll make good use of it.",,,
-Dialogue/FS_SwapChar_Gift_Knife/005,Text,,,Charite gives it a spin before storing it inside one of her jacket's pocket. ,,,
+Oh I see, Thanks you Lucy, I'll make good use of it.",,"*夏丽蒂
+哦，谢谢你，露西。我会好好使用它的。","*夏麗蒂
+哦，謝謝你，露西。我會好好使用它的。"
+Dialogue/FS_SwapChar_Gift_Knife/005,Text,,,Charite gives it a spin before storing it inside one of her jacket's pocket. ,,夏丽蒂做了一个漂亮的转刀并把它收进了口袋。,夏麗蒂做了一個漂亮的轉刀並把它收進了口袋。
 Dialogue/FS_SwapChar_Gift_Tool/001,Text,,,"*Charite
-Oh thanks you Lucy, that's very considerate of you.",,,
+Oh thanks you Lucy, that's very considerate of you.",,"*夏丽蒂
+谢谢你，露西，你太贴心了！","*夏麗蒂
+謝謝你，露西，你太貼心了！"
 Dialogue/FS_SwapChar_Gift_Tool/002,Text,,,"*Charite
-My spear gets pretty beat up each fight, maintenance is crucial for it.",,,
+My spear gets pretty beat up each fight, maintenance is crucial for it.",,"*夏丽蒂
+每次战斗后我的枪都有很大的磨损，我需要细心保养它。","*夏麗蒂
+每次戰鬥後我的槍都有很大的磨損，我需要細心保養它。"
 Dialogue/FS_SwapChar_Gift_Tool/003,Text,,,"*Charite
-I tend to be a bit too rough with it, it doesn't look like it but it's actually quite delicate. ",,,
+I tend to be a bit rough with it, it doesn't look like it but it's actually quite delicate. ",,"*夏丽蒂
+我经常使用过度，它也不像看起来那么耐用。","*夏麗蒂
+我經常使用過度，它也不像看起來那麼耐用。"
 Dialogue/FS_SwapChar_Gift_Normal/001,Text,,,"*Charite
-Is that for me? Thank you Lucy, I appreciate the gesture. ",,,
+Is that for me? Thank you Lucy, I appreciate the gesture. ",,"*夏丽蒂
+这是给我的吗？谢谢你，露西。你的好意我很感激。","*夏麗蒂
+這是給我的嗎？謝謝你，露西。你的好意我很感激。"
 Dialogue/FS_SwapChar_Lv1/001,Text,Lucy,,Tell me Charite?,,,
 Dialogue/FS_SwapChar_Lv1/002,Text,,,"*Charite
 Hm?",,,
@@ -166,7 +219,7 @@ Even when her tips were legitimates, I didn't listen out of habbit. ",,,
 Dialogue/FS_SwapChar_Lv2/023,Text,,,"*Charite
 One day while we were out scouting, a squad of strong enemies surprised us.  And while she disliked my attitude, Lian trusted me enough to allow me to take the frontline alongside her. ",,,
 Dialogue/FS_SwapChar_Lv2/024,Text,,,"*Charite
-I was keeping up well if I'm being honest, until my lack of proper maintenance came back to me.",,,
+I was keeping up well if I'm being honest, until my negligence on maintenance came back to me.",,,
 Dialogue/FS_SwapChar_Lv2/025,Text,,,"*Charite
 A joint broke down and the blade lost all its strenght. 
 Thanksfuly, Lian saved me and borrowed me enough time to retreat to the rear. She did give me an heavy scolding latter. ",,,
@@ -210,13 +263,21 @@ Dialogue/FS_SwapChar_Lv3/013,Text,,,,,,
 Dialogue/FS_SwapChar_Lv3/014,Text,,,,,,
 Dialogue/FS_SwapChar_Lv3/015,Text,,,,,,
 Dialogue/KingNPC_SwapChar/01,Text,,,"*Charite
-So this is it.",,,
+So this is it.",,"*夏丽蒂
+所以这就是我们的最后一战。","*夏麗蒂
+所以這就是我們的最後一戰。"
 Dialogue/KingNPC_SwapChar/02,Text,,,"*Charite
-We've lost some supplies on the way, and this Knight looks awfuly strong.",,,
+We've lost some supplies on the way, and this Knight looks awfuly strong.",,"*夏丽蒂
+我们在旅途中已经消耗了很多补给。前面这个骑士看起来也异常强大。","*夏麗蒂
+我們在旅途中已經消耗了很多補給。前面這個騎士看起來也異常強大。"
 Dialogue/KingNPC_SwapChar/03,Text,,,"*Charite
-This won't be an easy fight Lucy, but I'm ready for it.",,,
+This won't be an easy fight Lucy, but I'm ready for it.",,"*夏丽蒂
+这不会是一场简单的战斗，但是我已经准备万全。","*夏麗蒂
+這不會是一場簡單的戰鬥，但我已經準備好萬全。"
 Dialogue/LastStory_SwapChar/001,Text,,,"*Charite
-Lucy you've led us here! I believe in you, you can't lose now!",,,
+Lucy you've led us here! I believe in you, you can't lose now!",,"*夏丽蒂
+露西是你把我们带领到这里！我相信你，你还不能服输！","*夏麗蒂
+露西是你把我們帶領到這裡！我相信你，你還不能服輸！"
 Dialogue/TrueEndPoint_SwapChar_0/001,Text,Archive dialogue,,"*Charite
 This can't be real.",,,
 Dialogue/TrueEndPoint_SwapChar_0/002,Text,Make it longer ,,"*Charite
@@ -250,7 +311,7 @@ Dialogue/TrueEndPoint_SwapChar_0/015,Text,,,"*Charite
 Why are you even showing me this? What's the point of telling me this?",,,
 Dialogue/TrueEndPoint_SwapChar_0/016,Text,Lucy,,I think you deserves to know the truth.,,,
 Dialogue/TrueEndPoint_SwapChar_0/017,Text,,,"*Charite
-Do I even want to know the truth? Did you ask yourslef that?!",,,
+Do I even want to know the truth? Did you ask yourself that?!",,,
 Dialogue/TrueEndPoint_SwapChar_0/018,Text,Lucy,,"There is nothing we can do about that, but we can go back to the real world, we can be free from this virtual fake world. ",,,
 Dialogue/TrueEndPoint_SwapChar_0/019,Text,Lucy,,"The real world is safe, we can go back and save humanity, we can save the world.",,,
 Dialogue/TrueEndPoint_SwapChar_0/020,Text,,,"*Charite
@@ -294,11 +355,11 @@ Dissapointed at how little someone like me has done. ",,,
 Dialogue/TrueEndPoint_SwapChar_1/017,Text,,,"*Charite
 As a kid I looked up to my father and the incredible stories of his youth he used to tell me.",,,
 Dialogue/TrueEndPoint_SwapChar_1/018,Text,,,"*Charite
-But here I am, old as he was during his stories with nothing done, and supposed to be managing his company in his stead. ","Not a fan of this. Complaining about inheriting a company sounds dumb. Instead, she may be expected to inherit and manage the company but have disappointed others several times, making her unconfident and isolate herself. Maybe it's one of the reasons why her family sent her to the Ark, although she misunderstood it (she thought she was here just to enjoy the life) and thought she was no longer expected.",,
-Dialogue/TrueEndPoint_SwapChar_1/018_Option0,Text,,,I believe in you,Idea: The following story will be related to how she overcomes her unconfidence and fix the relationship with her father.,,
+But here I am, old as he was during his stories with nothing done, and supposed to be managing his company in his stead. ",,,
+Dialogue/TrueEndPoint_SwapChar_1/018_Option0,Text,,,I believe in you,,,
 Dialogue/TrueEndPoint_SwapChar_1/018_Option1,Text,,,You shouldn't be scared,,,
 Dialogue/TrueEndPoint_SwapChar_1/019,Text,Option0 Lucy,,"I believe in you. 
-It's thanks to you and your BRAIN QUALITY that we've reached so far today.",,,
+It's thanks to you and your discipline that we've reached so far today.",,,
 Dialogue/TrueEndPoint_SwapChar_1/020,Text,Option0 Lucy,,"I am sure that once we're back to the real world, you will carry on your determination.",,,
 Dialogue/TrueEndPoint_SwapChar_1/021,Text,Option0,,"*Charite
 Ever since we went to the archive, I've felt much more like my real self than my current self. ",,,
@@ -342,9 +403,9 @@ That's insane, we're supposed to beat this? ",,,
 Dialogue/TrueEndPoint_SwapChar_2/003,Text,,,"*Charite
 And beat it we will! Target acquired, ready to deploy!
 Awaiting orders. ",,,
-Dialogue/TrueEndPoint_SwapChar_After/001,Text,,,"*Charite
+Dialogue/TrueEndPoint_SwapChar_After/001,Text,Text if talking again after the first dialogue before Azar fight,,"*Charite
 Again? Well, if we won once we'll win twice, it's time to end this.",,,
-Dialogue/TrueEndPoint_SwapChar_After2/001,Text,,,"*Charite
+Dialogue/TrueEndPoint_SwapChar_After2/001,Text,Currently unused text,,"*Charite
 ...I'll follow your orders. ",,,
 Dialogue/TrueEndPoint_SwapChar_Final/001,Text,,,"*Charite
 I see.
@@ -358,7 +419,9 @@ Dialogue/TrueEndPoint_SwapChar_Final/004,Text,,,"*Charite
 It's fine, it beats living in a looping fake world. ",,,
 Dialogue/TrueEndPoint_SwapChar_Final/005,Text,,,"*Charite
 See you on the other side Lucy. Don't shake my real self too much.",,,
-Dialogue/ComingSoon/01,Text,,,"Work in progress.
-The friendship dialogues are coming soon. Stay tuned!",,"制作中。
+Dialogue/ComingSoon/01,Text,,"제작중.
+호감도 대화는 곧 완성됩니다. 거지 기대!","Work in progress.
+The friendship dialogues are coming soon. Stay tuned!","制作中。
+好感度会話はもうすぐ完成します。乞うご期待！","制作中。
 好感度剧情即将完成。敬请关注！","製作中。
 好感度劇情即將完成。敬請關注！"

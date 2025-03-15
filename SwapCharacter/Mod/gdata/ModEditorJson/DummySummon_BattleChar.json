@@ -1,0 +1,23 @@
+{
+    "myKey": "DummySummon",
+    "myField": "BattleChar",
+    "myValues": {
+        "path": "DummySummon\\DummySummonMain.png",
+        "offsetMax": {
+            "x": "276.366821",
+            "y": "267.927429"
+        },
+        "offsetMin": {
+            "x": "-315.8275",
+            "y": "-521.665"
+        },
+        "pivot": {
+            "x": "0.5333173",
+            "y": "0.6606763"
+        }
+    },
+    "MyChangeType": "BattleChar",
+    "myKeys": [
+        
+    ]
+}
