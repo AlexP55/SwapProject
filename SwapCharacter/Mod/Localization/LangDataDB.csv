@@ -263,8 +263,8 @@ Skill/S_SwapChar_7_2_Description,Text,,"아군 수가 &c 미만일 때만 사용
 최대 HP의 25%에 해당하는 <color=purple>고통 피해</color>를 입혀 홀로그램(아군)을 생성합니다. 홀로그램은 최대 HP의 &a%(&b)를 가지고 있으며, 매우 낮은 어그로를 가집니다. HP가 0 이하가 되면 파괴되며, 위치를 <color=#0096FF>위치 교환</color>하는 고정 스킬을 가집니다 (첫 사용은 무료, 이후 1 마나 소모).","Usable only if ally number is less than &c.
 Deal <color=purple>pain damage</color> equal to 25% of max HP to create a hologram (ally) with &a% (&b) max HP and very low aggro. The hologram is destroyed when HP is below 0 and has a fixed skill to <color=#0096FF>swap</color> position (the first use is free, after that costs 1 mana).","味方の数が&c未満の場合のみ使用可能。
 最大体力の25%に等しい<color=purple>痛みダメージ</color>を与えて、ホログラム（味方）を作成します。ホログラムは最大体力の&a%（&b）を持ち、非常に低いアグロを持ちます。HPが0以下になると破壊され、位置を<color=#0096FF>位置交換</color>する固定スキルを持ちます（最初の使用は無料、その後は1マナ消費）。","仅当友军数量小于&c时能使用。
-造成25%最大体力值的<color=purple>痛苦伤害</color>以生成全息护卫（友军）。全息护卫拥有&a%（&b）的最大體力值和极低的被攻击概率，会在血量归零时被摧毁且拥有固定的<color=#0096FF>换位</color>技能（第一次免费，之后1费）。","僅當友軍數量小於&c時能使用。
-造成25%最大体力值的<color=purple>痛苦傷害</color>以生成全息護衛（友軍）。全息護衛擁有&a%（&b）的最大生命值和極低的被攻擊機率，會在血量歸零時被摧毀且擁有固定的<color=#0096FF>換位</color>技能（第一次免費，之後1費）。"
+造成25%最大体力值的<color=purple>痛苦伤害</color>以生成全息护卫（友军）。全息护卫拥有&a%（&b）最大体力值和极低的被攻击概率，会在血量归零时被摧毁且拥有固定的<color=#0096FF>换位</color>技能（第一次免费，之后1费）。","僅當友軍數量小於&c時能使用。
+造成25%最大體力值的<color=purple>痛苦傷害</color>以生成全息護衛（友軍）。全息護衛擁有&a%（&b）最大體力值和極低的被攻擊機率，會在血量歸零時被摧毀且擁有固定的<color=#0096FF>換位</color>技能（第一次免費，之後1費）。"
 Skill/S_SwapChar_7_2_Name,Text,,무중생유,Fake Reinforcement,無中生有,无中生有,無中生有
 Skill/S_SwapChar_7_Description,Text,,"선택: 아군에게 홀로그램을 생성하거나, 새로운 홀로그램 캐릭터를 생성합니다.","Select: Create a hologram on an ally, or create a new hologram character.",選択：味方にホログラムを作成するか、新しいホログラムキャラクターを作成します。,选择：为友军创造一个全息护盾，或者创造一个新的全息影像（友军）。,選擇：為友軍創造一個全息護盾，或創造一個新的全息影像（友軍）。
 Skill/S_SwapChar_7_Name,Text,,홀로그램 미끼,Distraction Hologram,ホログラム囮,全息诱饵,全息誘餌

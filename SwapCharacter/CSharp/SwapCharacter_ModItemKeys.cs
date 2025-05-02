@@ -562,7 +562,7 @@ namespace SwapCharacter
 		/// <summary>
 		/// Korean:
 		/// English:
-		/// Charite Character Mod Beta Test
+		/// Charite Character Mod
 		/// Japanese:
 		/// Chinese:
 		/// Chinese-TW:

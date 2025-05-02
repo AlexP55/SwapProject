@@ -149,7 +149,8 @@
             "Gift_Knife",
             "Gift_Tool"
         ],
-        "CanFriendShip": true
+        "CanFriendShip": true,
+        "FriendShipSprite": "SwapChar\\SwapCharFriendShipSprite.png"
     },
     "SPK_TheLight_Power_SwapChar": {
         "_gdeType_Name": "String",

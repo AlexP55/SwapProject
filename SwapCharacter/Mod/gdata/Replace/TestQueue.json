@@ -2,7 +2,7 @@
     "TestQueue": {
         "_gdeSchema": "EnemyQueue",
         "Enemys": [
-            "LBossFirst"
+            "S1_Pharos_Tanker"
         ]
     }
 }

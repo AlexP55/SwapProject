@@ -29,9 +29,7 @@ namespace SwapCharacter
                 yield return SwapUtils.SwapChars(BChar as BattleAlly, swapAlly as BattleAlly);
                 SaveTargets[ind] = swapAlly;
                 SelfStackDestroy();
-                var extended = new Skill_Extended();
-                extended.PlusSkillStat.Weak = true;
-                skill.ExtendedAdd(extended);
+                skill.ExtendedAdd(new Extended_SwapChar_11_Enemy());
             }
             yield break;
         }

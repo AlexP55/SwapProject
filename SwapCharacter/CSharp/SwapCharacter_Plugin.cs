@@ -15,7 +15,7 @@ namespace SwapCharacter
 
         public const string modname = "SwapCharacter";
 
-        public const string version = "1.0.0";
+        public const string version = "1.0.1";
 
         public const string author = "surprise4u";
 

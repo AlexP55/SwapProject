@@ -1,16 +1,16 @@
 {
     "id": "SwapCharacter",
     "Uploader": "surprise4u",
-    "Visibility": "Private",
+    "Visibility": "Public",
     "Title": "SwapCharacter/Title",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Description": "SwapCharacter/Description",
     "TagList": [
         "Characters"
     ],
     "DefaultAssetBundlePath": "swapcharacterunityassetbundle",
     "WorkShopId": "3444999372",
-    "ChangeNote": "New mod page",
+    "ChangeNote": "- Fix a bug that danger perception will make all sequential attacks not able to reduce healing gauge\n- Update localizations ",
     "OnlyUploadFiles": true,
     "Author": "surprise4u, Mazuko, Ashara",
     "Cover": "SwapCharacterCover.png",
