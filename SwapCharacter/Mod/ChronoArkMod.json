@@ -10,7 +10,7 @@
     ],
     "DefaultAssetBundlePath": "swapcharacterunityassetbundle",
     "WorkShopId": "3444999372",
-    "ChangeNote": "- Fix a bug that danger perception will make all sequential attacks not able to reduce healing gauge\n- Update localizations ",
+    "ChangeNote": "Revert Harmony version to fix cannot load bug",
     "OnlyUploadFiles": true,
     "Author": "surprise4u, Mazuko, Ashara",
     "Cover": "SwapCharacterCover.png",
