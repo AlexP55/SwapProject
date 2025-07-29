@@ -68,5 +68,17 @@ namespace SwapCharacter
                 }
             }
         }
+
+        // Hologram doesn't add Blood Mist curse when dead
+        [HarmonyPrefix]
+        [HarmonyPatch(typeof(BloodyMist), nameof(BloodyMist.SomeOneDead))]
+        static bool BloodyMistSomeOneDeadPrefix(BattleChar DeadChar)
+        {
+            if (DeadChar.BuffFind(ModItemKeys.Buff_B_DummySummon_P))
+            {
+                return false;
+            }
+            return true;
+        }
     }
 }

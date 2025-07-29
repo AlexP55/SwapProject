@@ -3,14 +3,14 @@
     "Uploader": "surprise4u",
     "Visibility": "Public",
     "Title": "SwapCharacter/Title",
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "Description": "SwapCharacter/Description",
     "TagList": [
         "Characters"
     ],
     "DefaultAssetBundlePath": "swapcharacterunityassetbundle",
     "WorkShopId": "3444999372",
-    "ChangeNote": "Revert Harmony version to fix cannot load bug",
+    "ChangeNote": "Hologram ally: now don't add Blood Mist when dead if 'Accumulated Pain' is chosen for BM3.\nImprove localization.",
     "OnlyUploadFiles": true,
     "Author": "surprise4u, Mazuko, Ashara",
     "Cover": "SwapCharacterCover.png",

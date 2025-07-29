@@ -1,10 +1,20 @@
 Key,Type,Desc,Korean,English,Japanese,Chinese,Chinese-TW [zh-tw]
 Buff/B_DummySummon_P_Description,Text,,"HP가 0 이하가 되거나 &a가 전투 불능이 되면 홀로그램이 파괴됩니다.
-일부 보스 스킬의 대상이 될 수 없습니다.","Hologram is destroyed when HP is below 0 or &a faints.
-Can't be targeted by some boss skills.","ホログラムガードは、HPが0になるか、&aが戦闘不能になると破壊されます。
-一部のボススキルのターゲットにはなりません。","全息护卫会在血量归零或&a无法战斗时被摧毁。
-无法被一些boss技能选为目标。","全息護衛會在血量歸零或&a無法戰鬥時被摧毀。
-無法被一些boss技能選為目標。"
+일부 보스 스킬의 대상이 될 수 없습니다.
+
+<color=#919191>전투 불능 시 핏빛 안개 3에서 '고통 중첩'을 선택해도 '핏빛 안개'은 부여되지 않습니다.</color>","Hologram is destroyed when HP is below 0 or &a faints.
+Can't be targeted by some boss skills.
+
+<color=#919191>Won't add 'Blood Mist' when faints if 'Accumulated Pain' is chosen for Blood Mist 3.</color>","ホログラムガードは、HPが0になるか、&aが戦闘不能になると破壊されます。
+一部のボススキルのターゲットにはなりません。
+
+<color=#919191>戦闘不能時、血霧３で「苦痛重複」を選択しても「血霧」は加えません。</color>","全息护卫会在血量归零或&a无法战斗时被摧毁。
+无法被一些boss技能选为目标。
+
+<color=#919191>无法战斗时即使在血雾3选择了“痛苦叠加”也不会添加“血色迷雾”。</color>","全息護衛會在血量歸零或&a無法戰鬥時被摧毀。
+無法被一些boss技能選為目標。
+
+<color=#919191>無法戰鬥時即使在血霧3選擇了「痛苦疊加」也不會添加「血色迷霧」。 </color>"
 Buff/B_DummySummon_P_Name,Text,,홀로그램 가드,Protection Hologram,ホログラムガード,全息护卫,全息護衛
 Buff/B_EquipUnique_SwapChar_Description,Text,,"턴 종료 시, 이번 턴에 받은 피해 횟수에 따라 &a 중첩의 강인함(치유 게이지 보호, 중첩당 +5% 방어력)을 얻습니다.","Receive &a stacks of Tenacity (protect healing gauge, +5% armor per stack) at the end of turn based on num of hits received this turn.",ターン終了時に、このターンに受けたヒット数に基づいて、&aスタックのタフネス（回復ゲージを保護し、スタックごとに+5%の防御力を付与）を受け取ります。,在回合结束时根据本回合被命中次数获得&a层坚韧（保护体力极限，每层+5%防御）。,在回合結束時依本回合被命中次數獲得&a層堅韌（保護體力極限，每層+5%防禦）。
 Buff/B_EquipUnique_SwapChar_Name,Text,,수호의 창,Spear of Protection,ガードの槍,护卫之枪,護衛之槍
@@ -328,7 +338,7 @@ SimpleCampDialogue/CampDial_SwapChar_Ilya_Dialogues_2,Text,,"[A]솔직히, 당�
 SimpleCampDialogue/CampDial_SwapChar_Ilya_Dialogues_3,Text,,"[B]제가 이렇게 약하지 않았다면, 당신이 저를 보호할 필요도 없었을 텐데…","[B]If I weren't so weak, you wouldn't have to protect me…",[B]もし私がこんなに弱くなければ、あなたは私を守らなくてもいいのに…,[B]但如果我没这么弱的话你也不用保护我了...,[B]但如果我沒這麼弱的話你也不用保護我了...
 SimpleCampDialogue/CampDial_SwapChar_Joey_Dialogues_0,Text,,"[A]포션을 더 만들어야 해요, 소비에 맞출 수가 없어요.","[A]Produce more potion, we can barely keep up.",[A]もっとポーションを作って、私たちは消費に追いつけません。,[A]快制作更多的药水，我们跟不上消耗了。,[A]快製作更多的藥水，我們跟不上消耗了。
 SimpleCampDialogue/CampDial_SwapChar_Joey_Dialogues_1,Text,,"[B]만드는 데 시간이 걸려요, 낭비하지 마세요.","[B]It takes time to make them, quit wasting.",[B]作るのに時間がかかるんだ、無駄にするな。,[B]做药很费时间的，不要浪费它们。,[B]做藥很花時間的，不要浪費它們。
-SimpleCampDialogue/CampDial_SwapChar_Joey_Dialogues_2,Text,,[A]그렇게 엘리트는 아니네요? 느려터졌어요.,[A]Not so elite huh? Slowie.,[A]そんなにエリートじゃないんだな？遅いやつ。,[A]看来你还不够精英啊？慢吞吞的家伙。,[A]看來你還不夠菁英啊？慢吞吞的傢伙。
+SimpleCampDialogue/CampDial_SwapChar_Joey_Dialogues_2,Text,,[A]그렇게 엘리트는 아니네요? 느려터졌어요.,[A]Not so elite huh? Slowie.,[A]そんなにエリートじゃないんだな？遅いやつ。,[A]真是慢吞吞的家伙。看来你还不够精英啊？,[A]真是慢吞吞的傢伙。看來你還不夠菁英啊？
 SimpleCampDialogue/CampDial_SwapChar_Joey_Dialogues_3,Text,,[B]으음…,[B]Ugh-,[B]うーん…,[B]呃...,[B]呃...
 SimpleCampDialogue/CampDial_SwapChar_Narhan_Dialogues_0,Text,,"[A]사람들은 당신이 신비롭다고 말하지만, 사실은 그냥 지루해요.","[A]People keep saying that you're mysterious, but really you're just boring.",[A]人々はあなたが神秘的だと言っているが、実際はただ退屈だ。,[A]人们都说你很神秘，但实际上你很无趣。,[A]人們都說你很神秘，但其實你很無聊。
 SimpleCampDialogue/CampDial_SwapChar_Narhan_Dialogues_1,Text,,[B]당신 같은 근육 머리는 이해 못할 거예요.,[B]I wouldn't expect a musclebrain like you to understand.,[B]あなたのような筋肉脳には理解できないだろう。,[B]我不期待一个肌肉脑能理解我。,[B]我不期待一個肌肉腦能理解我。
@@ -338,13 +348,13 @@ SimpleCampDialogue/CampDial_SwapChar_Priest_Dialogues_0,Text,,[A]유연하고 �
 SimpleCampDialogue/CampDial_SwapChar_Priest_Dialogues_1,Text,,[A]방망이를 휘두르는 치유 사제…?,[A]An healing priest wielding a bat..?,[A]バットを振るう癒しの司祭…？,[A]一个拿着球棒的牧师？,[A]一個拿著球棒的牧師？
 SimpleCampDialogue/CampDial_SwapChar_Priest_Dialogues_2,Text,,[A]그건 큰 놀라움이에요.,[A]That's a big surprise.,[A]それは大きな驚きだ。,[A]真是个大惊喜。,[A]真是個大驚喜。
 SimpleCampDialogue/CampDial_SwapChar_Priest_Dialogues_3,Text,,"[B]당신에게는, 그럴지도 모르죠.","[B]For you, maybe.",[B]あなたにとっては、そうかもね。,[B]对你来说，也许是。,[B]對你來說，也許是。
-SimpleCampDialogue/CampDial_SwapChar_Leryn_Dialogues_0,Text,,[A]저에게 더 많은 배리어를 씌워 주세요.,[A]You should put more barrier on me.,[A]もっとバリアをかけてくれ。,[A]你应该给我提供更多的保护罩。,[A]你應該提供我更多的保護罩。
-SimpleCampDialogue/CampDial_SwapChar_Leryn_Dialogues_1,Text,,"[B]차리테, 모든 걸 혼자 하려고 하는 건 건강하지 않아요.","[B]Charite, it's not healthy for you to do everything by yourself.",[B]シャリテ、あなたがすべてを自分でやるのはよくない。,[B]夏丽蒂，你总想自己一个人做好所有事，这是不明智的。,[B]夏麗蒂，你總想自己一個人做好所有事，這是不明智的。
+SimpleCampDialogue/CampDial_SwapChar_Leryn_Dialogues_0,Text,,[A]저에게 더 많은 배리어를 씌워 주세요.,[A]You should put more barrier on me.,[A]もっとバリアをかけてくれ。,[A]你应该给我上更多的保护罩。,[A]你應該給我更多的保護罩。
+SimpleCampDialogue/CampDial_SwapChar_Leryn_Dialogues_1,Text,,"[B]차리테, 모든 걸 혼자 하려고 하는 건 건강하지 않아요.","[B]Charite, it's not healthy for you to do everything by yourself.",[B]シャリテ、あなたがすべてを自分でやるのはよくない。,[B]夏丽蒂，你总想自己一个人做完所有事，这是不明智的。,[B]夏麗蒂，你總想自己一個人做完所有事，這是不明智的。
 SimpleCampDialogue/CampDial_SwapChar_Leryn_Dialogues_2,Text,,[A]모든 걸 혼자 하는 건 아니에요.,[A]I'm not doing everything by myself.,[A]すべてを自分でやっているわけじゃない。,[A]我没有一个人做所有事。,[A]我沒有一個人做所有事。
 SimpleCampDialogue/CampDial_SwapChar_Leryn_Dialogues_3,Text,,"[A]당신이 배리어를 씌우면, 나머지는 제가 할게요.",[A]You put barriers onto me and I do the rest.,[A]あなたがバリアをかけて、残りは私がやる。,[A]你给我套护盾，我做剩下的事。,[A]你給我套護盾，我做剩下的事。
 SimpleCampDialogue/CampDial_SwapChar_Sizz_Dialogues_0,Text,,"[B]차리테 씨, 재킷이 찢어졌어요.",[B]Miss Charite I think you ripped your jacket.,[B]シャリテさん、ジャケットが破れているようです。,[B]夏丽蒂女士，你的外套裂开了。,[B]夏麗蒂女士，妳的外套裂開了。
 SimpleCampDialogue/CampDial_SwapChar_Sizz_Dialogues_1,Text,,"[A]자주 있는 일이에요, 제가 처리할게요.","[A]It happens, I can deal with it.",[A]よくあることだ、自分で何とかするよ。,[A]常有的事，我自己能处理。,[A]常有的事，我自己能處理。
-SimpleCampDialogue/CampDial_SwapChar_Sizz_Dialogues_2,Text,,"[B]혼자 감당하지 마세요, 제가 꿰매 드릴게요.","[B]Don't bear it like that, let me sew it up.",[B]一人で抱え込まないで、私が縫い上げるよ。,[B]不用独自承受，让我来把它缝好。,[B]不用獨自承受，讓我來把它縫好。
+SimpleCampDialogue/CampDial_SwapChar_Sizz_Dialogues_2,Text,,"[B]혼자 감당하지 마세요, 제가 꿰매 드릴게요.","[B]Don't bear it like that, let me sew it up.",[B]一人で抱え込まないで、私が縫い上げるよ。,[B]不要独自承担一切，我来把它缝好。,[B]不要獨自承擔一切，我來把它縫好。
 SimpleCampDialogue/CampDial_SwapChar_Sizz_Dialogues_3,Text,,[A]고마워요…,[A]Thanks…,[A]ありがとう…,[A]谢谢...,[A]謝謝...
 SimpleCampDialogue/CampDial_SwapChar_Johan_Dialogues_0,Text,,"[B]많은 군인들이 종교적이라고 들었는데, 당신도 그런가요?","[B]I've heard a lot of soldiers are religious, are you?",[B]多くの兵士が宗教的だと聞いたけど、あなたは？,[B]我听说很多士兵都有宗教信仰，你有吗？,[B]我聽說很多士兵都有宗教信仰，你有嗎？
 SimpleCampDialogue/CampDial_SwapChar_Johan_Dialogues_1,Text,,"[A]아니요, 왜 그런 질문을 하시나요?","[A]Not really, why do you ask?",[A]そうでもない、なぜそんなことを聞くの？,[A]没有。为什么这么问？,[A]沒有。為什麼這麼問？
@@ -354,7 +364,7 @@ SimpleCampDialogue/CampDial_SwapChar_Huz_Dialogues_0,Text,,[A]저 토끼.,[A]Tha
 SimpleCampDialogue/CampDial_SwapChar_Huz_Dialogues_1,Text,,[B]왜요?,[B]What about it?,[B]どうしたの？,[B]它怎么了？,[B]牠怎麼了？
 SimpleCampDialogue/CampDial_SwapChar_Huz_Dialogues_2,Text,,[A]…귀여워요.,[A]…It's cute.,[A]…かわいいね。,[A]...很可爱。,[A]...很可愛。
 SimpleCampDialogue/CampDial_SwapChar_Azar_Dialogues_0,Text,,[A]당신의 검에는 무게가 없어요.,[A]Your swords have no weight to them.,[A]あなたの剣には重みがない。,[A]你的剑没有力量。,[A]你的劍沒有力量。
-SimpleCampDialogue/CampDial_SwapChar_Azar_Dialogues_1,Text,,[B]그래도 당신의 창보다는 강해요.,[B]Yet they'd still beat your spear.,[B]それでもあなたの槍より強いよ。,[B]即便如此它们也比你的枪强。,[B]即便如此它們也比你的槍強。
+SimpleCampDialogue/CampDial_SwapChar_Azar_Dialogues_1,Text,,[B]그래도 당신의 창보다는 강해요.,[B]Yet they'd still beat your spear.,[B]それでもあなたの槍より強いよ。,[B]即便如此也比你的枪强。,[B]即便如此也比你的槍強。
 SimpleCampDialogue/CampDial_SwapChar_Azar_Dialogues_2,Text,,[A]오? 한번 해볼래요?,[A]Oh? Wanna try it out?,[A]ああ？試してみるか？,[A]哦？想试试？,[A]哦？想試試？
 SimpleCampDialogue/CampDial_SwapChar_Pheonix_Dialogues_0,Text,,[A]그래서 페니ックス,"[A]So Phoenix, you are immortal right?",[A]だからフェニックス、あなたは不死身なんだよね？,[A]所以凤凰，你是无敌的是吧？,[A]所以鳳凰，你是無敵的是吧？
 SimpleCampDialogue/CampDial_SwapChar_Pheonix_Dialogues_1,Text,,[B]그래! 나는 위대한 불사조 페니ックス야! 어떤 피해를 입어도 재에서 다시 일어날 거야!,"[B]Indeed! I am the grand immortal Phoenix! I will always rise from my ashes, no matter the damage!",[B]その通り！私は偉大なる不死鳥フェニックス！どんなダメージを受けても、灰からよみがえる！,[B]没错！我是伟大不朽的凤凰！无论受到多少伤害，我都能从灰烬中重生！,[B]沒錯！我是偉大不朽的鳳凰！無論受到多少傷害，我都能從灰燼中重生！
